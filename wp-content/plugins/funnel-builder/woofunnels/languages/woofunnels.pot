@@ -1,0 +1,7352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-03T12:36:46+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: woofunnels\n"
+
+#: as-data-store/class-woofunnels-as-ds.php:160
+msgid "Every minute"
+msgstr ""
+
+#: as-data-store/class-woofunnels-as-ds.php:378
+#: as-data-store/class-woofunnels-as-ds.php:425
+#: as-data-store/class-woofunnels-as-ds.php:473
+#: as-data-store/class-woofunnels-as-ds.php:555
+#: as-data-store/class-woofunnels-as-ds.php:592
+#: as-data-store/class-woofunnels-as-ds.php:623
+msgid "Method is called before plugins_loaded hook."
+msgstr ""
+
+#: as-data-store/class-woofunnels-as-ds.php:383
+#: as-data-store/class-woofunnels-as-ds.php:430
+msgid "Action Scheduler class not found."
+msgstr ""
+
+#: as-data-store/class-woofunnels-as-ds.php:388
+#: as-data-store/class-woofunnels-as-ds.php:435
+#: as-data-store/class-woofunnels-as-ds.php:478
+#: as-data-store/class-woofunnels-as-ds.php:513
+#: as-data-store/class-woofunnels-as-ds.php:560
+#: as-data-store/class-woofunnels-as-ds.php:628
+msgid "Hook is a required entity."
+msgstr ""
+
+#: as-data-store/class-woofunnels-as-ds.php:494
+msgid "No actions found for data: "
+msgstr ""
+
+#: as-data-store/class-woofunnels-as-ds.php:597
+msgid "Action ID is required."
+msgstr ""
+
+#: compatibilities/class-bwf-wc-compatibility.php:80
+msgid "No title"
+msgstr ""
+
+#: connector/class-wfco-admin.php:136
+msgid "Connector not found"
+msgstr ""
+
+#: connector/class-wfco-admin.php:137
+msgid "FunnelKit Automations license is required in order to install a connector"
+msgstr ""
+
+#: connector/class-wfco-admin.php:138
+msgid "FunnelKit Automations license is invalid, kindly contact woofunnels team."
+msgstr ""
+
+#: connector/class-wfco-admin.php:139
+msgid "FunnelKit Automations license is expired, kindly renew and activate it first."
+msgstr ""
+
+#: connector/class-wfco-admin.php:146
+msgid "Text Copied"
+msgstr ""
+
+#: connector/class-wfco-admin.php:147
+msgid "Sync Connector"
+msgstr ""
+
+#: connector/class-wfco-admin.php:148
+msgid "All the data of this Connector will be Synced."
+msgstr ""
+
+#: connector/class-wfco-admin.php:149
+#: connector/class-wfco-admin.php:161
+msgid "Please Wait..."
+msgstr ""
+
+#: connector/class-wfco-admin.php:150
+msgid "Sync in progress..."
+msgstr ""
+
+#: connector/class-wfco-admin.php:151
+msgid "Connector Synced"
+msgstr ""
+
+#: connector/class-wfco-admin.php:152
+msgid "We have detected change in the connector during syncing. Please re-save the Automations."
+msgstr ""
+
+#: connector/class-wfco-admin.php:153
+msgid "Oops"
+msgstr ""
+
+#: connector/class-wfco-admin.php:154
+#: connector/class-wfco-admin.php:155
+#: connector/class-wfco-admin.php:156
+msgid "There was some error. Please try again later."
+msgstr ""
+
+#: connector/class-wfco-admin.php:157
+msgid "Connector Updated"
+msgstr ""
+
+#: connector/class-wfco-admin.php:158
+msgid "We have detected change in the connector during updating. Please re-save the Automations."
+msgstr ""
+
+#: connector/class-wfco-admin.php:159
+msgid "Disconnecting Connector?"
+msgstr ""
+
+#: connector/class-wfco-admin.php:160
+msgid "All the action, tasks, logs of this connector will be deleted."
+msgstr ""
+
+#: connector/class-wfco-admin.php:162
+msgid "Disconnecting the connector ..."
+msgstr ""
+
+#: connector/class-wfco-admin.php:163
+msgid "Connector Disconnected"
+msgstr ""
+
+#: connector/class-wfco-admin.php:164
+msgid "Update"
+msgstr ""
+
+#: connector/class-wfco-admin.php:165
+msgid "Saving in progress..."
+msgstr ""
+
+#: connector/class-wfco-admin.php:166
+msgid "Updating..."
+msgstr ""
+
+#: connector/class-wfco-admin.php:167
+msgid "Connecting..."
+msgstr ""
+
+#: connector/class-wfco-call.php:95
+msgid "CURL Error"
+msgstr ""
+
+#: connector/class-wfco-connector.php:178
+msgid "Connector saved successfully"
+msgstr ""
+
+#: connector/class-wfco-connector.php:179
+msgid "Connector synced successfully"
+msgstr ""
+
+#: connector/class-wfco-connector.php:180
+msgid "Connector updated successfully"
+msgstr ""
+
+#: connector/class-wfco-connector.php:181
+msgid "Connector settings missing"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:199
+#: contact/class-woofunnels-db-updater.php:215
+#: contact/class-woofunnels-db-updater.php:231
+#: contact/class-woofunnels-db-updater.php:1123
+#: includes/class-woofunnels-admin-notifications.php:44
+#: includes/class-woofunnels-process.php:62
+#: includes/class-woofunnels-process.php:156
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:203
+#: contact/class-woofunnels-db-updater.php:219
+#: contact/class-woofunnels-db-updater.php:235
+#: contact/class-woofunnels-db-updater.php:1127
+msgid "You don&#8217;t have permission to do this."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:278
+msgid "Indexing of orders has started"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:279
+msgid "It may take sometime to finish the process. We will update this notice once the process completes."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:291
+msgid "Success"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:292
+msgid "Order indexing completed successfully."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:296
+#: contact/class-woofunnels-db-updater.php:315
+#: includes/class-woofunnels-process.php:113
+msgid "Dismiss"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:309
+msgid "FunnelKit Notice"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:310
+msgid "Unable to complete indexing of orders. Please <a target=\"_blank\" href=\"%s\">contact support</a> to get the issue resolved."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:314
+msgid "Contact Support"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:805
+msgid "Index Past Orders"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:808
+msgid "Unable to complete indexing of orders."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:809
+msgid "Please"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:810
+msgid "contact support"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:810
+msgid " to get the issue resolved."
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:813
+msgid "Learn more about this process"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:817
+msgid "Running"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:819
+msgid "Completed"
+msgstr ""
+
+#: contact/class-woofunnels-db-updater.php:822
+#: contact/class-woofunnels-db-updater.php:827
+msgid "Start"
+msgstr ""
+
+#: helpers/settings.php:9
+#: helpers/settings.php:10
+msgid "License"
+msgstr ""
+
+#: helpers/settings.php:16
+msgid "Default Page Builder"
+msgstr ""
+
+#: helpers/settings.php:32
+msgid "Set Funnel as Homepage"
+msgstr ""
+
+#: helpers/settings.php:34
+msgid "Select the Funnel page you want to set as the Homepage. <a href='%s'>Go to WordPress Settings</a>"
+msgstr ""
+
+#: helpers/settings.php:40
+#: helpers/settings.php:41
+#: includes/class-bwf-admin-general-settings.php:81
+#: includes/class-bwf-admin-general-settings.php:330
+msgid "Permalinks"
+msgstr ""
+
+#: helpers/settings.php:47
+#: helpers/settings.php:48
+msgid "Google Maps"
+msgstr ""
+
+#: helpers/settings.php:55
+msgid "Enter the Google Maps API key for Google Address AutoComplete on Checkout. <a href=\"https://funnelkit.com/google-address-autocomplete-for-woocommerce/?utm_source=WordPress&utm_campaign=Lite+Plugin&utm_medium=Settings+Google+Map+Api+Key\" target=\"_blank\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:62
+#: helpers/settings.php:63
+#: includes/class-bwf-admin-general-settings.php:85
+#: includes/class-bwf-admin-general-settings.php:326
+msgid "Facebook Pixel"
+msgstr ""
+
+#: helpers/settings.php:68
+#: helpers/settings.php:1293
+msgid "Pixel ID"
+msgstr ""
+
+#: helpers/settings.php:70
+msgid "294123501257422"
+msgstr ""
+
+#: helpers/settings.php:71
+msgid "Log into your Facebook ads account to find your Pixel ID. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/how-to/configure-facebook-conversion-api/#step-4-go-to-settings\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:78
+msgid "Send events directly from server to Facebook through the Conversion API. An access token is required to use the server-side API. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/facebook-conversion-api/\">Generate Access Token</a>"
+msgstr ""
+
+#: helpers/settings.php:81
+msgid "Enable Conversion API"
+msgstr ""
+
+#: helpers/settings.php:91
+msgid "EAAJkZC3UfZBwBAJm8ZAqFmZAjOZA4eZBZAfdZAkZCZA3hCZAjBZCpZA5ZAjVZBmZA0ZBZAaZAfLZA2eZA5ZBZBZCZA4ZAuVZB4ZAfPZAejZAjMeZAjHZCZAfLZAkZAjZAZCZA1ZAjBZA3ZCZAeZAf9ZAkZAgZDZD"
+msgstr ""
+
+#: helpers/settings.php:102
+msgid "Use test_event_code to verify server-side events. <strong>Uncheck this option after testing</strong>."
+msgstr ""
+
+#: helpers/settings.php:107
+msgid "Test server events via test_event_code"
+msgstr ""
+
+#: helpers/settings.php:122
+msgid "<a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/facebook-conversion-api/#step-1-select-your-pixel-id-and-go-to-%E2%80%9Ctest-events%E2%80%9D\">Learn how to get test_event_code</a>"
+msgstr ""
+
+#: helpers/settings.php:123
+msgid "Paste your test_event_code here"
+msgstr ""
+
+#: helpers/settings.php:133
+msgid "Use this option to log API request & response. <strong>Uncheck this option after testing</strong>.  <a target=\"_blank\" href=\""
+msgstr ""
+
+#: helpers/settings.php:136
+msgid "Enable Purchase Event Logs"
+msgstr ""
+
+#: helpers/settings.php:149
+#: helpers/settings.php:453
+#: helpers/settings.php:693
+#: helpers/settings.php:916
+#: helpers/settings.php:1148
+#: helpers/settings.php:1303
+msgid "Site Wide Events"
+msgstr ""
+
+#: helpers/settings.php:154
+#: helpers/settings.php:177
+#: helpers/settings.php:188
+#: helpers/settings.php:238
+#: helpers/settings.php:265
+#: helpers/settings.php:458
+#: helpers/settings.php:483
+#: helpers/settings.php:494
+#: helpers/settings.php:545
+#: helpers/settings.php:571
+#: helpers/settings.php:698
+#: helpers/settings.php:721
+#: helpers/settings.php:732
+#: helpers/settings.php:784
+#: helpers/settings.php:800
+#: helpers/settings.php:921
+#: helpers/settings.php:945
+#: helpers/settings.php:957
+#: helpers/settings.php:1009
+#: helpers/settings.php:1031
+#: helpers/settings.php:1153
+#: helpers/settings.php:1176
+#: helpers/settings.php:1187
+#: helpers/settings.php:1219
+#: helpers/settings.php:1241
+#: helpers/settings.php:1308
+#: helpers/settings.php:1325
+#: helpers/settings.php:1336
+#: helpers/settings.php:1369
+msgid "Enable PageView Event"
+msgstr ""
+
+#: helpers/settings.php:156
+#: helpers/settings.php:460
+#: helpers/settings.php:700
+#: helpers/settings.php:923
+#: helpers/settings.php:1155
+#: helpers/settings.php:1310
+msgid "Use this option to fire PageView event on all site pages"
+msgstr ""
+
+#: helpers/settings.php:161
+#: helpers/settings.php:217
+#: helpers/settings.php:250
+#: helpers/settings.php:466
+#: helpers/settings.php:523
+#: helpers/settings.php:551
+#: helpers/settings.php:705
+#: helpers/settings.php:761
+#: helpers/settings.php:987
+#: helpers/settings.php:1203
+#: helpers/settings.php:1315
+#: helpers/settings.php:1354
+msgid "Enable AddtoCart Event"
+msgstr ""
+
+#: helpers/settings.php:163
+#: helpers/settings.php:468
+#: helpers/settings.php:707
+#: helpers/settings.php:936
+#: helpers/settings.php:1162
+#: helpers/settings.php:1317
+msgid "Use this option to fire AddtoCart event when customer add items to the cart"
+msgstr ""
+
+#: helpers/settings.php:167
+#: helpers/settings.php:1166
+msgid "Enable ViewContent Event"
+msgstr ""
+
+#: helpers/settings.php:169
+#: helpers/settings.php:1168
+msgid "Use this option to fire ViewContent event on product pages"
+msgstr ""
+
+#: helpers/settings.php:173
+#: helpers/settings.php:480
+#: helpers/settings.php:717
+#: helpers/settings.php:941
+#: helpers/settings.php:1172
+#: helpers/settings.php:1321
+msgid "Sales Page Events"
+msgstr ""
+
+#: helpers/settings.php:184
+#: helpers/settings.php:491
+#: helpers/settings.php:728
+#: helpers/settings.php:953
+#: helpers/settings.php:1183
+#: helpers/settings.php:1332
+msgid "Optin Page Events"
+msgstr ""
+
+#: helpers/settings.php:199
+#: helpers/settings.php:505
+#: helpers/settings.php:743
+#: helpers/settings.php:969
+msgid "Enable Lead Event"
+msgstr ""
+
+#: helpers/settings.php:209
+#: helpers/settings.php:515
+#: helpers/settings.php:753
+#: helpers/settings.php:979
+#: helpers/settings.php:1195
+#: helpers/settings.php:1346
+msgid "Order Bump Events"
+msgstr ""
+
+#: helpers/settings.php:218
+msgid "Fire \"AddToCart\" event when user accepts the order bump"
+msgstr ""
+
+#: helpers/settings.php:224
+#: helpers/settings.php:530
+#: helpers/settings.php:768
+#: helpers/settings.php:994
+msgid "Enable Order Bump Conversion Event"
+msgstr ""
+
+#: helpers/settings.php:225
+#: helpers/settings.php:531
+#: helpers/settings.php:769
+#: helpers/settings.php:995
+msgid "Fire \"Woofunnels_Bump\" custom event when user accepts the order bump"
+msgstr ""
+
+#: helpers/settings.php:232
+#: helpers/settings.php:539
+#: helpers/settings.php:777
+#: helpers/settings.php:1002
+#: helpers/settings.php:1212
+#: helpers/settings.php:1362
+msgid "Checkout Events"
+msgstr ""
+
+#: helpers/settings.php:244
+#: helpers/settings.php:1022
+#: helpers/settings.php:1232
+#: helpers/settings.php:1381
+msgid "Enable InitiateCheckout Event"
+msgstr ""
+
+#: helpers/settings.php:256
+#: helpers/settings.php:561
+msgid "Enable AddPaymentInfo Event"
+msgstr ""
+
+#: helpers/settings.php:262
+#: helpers/settings.php:568
+#: helpers/settings.php:797
+#: helpers/settings.php:1028
+#: helpers/settings.php:1238
+#: helpers/settings.php:1387
+msgid "Purchase Events"
+msgstr ""
+
+#: helpers/settings.php:274
+msgid "Note: FunnelKit will send total order value and store currency based on order. <a target=\"_blank\" href=\"https://developers.facebook.com/docs/facebook-pixel/pixel-with-ads/conversion-tracking#add-value\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:277
+#: helpers/settings.php:582
+#: helpers/settings.php:1042
+#: helpers/settings.php:1390
+msgid "Enable Purchase Event"
+msgstr ""
+
+#: helpers/settings.php:288
+msgid "Use the GeneralEvent for your Custom Audiences and Custom Conversions."
+msgstr ""
+
+#: helpers/settings.php:291
+msgid "Enable General Event"
+msgstr ""
+
+#: helpers/settings.php:301
+msgid "General Event Name"
+msgstr ""
+
+#: helpers/settings.php:302
+msgid "Customize the name of general event."
+msgstr ""
+
+#: helpers/settings.php:312
+#: helpers/settings.php:590
+#: helpers/settings.php:821
+#: helpers/settings.php:1050
+msgid "Track Steps"
+msgstr ""
+
+#: helpers/settings.php:317
+#: helpers/settings.php:595
+#: helpers/settings.php:826
+#: helpers/settings.php:1055
+msgid "Enable Custom Funnel Step Event"
+msgstr ""
+
+#: helpers/settings.php:318
+#: helpers/settings.php:596
+#: helpers/settings.php:827
+msgid "Fire \"Woofunnels_Sales\", \"Woofunnels_Checkout\", \"Woofunnels_Upsell\", \"Woofunnels_Downsell\", \"Woofunnels_Thankyou\", \"Woofunnels_Optin\" & \"Woofunnels_OptinConfirmation\" respectively when user visits the page."
+msgstr ""
+
+#: helpers/settings.php:328
+#: helpers/settings.php:604
+#: helpers/settings.php:836
+#: helpers/settings.php:1065
+#: helpers/settings.php:1271
+#: helpers/settings.php:1398
+msgid "Advanced"
+msgstr ""
+
+#: helpers/settings.php:335
+msgid "Note: Your Product catalog must be synced with Facebook. <a target=\"_blank\" href=\"https://developers.facebook.com/docs/facebook-pixel/get-started/dynamic-ads\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:339
+msgid "Enable Content Settings for Dynamic Ads"
+msgstr ""
+
+#: helpers/settings.php:347
+#: helpers/settings.php:610
+#: helpers/settings.php:842
+#: helpers/settings.php:1071
+#: helpers/settings.php:1277
+#: helpers/settings.php:1404
+msgid "Enable this to send parent product ID for variable products"
+msgstr ""
+
+#: helpers/settings.php:348
+#: helpers/settings.php:611
+#: helpers/settings.php:843
+#: helpers/settings.php:1072
+#: helpers/settings.php:1278
+#: helpers/settings.php:1405
+msgid "Turn this option ON when your Product Catalog doesn't include the variants for variable products."
+msgstr ""
+
+#: helpers/settings.php:362
+#: helpers/settings.php:621
+#: helpers/settings.php:853
+#: helpers/settings.php:1082
+msgid "Select content id parameter"
+msgstr ""
+
+#: helpers/settings.php:363
+#: helpers/settings.php:622
+#: helpers/settings.php:854
+#: helpers/settings.php:1083
+msgid "Product ID"
+msgstr ""
+
+#: helpers/settings.php:364
+#: helpers/settings.php:623
+#: helpers/settings.php:855
+#: helpers/settings.php:1084
+msgid "Product SKU"
+msgstr ""
+
+#: helpers/settings.php:378
+#: helpers/settings.php:633
+#: helpers/settings.php:865
+#: helpers/settings.php:1094
+msgid "Content ID Prefix"
+msgstr ""
+
+#: helpers/settings.php:379
+#: helpers/settings.php:634
+#: helpers/settings.php:866
+#: helpers/settings.php:1095
+msgid "Add prefix to the content_id parameter (optional)"
+msgstr ""
+
+#: helpers/settings.php:390
+msgid "Content id suffix"
+msgstr ""
+
+#: helpers/settings.php:391
+#: helpers/settings.php:642
+#: helpers/settings.php:874
+#: helpers/settings.php:1103
+msgid "Add suffix to the content_id parameter (optional)"
+msgstr ""
+
+#: helpers/settings.php:402
+#: helpers/settings.php:649
+#: helpers/settings.php:881
+#: helpers/settings.php:1110
+msgid "Check above boxes to exclude shipping/taxes from the total."
+msgstr ""
+
+#: helpers/settings.php:405
+#: helpers/settings.php:652
+#: helpers/settings.php:884
+#: helpers/settings.php:1113
+msgid "Exclude Shipping from Total"
+msgstr ""
+
+#: helpers/settings.php:409
+#: helpers/settings.php:656
+#: helpers/settings.php:888
+#: helpers/settings.php:1117
+msgid "Exclude Taxes from Total"
+msgstr ""
+
+#: helpers/settings.php:424
+msgid "Note: FunnelKit will send customer's email, name, phone, address fields whichever available in the order. <a target=\"_blank\" href=\"https://developers.facebook.com/docs/facebook-pixel/pixel-with-ads/conversion-tracking#advanced_match\">Learn More"
+msgstr ""
+
+#: helpers/settings.php:427
+msgid "Enable Advanced Matching With the Pixel"
+msgstr ""
+
+#: helpers/settings.php:438
+#: helpers/settings.php:439
+#: includes/class-bwf-admin-general-settings.php:89
+#: includes/class-bwf-admin-general-settings.php:327
+msgid "Google Analytics"
+msgstr ""
+
+#: helpers/settings.php:445
+msgid "Analytics ID"
+msgstr ""
+
+#: helpers/settings.php:446
+msgid "G-9F3K2TGHH4"
+msgstr ""
+
+#: helpers/settings.php:447
+msgid "Log into your Google Analytics account to find your Analytics ID. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/how-to/set-up-google-analytics-4-property/\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:472
+#: helpers/settings.php:711
+msgid "Enable ViewItem Event"
+msgstr ""
+
+#: helpers/settings.php:474
+#: helpers/settings.php:713
+msgid "Use this option to fire ViewItem event on product pages"
+msgstr ""
+
+#: helpers/settings.php:524
+#: helpers/settings.php:762
+#: helpers/settings.php:988
+msgid "This event will fire when user accepts the order bump"
+msgstr ""
+
+#: helpers/settings.php:556
+msgid "Enable BeginCheckout Event"
+msgstr ""
+
+#: helpers/settings.php:641
+#: helpers/settings.php:873
+#: helpers/settings.php:1102
+msgid "Content ID Suffix"
+msgstr ""
+
+#: helpers/settings.php:669
+#: helpers/settings.php:670
+#: includes/class-bwf-admin-general-settings.php:96
+#: includes/class-bwf-admin-general-settings.php:328
+msgid "Google Ads"
+msgstr ""
+
+#: helpers/settings.php:676
+msgid "Conversion ID"
+msgstr ""
+
+#: helpers/settings.php:677
+msgid "AW-837491263"
+msgstr ""
+
+#: helpers/settings.php:678
+msgid "Log into your Google Ads account to find your Conversion ID. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/google-ads/#step-1-go-to-your-google-ads-account\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:684
+msgid "Conversion Label"
+msgstr ""
+
+#: helpers/settings.php:685
+msgid "LkP4CIKm59UBEP7n3t4C"
+msgstr ""
+
+#: helpers/settings.php:686
+msgid "Log into your Google Ads account to find your conversion label. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/google-ads/#step-4-set-up-the-conversion-for-your-google-ads-account\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:791
+#: helpers/settings.php:934
+#: helpers/settings.php:1016
+#: helpers/settings.php:1160
+#: helpers/settings.php:1226
+#: helpers/settings.php:1376
+msgid "Enable AddToCart Event"
+msgstr ""
+
+#: helpers/settings.php:811
+msgid "Enable Conversion Event"
+msgstr ""
+
+#: helpers/settings.php:901
+#: helpers/settings.php:902
+#: includes/class-bwf-admin-general-settings.php:102
+#: includes/class-bwf-admin-general-settings.php:329
+msgid "Pinterest"
+msgstr ""
+
+#: helpers/settings.php:908
+msgid "Tag ID"
+msgstr ""
+
+#: helpers/settings.php:909
+msgid "2614535298742"
+msgstr ""
+
+#: helpers/settings.php:910
+msgid "Log into your Pinterest Ads Manager Account and find Pixel ID. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/pinterest/\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:928
+msgid "Enable PageVisit Event"
+msgstr ""
+
+#: helpers/settings.php:930
+msgid "Use this option to fire PageVisit event on product pages"
+msgstr ""
+
+#: helpers/settings.php:1056
+msgid "Fire \"Woofunnels_Sales\", \"Woofunnels_Checkout\", \"Woofunnels_Upsell\", \"Woofunnels_Downsell\", \"Woofunnels_Thankyou\", \"Woofunnels_Optin\", \"Woofunnels_OptinConfirmation\" respectively when user visits the page."
+msgstr ""
+
+#: helpers/settings.php:1131
+#: helpers/settings.php:1132
+#: includes/class-bwf-admin-general-settings.php:109
+msgid "TikTok"
+msgstr ""
+
+#: helpers/settings.php:1138
+msgid "TikTok ID"
+msgstr ""
+
+#: helpers/settings.php:1139
+msgid "D4L9N62FLPENAMTU4HG9"
+msgstr ""
+
+#: helpers/settings.php:1140
+msgid "Log into your Tiktok Business Account and find TikTok ID. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/tiktok/\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:1204
+#: helpers/settings.php:1355
+msgid "Fire this event when user accepts the order bump"
+msgstr ""
+
+#: helpers/settings.php:1252
+msgid "Enable PlaceOrder Event"
+msgstr ""
+
+#: helpers/settings.php:1263
+msgid "Enable CompletePayment Event"
+msgstr ""
+
+#: helpers/settings.php:1286
+#: helpers/settings.php:1287
+#: includes/class-bwf-admin-general-settings.php:115
+#: includes/class-bwf-admin-general-settings.php:332
+msgid "Snapchat"
+msgstr ""
+
+#: helpers/settings.php:1294
+msgid "7fc81b23-8e1c-4fde-b2bf-e3f67a19d2fa"
+msgstr ""
+
+#: helpers/settings.php:1295
+msgid "Log into your Snapchat Business Account and find Pixel ID. <a target=\"_blank\" href=\"https://funnelkit.com/docs/funnel-builder/global-settings/snapchat/\">Learn More</a>"
+msgstr ""
+
+#: helpers/settings.php:1412
+#: helpers/settings.php:1413
+msgid "First Party Tracking"
+msgstr ""
+
+#: helpers/settings.php:1419
+#: includes/class-bwf-ecomm-tracking-common.php:842
+msgid "Conversion Tracking"
+msgstr ""
+
+#: helpers/settings.php:1425
+msgid "In the lite version, you manage UTM tracking with third-party tools. In the Pro version, we store UTM information and provide real-time analytics."
+msgstr ""
+
+#: helpers/settings.php:1434
+msgid "Theme CSS and JavaScript"
+msgstr ""
+
+#: helpers/settings.php:1435
+msgid "Enabling this setting will apply theme CSS and JavaScript for FunnelKit canvas and FunnelKit Boxed made template"
+msgstr ""
+
+#: helpers/settings.php:1441
+msgid "Enable theme CSS and JavaScript"
+msgstr ""
+
+#: helpers/settings.php:1446
+msgid "Checkout"
+msgstr ""
+
+#: helpers/settings.php:1450
+msgid "Sales"
+msgstr ""
+
+#: helpers/settings.php:1454
+msgid "One Click Upsell Offer"
+msgstr ""
+
+#: helpers/settings.php:1459
+msgid "Thank you"
+msgstr ""
+
+#: helpers/settings.php:1464
+msgid "Optin"
+msgstr ""
+
+#: helpers/settings.php:1468
+msgid "Optin Confirmation"
+msgstr ""
+
+#: helpers/settings.php:1472
+msgid "Select All Steps"
+msgstr ""
+
+#: helpers/states.php:18
+msgid "Bengo"
+msgstr ""
+
+#: helpers/states.php:19
+msgid "Benguela"
+msgstr ""
+
+#: helpers/states.php:20
+msgid "Bié"
+msgstr ""
+
+#: helpers/states.php:21
+msgid "Cabinda"
+msgstr ""
+
+#: helpers/states.php:22
+msgid "Cunene"
+msgstr ""
+
+#: helpers/states.php:23
+msgid "Huambo"
+msgstr ""
+
+#: helpers/states.php:24
+msgid "Huíla"
+msgstr ""
+
+#: helpers/states.php:25
+msgid "Kuando Kubango"
+msgstr ""
+
+#: helpers/states.php:26
+msgid "Kwanza-Norte"
+msgstr ""
+
+#: helpers/states.php:27
+msgid "Kwanza-Sul"
+msgstr ""
+
+#: helpers/states.php:28
+msgid "Luanda"
+msgstr ""
+
+#: helpers/states.php:29
+msgid "Lunda-Norte"
+msgstr ""
+
+#: helpers/states.php:30
+msgid "Lunda-Sul"
+msgstr ""
+
+#: helpers/states.php:31
+msgid "Malanje"
+msgstr ""
+
+#: helpers/states.php:32
+msgid "Moxico"
+msgstr ""
+
+#: helpers/states.php:33
+msgid "Namibe"
+msgstr ""
+
+#: helpers/states.php:34
+msgid "Uíge"
+msgstr ""
+
+#: helpers/states.php:35
+msgid "Zaire"
+msgstr ""
+
+#: helpers/states.php:38
+msgid "Ciudad Autónoma de Buenos Aires"
+msgstr ""
+
+#: helpers/states.php:39
+msgid "Buenos Aires"
+msgstr ""
+
+#: helpers/states.php:40
+msgid "Catamarca"
+msgstr ""
+
+#: helpers/states.php:41
+msgid "Chaco"
+msgstr ""
+
+#: helpers/states.php:42
+msgid "Chubut"
+msgstr ""
+
+#: helpers/states.php:43
+#: helpers/states.php:406
+msgid "Córdoba"
+msgstr ""
+
+#: helpers/states.php:44
+msgid "Corrientes"
+msgstr ""
+
+#: helpers/states.php:45
+msgid "Entre Ríos"
+msgstr ""
+
+#: helpers/states.php:46
+msgid "Formosa"
+msgstr ""
+
+#: helpers/states.php:47
+msgid "Jujuy"
+msgstr ""
+
+#: helpers/states.php:48
+msgid "La Pampa"
+msgstr ""
+
+#: helpers/states.php:49
+#: helpers/states.php:415
+msgid "La Rioja"
+msgstr ""
+
+#: helpers/states.php:50
+msgid "Mendoza"
+msgstr ""
+
+#: helpers/states.php:51
+#: helpers/states.php:1232
+msgid "Misiones"
+msgstr ""
+
+#: helpers/states.php:52
+msgid "Neuquén"
+msgstr ""
+
+#: helpers/states.php:53
+msgid "Río Negro"
+msgstr ""
+
+#: helpers/states.php:54
+msgid "Salta"
+msgstr ""
+
+#: helpers/states.php:55
+msgid "San Juan"
+msgstr ""
+
+#: helpers/states.php:56
+msgid "San Luis"
+msgstr ""
+
+#: helpers/states.php:57
+#: helpers/states.php:196
+msgid "Santa Cruz"
+msgstr ""
+
+#: helpers/states.php:58
+msgid "Santa Fe"
+msgstr ""
+
+#: helpers/states.php:59
+msgid "Santiago del Estero"
+msgstr ""
+
+#: helpers/states.php:60
+msgid "Tierra del Fuego"
+msgstr ""
+
+#: helpers/states.php:61
+msgid "Tucumán"
+msgstr ""
+
+#: helpers/states.php:65
+msgid "Australian Capital Territory"
+msgstr ""
+
+#: helpers/states.php:66
+msgid "New South Wales"
+msgstr ""
+
+#: helpers/states.php:67
+msgid "Northern Territory"
+msgstr ""
+
+#: helpers/states.php:68
+msgid "Queensland"
+msgstr ""
+
+#: helpers/states.php:69
+msgid "South Australia"
+msgstr ""
+
+#: helpers/states.php:70
+msgid "Tasmania"
+msgstr ""
+
+#: helpers/states.php:71
+msgid "Victoria"
+msgstr ""
+
+#: helpers/states.php:72
+msgid "Western Australia"
+msgstr ""
+
+#: helpers/states.php:76
+msgid "Bagerhat"
+msgstr ""
+
+#: helpers/states.php:77
+msgid "Bandarban"
+msgstr ""
+
+#: helpers/states.php:78
+msgid "Barguna"
+msgstr ""
+
+#: helpers/states.php:79
+msgid "Barishal"
+msgstr ""
+
+#: helpers/states.php:80
+msgid "Bhola"
+msgstr ""
+
+#: helpers/states.php:81
+msgid "Bogura"
+msgstr ""
+
+#: helpers/states.php:82
+msgid "Brahmanbaria"
+msgstr ""
+
+#: helpers/states.php:83
+msgid "Chandpur"
+msgstr ""
+
+#: helpers/states.php:84
+msgid "Chattogram"
+msgstr ""
+
+#: helpers/states.php:85
+msgid "Chuadanga"
+msgstr ""
+
+#: helpers/states.php:86
+msgid "Cox's Bazar"
+msgstr ""
+
+#: helpers/states.php:87
+msgid "Cumilla"
+msgstr ""
+
+#: helpers/states.php:88
+msgid "Dhaka"
+msgstr ""
+
+#: helpers/states.php:89
+msgid "Dinajpur"
+msgstr ""
+
+#: helpers/states.php:90
+msgid "Faridpur "
+msgstr ""
+
+#: helpers/states.php:91
+msgid "Feni"
+msgstr ""
+
+#: helpers/states.php:92
+msgid "Gaibandha"
+msgstr ""
+
+#: helpers/states.php:93
+msgid "Gazipur"
+msgstr ""
+
+#: helpers/states.php:94
+msgid "Gopalganj"
+msgstr ""
+
+#: helpers/states.php:95
+msgid "Habiganj"
+msgstr ""
+
+#: helpers/states.php:96
+msgid "Jamalpur"
+msgstr ""
+
+#: helpers/states.php:97
+msgid "Jashore"
+msgstr ""
+
+#: helpers/states.php:98
+msgid "Jhalokati"
+msgstr ""
+
+#: helpers/states.php:99
+msgid "Jhenaidah"
+msgstr ""
+
+#: helpers/states.php:100
+msgid "Joypurhat"
+msgstr ""
+
+#: helpers/states.php:101
+msgid "Khagrachhari"
+msgstr ""
+
+#: helpers/states.php:102
+msgid "Khulna"
+msgstr ""
+
+#: helpers/states.php:103
+msgid "Kishoreganj"
+msgstr ""
+
+#: helpers/states.php:104
+msgid "Kurigram"
+msgstr ""
+
+#: helpers/states.php:105
+msgid "Kushtia"
+msgstr ""
+
+#: helpers/states.php:106
+msgid "Lakshmipur"
+msgstr ""
+
+#: helpers/states.php:107
+msgid "Lalmonirhat"
+msgstr ""
+
+#: helpers/states.php:108
+msgid "Madaripur"
+msgstr ""
+
+#: helpers/states.php:109
+msgid "Magura"
+msgstr ""
+
+#: helpers/states.php:110
+msgid "Manikganj "
+msgstr ""
+
+#: helpers/states.php:111
+msgid "Meherpur"
+msgstr ""
+
+#: helpers/states.php:112
+msgid "Moulvibazar"
+msgstr ""
+
+#: helpers/states.php:113
+msgid "Munshiganj"
+msgstr ""
+
+#: helpers/states.php:114
+msgid "Mymensingh"
+msgstr ""
+
+#: helpers/states.php:115
+msgid "Naogaon"
+msgstr ""
+
+#: helpers/states.php:116
+msgid "Narail"
+msgstr ""
+
+#: helpers/states.php:117
+msgid "Narayanganj"
+msgstr ""
+
+#: helpers/states.php:118
+msgid "Narsingdi"
+msgstr ""
+
+#: helpers/states.php:119
+msgid "Natore"
+msgstr ""
+
+#: helpers/states.php:120
+msgid "Nawabganj"
+msgstr ""
+
+#: helpers/states.php:121
+msgid "Netrakona"
+msgstr ""
+
+#: helpers/states.php:122
+msgid "Nilphamari"
+msgstr ""
+
+#: helpers/states.php:123
+msgid "Noakhali"
+msgstr ""
+
+#: helpers/states.php:124
+msgid "Pabna"
+msgstr ""
+
+#: helpers/states.php:125
+msgid "Panchagarh"
+msgstr ""
+
+#: helpers/states.php:126
+msgid "Patuakhali"
+msgstr ""
+
+#: helpers/states.php:127
+msgid "Pirojpur"
+msgstr ""
+
+#: helpers/states.php:128
+msgid "Rajbari"
+msgstr ""
+
+#: helpers/states.php:129
+msgid "Rajshahi"
+msgstr ""
+
+#: helpers/states.php:130
+msgid "Rangamati"
+msgstr ""
+
+#: helpers/states.php:131
+msgid "Rangpur"
+msgstr ""
+
+#: helpers/states.php:132
+msgid "Satkhira"
+msgstr ""
+
+#: helpers/states.php:133
+msgid "Shariatpur"
+msgstr ""
+
+#: helpers/states.php:134
+msgid "Sherpur"
+msgstr ""
+
+#: helpers/states.php:135
+msgid "Sirajganj"
+msgstr ""
+
+#: helpers/states.php:136
+msgid "Sunamganj"
+msgstr ""
+
+#: helpers/states.php:137
+msgid "Sylhet"
+msgstr ""
+
+#: helpers/states.php:138
+msgid "Tangail"
+msgstr ""
+
+#: helpers/states.php:139
+msgid "Thakurgaon"
+msgstr ""
+
+#: helpers/states.php:143
+msgid "Blagoevgrad"
+msgstr ""
+
+#: helpers/states.php:144
+msgid "Burgas"
+msgstr ""
+
+#: helpers/states.php:145
+msgid "Dobrich"
+msgstr ""
+
+#: helpers/states.php:146
+msgid "Gabrovo"
+msgstr ""
+
+#: helpers/states.php:147
+msgid "Haskovo"
+msgstr ""
+
+#: helpers/states.php:148
+msgid "Kardzhali"
+msgstr ""
+
+#: helpers/states.php:149
+msgid "Kyustendil"
+msgstr ""
+
+#: helpers/states.php:150
+msgid "Lovech"
+msgstr ""
+
+#: helpers/states.php:151
+#: helpers/states.php:1656
+msgid "Montana"
+msgstr ""
+
+#: helpers/states.php:152
+msgid "Pazardzhik"
+msgstr ""
+
+#: helpers/states.php:153
+msgid "Pernik"
+msgstr ""
+
+#: helpers/states.php:154
+msgid "Pleven"
+msgstr ""
+
+#: helpers/states.php:155
+msgid "Plovdiv"
+msgstr ""
+
+#: helpers/states.php:156
+msgid "Razgrad"
+msgstr ""
+
+#: helpers/states.php:157
+msgid "Ruse"
+msgstr ""
+
+#: helpers/states.php:158
+msgid "Shumen"
+msgstr ""
+
+#: helpers/states.php:159
+msgid "Silistra"
+msgstr ""
+
+#: helpers/states.php:160
+msgid "Sliven"
+msgstr ""
+
+#: helpers/states.php:161
+msgid "Smolyan"
+msgstr ""
+
+#: helpers/states.php:162
+msgid "Sofia"
+msgstr ""
+
+#: helpers/states.php:163
+msgid "Sofia-Grad"
+msgstr ""
+
+#: helpers/states.php:164
+msgid "Stara Zagora"
+msgstr ""
+
+#: helpers/states.php:165
+msgid "Targovishte"
+msgstr ""
+
+#: helpers/states.php:166
+msgid "Varna"
+msgstr ""
+
+#: helpers/states.php:167
+msgid "Veliko Tarnovo"
+msgstr ""
+
+#: helpers/states.php:168
+msgid "Vidin"
+msgstr ""
+
+#: helpers/states.php:169
+msgid "Vratsa"
+msgstr ""
+
+#: helpers/states.php:170
+msgid "Yambol"
+msgstr ""
+
+#: helpers/states.php:175
+msgid "Alibori"
+msgstr ""
+
+#: helpers/states.php:176
+msgid "Atakora"
+msgstr ""
+
+#: helpers/states.php:177
+msgid "Atlantique"
+msgstr ""
+
+#: helpers/states.php:178
+msgid "Borgou"
+msgstr ""
+
+#: helpers/states.php:179
+msgid "Collines"
+msgstr ""
+
+#: helpers/states.php:180
+msgid "Kouffo"
+msgstr ""
+
+#: helpers/states.php:181
+msgid "Donga"
+msgstr ""
+
+#: helpers/states.php:182
+msgid "Littoral"
+msgstr ""
+
+#: helpers/states.php:183
+msgid "Mono"
+msgstr ""
+
+#: helpers/states.php:184
+msgid "Ouémé"
+msgstr ""
+
+#: helpers/states.php:185
+#: helpers/states.php:1052
+msgid "Plateau"
+msgstr ""
+
+#: helpers/states.php:186
+msgid "Zou"
+msgstr ""
+
+#: helpers/states.php:189
+msgid "Chuquisaca"
+msgstr ""
+
+#: helpers/states.php:190
+msgid "Beni"
+msgstr ""
+
+#: helpers/states.php:191
+msgid "Cochabamba"
+msgstr ""
+
+#: helpers/states.php:192
+msgid "La Paz"
+msgstr ""
+
+#: helpers/states.php:193
+msgid "Oruro"
+msgstr ""
+
+#: helpers/states.php:194
+msgid "Pando"
+msgstr ""
+
+#: helpers/states.php:195
+msgid "Potosí"
+msgstr ""
+
+#: helpers/states.php:197
+msgid "Tarija"
+msgstr ""
+
+#: helpers/states.php:200
+msgid "Acre"
+msgstr ""
+
+#: helpers/states.php:201
+msgid "Alagoas"
+msgstr ""
+
+#: helpers/states.php:202
+msgid "Amapá"
+msgstr ""
+
+#: helpers/states.php:203
+#: helpers/states.php:1098
+msgid "Amazonas"
+msgstr ""
+
+#: helpers/states.php:204
+msgid "Bahia"
+msgstr ""
+
+#: helpers/states.php:205
+msgid "Ceará"
+msgstr ""
+
+#: helpers/states.php:206
+msgid "Distrito Federal"
+msgstr ""
+
+#: helpers/states.php:207
+msgid "Espírito Santo"
+msgstr ""
+
+#: helpers/states.php:208
+msgid "Goiás"
+msgstr ""
+
+#: helpers/states.php:209
+msgid "Maranhão"
+msgstr ""
+
+#: helpers/states.php:210
+msgid "Mato Grosso"
+msgstr ""
+
+#: helpers/states.php:211
+msgid "Mato Grosso do Sul"
+msgstr ""
+
+#: helpers/states.php:212
+msgid "Minas Gerais"
+msgstr ""
+
+#: helpers/states.php:213
+msgid "Pará"
+msgstr ""
+
+#: helpers/states.php:214
+msgid "Paraíba"
+msgstr ""
+
+#: helpers/states.php:215
+msgid "Paraná"
+msgstr ""
+
+#: helpers/states.php:216
+msgid "Pernambuco"
+msgstr ""
+
+#: helpers/states.php:217
+msgid "Piauí"
+msgstr ""
+
+#: helpers/states.php:218
+msgid "Rio de Janeiro"
+msgstr ""
+
+#: helpers/states.php:219
+msgid "Rio Grande do Norte"
+msgstr ""
+
+#: helpers/states.php:220
+msgid "Rio Grande do Sul"
+msgstr ""
+
+#: helpers/states.php:221
+msgid "Rondônia"
+msgstr ""
+
+#: helpers/states.php:222
+msgid "Roraima"
+msgstr ""
+
+#: helpers/states.php:223
+msgid "Santa Catarina"
+msgstr ""
+
+#: helpers/states.php:224
+msgid "São Paulo"
+msgstr ""
+
+#: helpers/states.php:225
+msgid "Sergipe"
+msgstr ""
+
+#: helpers/states.php:226
+msgid "Tocantins"
+msgstr ""
+
+#: helpers/states.php:229
+msgid "Alberta"
+msgstr ""
+
+#: helpers/states.php:230
+msgid "British Columbia"
+msgstr ""
+
+#: helpers/states.php:231
+msgid "Manitoba"
+msgstr ""
+
+#: helpers/states.php:232
+msgid "New Brunswick"
+msgstr ""
+
+#: helpers/states.php:233
+msgid "Newfoundland and Labrador"
+msgstr ""
+
+#: helpers/states.php:234
+msgid "Northwest Territories"
+msgstr ""
+
+#: helpers/states.php:235
+msgid "Nova Scotia"
+msgstr ""
+
+#: helpers/states.php:236
+msgid "Nunavut"
+msgstr ""
+
+#: helpers/states.php:237
+msgid "Ontario"
+msgstr ""
+
+#: helpers/states.php:238
+msgid "Prince Edward Island"
+msgstr ""
+
+#: helpers/states.php:239
+msgid "Quebec"
+msgstr ""
+
+#: helpers/states.php:240
+msgid "Saskatchewan"
+msgstr ""
+
+#: helpers/states.php:241
+msgid "Yukon Territory"
+msgstr ""
+
+#: helpers/states.php:244
+msgid "Aargau"
+msgstr ""
+
+#: helpers/states.php:245
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#: helpers/states.php:246
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#: helpers/states.php:247
+msgid "Basel-Landschaft"
+msgstr ""
+
+#: helpers/states.php:248
+msgid "Basel-Stadt"
+msgstr ""
+
+#: helpers/states.php:249
+msgid "Bern"
+msgstr ""
+
+#: helpers/states.php:250
+msgid "Fribourg"
+msgstr ""
+
+#: helpers/states.php:251
+msgid "Geneva"
+msgstr ""
+
+#: helpers/states.php:252
+msgid "Glarus"
+msgstr ""
+
+#: helpers/states.php:253
+msgid "Graubünden"
+msgstr ""
+
+#: helpers/states.php:254
+msgid "Jura"
+msgstr ""
+
+#: helpers/states.php:255
+msgid "Luzern"
+msgstr ""
+
+#: helpers/states.php:256
+msgid "Neuchâtel"
+msgstr ""
+
+#: helpers/states.php:257
+msgid "Nidwalden"
+msgstr ""
+
+#: helpers/states.php:258
+msgid "Obwalden"
+msgstr ""
+
+#: helpers/states.php:259
+msgid "Schaffhausen"
+msgstr ""
+
+#: helpers/states.php:260
+msgid "Schwyz"
+msgstr ""
+
+#: helpers/states.php:261
+msgid "Solothurn"
+msgstr ""
+
+#: helpers/states.php:262
+msgid "St. Gallen"
+msgstr ""
+
+#: helpers/states.php:263
+msgid "Thurgau"
+msgstr ""
+
+#: helpers/states.php:264
+msgid "Ticino"
+msgstr ""
+
+#: helpers/states.php:265
+msgid "Uri"
+msgstr ""
+
+#: helpers/states.php:266
+msgid "Valais"
+msgstr ""
+
+#: helpers/states.php:267
+msgid "Vaud"
+msgstr ""
+
+#: helpers/states.php:268
+msgid "Zug"
+msgstr ""
+
+#: helpers/states.php:269
+msgid "Zürich"
+msgstr ""
+
+#: helpers/states.php:272
+msgid "Yunnan / 云南"
+msgstr ""
+
+#: helpers/states.php:273
+msgid "Beijing / 北京"
+msgstr ""
+
+#: helpers/states.php:274
+msgid "Tianjin / 天津"
+msgstr ""
+
+#: helpers/states.php:275
+msgid "Hebei / 河北"
+msgstr ""
+
+#: helpers/states.php:276
+msgid "Shanxi / 山西"
+msgstr ""
+
+#: helpers/states.php:277
+msgid "Inner Mongolia / 內蒙古"
+msgstr ""
+
+#: helpers/states.php:278
+msgid "Liaoning / 辽宁"
+msgstr ""
+
+#: helpers/states.php:279
+msgid "Jilin / 吉林"
+msgstr ""
+
+#: helpers/states.php:280
+msgid "Heilongjiang / 黑龙江"
+msgstr ""
+
+#: helpers/states.php:281
+msgid "Shanghai / 上海"
+msgstr ""
+
+#: helpers/states.php:282
+msgid "Jiangsu / 江苏"
+msgstr ""
+
+#: helpers/states.php:283
+msgid "Zhejiang / 浙江"
+msgstr ""
+
+#: helpers/states.php:284
+msgid "Anhui / 安徽"
+msgstr ""
+
+#: helpers/states.php:285
+msgid "Fujian / 福建"
+msgstr ""
+
+#: helpers/states.php:286
+msgid "Jiangxi / 江西"
+msgstr ""
+
+#: helpers/states.php:287
+msgid "Shandong / 山东"
+msgstr ""
+
+#: helpers/states.php:288
+msgid "Henan / 河南"
+msgstr ""
+
+#: helpers/states.php:289
+msgid "Hubei / 湖北"
+msgstr ""
+
+#: helpers/states.php:290
+msgid "Hunan / 湖南"
+msgstr ""
+
+#: helpers/states.php:291
+msgid "Guangdong / 广东"
+msgstr ""
+
+#: helpers/states.php:292
+msgid "Guangxi Zhuang / 广西壮族"
+msgstr ""
+
+#: helpers/states.php:293
+msgid "Hainan / 海南"
+msgstr ""
+
+#: helpers/states.php:294
+msgid "Chongqing / 重庆"
+msgstr ""
+
+#: helpers/states.php:295
+msgid "Sichuan / 四川"
+msgstr ""
+
+#: helpers/states.php:296
+msgid "Guizhou / 贵州"
+msgstr ""
+
+#: helpers/states.php:297
+msgid "Shaanxi / 陕西"
+msgstr ""
+
+#: helpers/states.php:298
+msgid "Gansu / 甘肃"
+msgstr ""
+
+#: helpers/states.php:299
+msgid "Qinghai / 青海"
+msgstr ""
+
+#: helpers/states.php:300
+msgid "Ningxia Hui / 宁夏"
+msgstr ""
+
+#: helpers/states.php:301
+msgid "Macao / 澳门"
+msgstr ""
+
+#: helpers/states.php:302
+msgid "Tibet / 西藏"
+msgstr ""
+
+#: helpers/states.php:303
+msgid "Xinjiang / 新疆"
+msgstr ""
+
+#: helpers/states.php:309
+msgid "Adrar"
+msgstr ""
+
+#: helpers/states.php:310
+msgid "Chlef"
+msgstr ""
+
+#: helpers/states.php:311
+msgid "Laghouat"
+msgstr ""
+
+#: helpers/states.php:312
+msgid "Oum El Bouaghi"
+msgstr ""
+
+#: helpers/states.php:313
+msgid "Batna"
+msgstr ""
+
+#: helpers/states.php:314
+msgid "Béjaïa"
+msgstr ""
+
+#: helpers/states.php:315
+msgid "Biskra"
+msgstr ""
+
+#: helpers/states.php:316
+msgid "Béchar"
+msgstr ""
+
+#: helpers/states.php:317
+msgid "Blida"
+msgstr ""
+
+#: helpers/states.php:318
+msgid "Bouira"
+msgstr ""
+
+#: helpers/states.php:319
+msgid "Tamanghasset"
+msgstr ""
+
+#: helpers/states.php:320
+msgid "Tébessa"
+msgstr ""
+
+#: helpers/states.php:321
+msgid "Tlemcen"
+msgstr ""
+
+#: helpers/states.php:322
+msgid "Tiaret"
+msgstr ""
+
+#: helpers/states.php:323
+msgid "Tizi Ouzou"
+msgstr ""
+
+#: helpers/states.php:324
+msgid "Algiers"
+msgstr ""
+
+#: helpers/states.php:325
+msgid "Djelfa"
+msgstr ""
+
+#: helpers/states.php:326
+msgid "Jijel"
+msgstr ""
+
+#: helpers/states.php:327
+msgid "Sétif"
+msgstr ""
+
+#: helpers/states.php:328
+msgid "Saïda"
+msgstr ""
+
+#: helpers/states.php:329
+msgid "Skikda"
+msgstr ""
+
+#: helpers/states.php:330
+msgid "Sidi Bel Abbès"
+msgstr ""
+
+#: helpers/states.php:331
+msgid "Annaba"
+msgstr ""
+
+#: helpers/states.php:332
+msgid "Guelma"
+msgstr ""
+
+#: helpers/states.php:333
+msgid "Constantine"
+msgstr ""
+
+#: helpers/states.php:334
+msgid "Médéa"
+msgstr ""
+
+#: helpers/states.php:335
+msgid "Mostaganem"
+msgstr ""
+
+#: helpers/states.php:336
+msgid "M’Sila"
+msgstr ""
+
+#: helpers/states.php:337
+msgid "Mascara"
+msgstr ""
+
+#: helpers/states.php:338
+msgid "Ouargla"
+msgstr ""
+
+#: helpers/states.php:339
+msgid "Oran"
+msgstr ""
+
+#: helpers/states.php:340
+msgid "El Bayadh"
+msgstr ""
+
+#: helpers/states.php:341
+msgid "Illizi"
+msgstr ""
+
+#: helpers/states.php:342
+msgid "Bordj Bou Arréridj"
+msgstr ""
+
+#: helpers/states.php:343
+msgid "Boumerdès"
+msgstr ""
+
+#: helpers/states.php:344
+msgid "El Tarf"
+msgstr ""
+
+#: helpers/states.php:345
+msgid "Tindouf"
+msgstr ""
+
+#: helpers/states.php:346
+msgid "Tissemsilt"
+msgstr ""
+
+#: helpers/states.php:347
+msgid "El Oued"
+msgstr ""
+
+#: helpers/states.php:348
+msgid "Khenchela"
+msgstr ""
+
+#: helpers/states.php:349
+msgid "Souk Ahras"
+msgstr ""
+
+#: helpers/states.php:350
+msgid "Tipasa"
+msgstr ""
+
+#: helpers/states.php:351
+msgid "Mila"
+msgstr ""
+
+#: helpers/states.php:352
+msgid "Aïn Defla"
+msgstr ""
+
+#: helpers/states.php:353
+msgid "Naama"
+msgstr ""
+
+#: helpers/states.php:354
+msgid "Aïn Témouchent"
+msgstr ""
+
+#: helpers/states.php:355
+msgid "Ghardaïa"
+msgstr ""
+
+#: helpers/states.php:356
+msgid "Relizane"
+msgstr ""
+
+#: helpers/states.php:360
+msgid "Alexandria"
+msgstr ""
+
+#: helpers/states.php:361
+msgid "Aswan"
+msgstr ""
+
+#: helpers/states.php:362
+msgid "Asyut"
+msgstr ""
+
+#: helpers/states.php:363
+msgid "Red Sea"
+msgstr ""
+
+#: helpers/states.php:364
+msgid "Beheira"
+msgstr ""
+
+#: helpers/states.php:365
+msgid "Beni Suef"
+msgstr ""
+
+#: helpers/states.php:366
+msgid "Cairo"
+msgstr ""
+
+#: helpers/states.php:367
+msgid "Dakahlia"
+msgstr ""
+
+#: helpers/states.php:368
+msgid "Damietta"
+msgstr ""
+
+#: helpers/states.php:369
+msgid "Faiyum"
+msgstr ""
+
+#: helpers/states.php:370
+msgid "Gharbia"
+msgstr ""
+
+#: helpers/states.php:371
+msgid "Giza"
+msgstr ""
+
+#: helpers/states.php:372
+msgid "Ismailia"
+msgstr ""
+
+#: helpers/states.php:373
+msgid "South Sinai"
+msgstr ""
+
+#: helpers/states.php:374
+msgid "Qalyubia"
+msgstr ""
+
+#: helpers/states.php:375
+msgid "Kafr el-Sheikh"
+msgstr ""
+
+#: helpers/states.php:376
+msgid "Qena"
+msgstr ""
+
+#: helpers/states.php:377
+msgid "Luxor"
+msgstr ""
+
+#: helpers/states.php:378
+msgid "Minya"
+msgstr ""
+
+#: helpers/states.php:379
+msgid "Monufia"
+msgstr ""
+
+#: helpers/states.php:380
+msgid "Matrouh"
+msgstr ""
+
+#: helpers/states.php:381
+msgid "Port Said"
+msgstr ""
+
+#: helpers/states.php:382
+msgid "Sohag"
+msgstr ""
+
+#: helpers/states.php:383
+msgid "Al Sharqia"
+msgstr ""
+
+#: helpers/states.php:384
+msgid "North Sinai"
+msgstr ""
+
+#: helpers/states.php:385
+msgid "Suez"
+msgstr ""
+
+#: helpers/states.php:386
+msgid "New Valley"
+msgstr ""
+
+#: helpers/states.php:389
+msgid "A Coruña"
+msgstr ""
+
+#: helpers/states.php:390
+msgid "Araba/Álava"
+msgstr ""
+
+#: helpers/states.php:391
+msgid "Albacete"
+msgstr ""
+
+#: helpers/states.php:392
+msgid "Alicante"
+msgstr ""
+
+#: helpers/states.php:393
+msgid "Almería"
+msgstr ""
+
+#: helpers/states.php:394
+msgid "Asturias"
+msgstr ""
+
+#: helpers/states.php:395
+msgid "Ávila"
+msgstr ""
+
+#: helpers/states.php:396
+msgid "Badajoz"
+msgstr ""
+
+#: helpers/states.php:397
+msgid "Baleares"
+msgstr ""
+
+#: helpers/states.php:398
+msgid "Barcelona"
+msgstr ""
+
+#: helpers/states.php:399
+msgid "Burgos"
+msgstr ""
+
+#: helpers/states.php:400
+msgid "Cáceres"
+msgstr ""
+
+#: helpers/states.php:401
+msgid "Cádiz"
+msgstr ""
+
+#: helpers/states.php:402
+msgid "Cantabria"
+msgstr ""
+
+#: helpers/states.php:403
+msgid "Castellón"
+msgstr ""
+
+#: helpers/states.php:404
+msgid "Ceuta"
+msgstr ""
+
+#: helpers/states.php:405
+msgid "Ciudad Real"
+msgstr ""
+
+#: helpers/states.php:407
+msgid "Cuenca"
+msgstr ""
+
+#: helpers/states.php:408
+msgid "Girona"
+msgstr ""
+
+#: helpers/states.php:409
+msgid "Granada"
+msgstr ""
+
+#: helpers/states.php:410
+msgid "Guadalajara"
+msgstr ""
+
+#: helpers/states.php:411
+msgid "Gipuzkoa"
+msgstr ""
+
+#: helpers/states.php:412
+msgid "Huelva"
+msgstr ""
+
+#: helpers/states.php:413
+msgid "Huesca"
+msgstr ""
+
+#: helpers/states.php:414
+msgid "Jaén"
+msgstr ""
+
+#: helpers/states.php:416
+msgid "Las Palmas"
+msgstr ""
+
+#: helpers/states.php:417
+msgid "León"
+msgstr ""
+
+#: helpers/states.php:418
+msgid "Lleida"
+msgstr ""
+
+#: helpers/states.php:419
+msgid "Lugo"
+msgstr ""
+
+#: helpers/states.php:420
+msgid "Madrid"
+msgstr ""
+
+#: helpers/states.php:421
+msgid "Málaga"
+msgstr ""
+
+#: helpers/states.php:422
+msgid "Melilla"
+msgstr ""
+
+#: helpers/states.php:423
+msgid "Murcia"
+msgstr ""
+
+#: helpers/states.php:424
+msgid "Navarra"
+msgstr ""
+
+#: helpers/states.php:425
+msgid "Ourense"
+msgstr ""
+
+#: helpers/states.php:426
+msgid "Palencia"
+msgstr ""
+
+#: helpers/states.php:427
+msgid "Pontevedra"
+msgstr ""
+
+#: helpers/states.php:428
+msgid "Salamanca"
+msgstr ""
+
+#: helpers/states.php:429
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+#: helpers/states.php:430
+msgid "Segovia"
+msgstr ""
+
+#: helpers/states.php:431
+msgid "Sevilla"
+msgstr ""
+
+#: helpers/states.php:432
+msgid "Soria"
+msgstr ""
+
+#: helpers/states.php:433
+msgid "Tarragona"
+msgstr ""
+
+#: helpers/states.php:434
+msgid "Teruel"
+msgstr ""
+
+#: helpers/states.php:435
+msgid "Toledo"
+msgstr ""
+
+#: helpers/states.php:436
+msgid "Valencia"
+msgstr ""
+
+#: helpers/states.php:437
+msgid "Valladolid"
+msgstr ""
+
+#: helpers/states.php:438
+msgid "Biscay"
+msgstr ""
+
+#: helpers/states.php:439
+msgid "Zamora"
+msgstr ""
+
+#: helpers/states.php:440
+msgid "Zaragoza"
+msgstr ""
+
+#: helpers/states.php:445
+msgid "Ahafo"
+msgstr ""
+
+#: helpers/states.php:446
+msgid "Ashanti"
+msgstr ""
+
+#: helpers/states.php:447
+msgid "Brong-Ahafo"
+msgstr ""
+
+#: helpers/states.php:448
+msgid "Bono"
+msgstr ""
+
+#: helpers/states.php:449
+msgid "Bono East"
+msgstr ""
+
+#: helpers/states.php:450
+#: helpers/states.php:1235
+#: helpers/states.php:1700
+msgid "Central"
+msgstr ""
+
+#: helpers/states.php:451
+#: helpers/states.php:1701
+msgid "Eastern"
+msgstr ""
+
+#: helpers/states.php:452
+msgid "Greater Accra"
+msgstr ""
+
+#: helpers/states.php:453
+msgid "North East"
+msgstr ""
+
+#: helpers/states.php:454
+#: helpers/states.php:1703
+msgid "Northern"
+msgstr ""
+
+#: helpers/states.php:455
+msgid "Oti"
+msgstr ""
+
+#: helpers/states.php:456
+msgid "Savannah"
+msgstr ""
+
+#: helpers/states.php:457
+msgid "Upper East"
+msgstr ""
+
+#: helpers/states.php:458
+msgid "Upper West"
+msgstr ""
+
+#: helpers/states.php:459
+msgid "Volta"
+msgstr ""
+
+#: helpers/states.php:460
+#: helpers/states.php:1699
+msgid "Western"
+msgstr ""
+
+#: helpers/states.php:461
+msgid "Western North"
+msgstr ""
+
+#: helpers/states.php:465
+msgid "Attica"
+msgstr ""
+
+#: helpers/states.php:466
+msgid "East Macedonia and Thrace"
+msgstr ""
+
+#: helpers/states.php:467
+msgid "Central Macedonia"
+msgstr ""
+
+#: helpers/states.php:468
+msgid "West Macedonia"
+msgstr ""
+
+#: helpers/states.php:469
+msgid "Epirus"
+msgstr ""
+
+#: helpers/states.php:470
+msgid "Thessaly"
+msgstr ""
+
+#: helpers/states.php:471
+msgid "Ionian Islands"
+msgstr ""
+
+#: helpers/states.php:472
+msgid "West Greece"
+msgstr ""
+
+#: helpers/states.php:473
+msgid "Central Greece"
+msgstr ""
+
+#: helpers/states.php:474
+msgid "Peloponnese"
+msgstr ""
+
+#: helpers/states.php:475
+msgid "North Aegean"
+msgstr ""
+
+#: helpers/states.php:476
+msgid "South Aegean"
+msgstr ""
+
+#: helpers/states.php:477
+msgid "Crete"
+msgstr ""
+
+#: helpers/states.php:481
+msgid "Hong Kong Island"
+msgstr ""
+
+#: helpers/states.php:482
+msgid "Kowloon"
+msgstr ""
+
+#: helpers/states.php:483
+msgid "New Territories"
+msgstr ""
+
+#: helpers/states.php:486
+msgid "Bács-Kiskun"
+msgstr ""
+
+#: helpers/states.php:487
+msgid "Békés"
+msgstr ""
+
+#: helpers/states.php:488
+msgid "Baranya"
+msgstr ""
+
+#: helpers/states.php:489
+msgid "Borsod-Abaúj-Zemplén"
+msgstr ""
+
+#: helpers/states.php:490
+msgid "Budapest"
+msgstr ""
+
+#: helpers/states.php:491
+msgid "Csongrád-Csanád"
+msgstr ""
+
+#: helpers/states.php:492
+msgid "Fejér"
+msgstr ""
+
+#: helpers/states.php:493
+msgid "Győr-Moson-Sopron"
+msgstr ""
+
+#: helpers/states.php:494
+msgid "Hajdú-Bihar"
+msgstr ""
+
+#: helpers/states.php:495
+msgid "Heves"
+msgstr ""
+
+#: helpers/states.php:496
+msgid "Jász-Nagykun-Szolnok"
+msgstr ""
+
+#: helpers/states.php:497
+msgid "Komárom-Esztergom"
+msgstr ""
+
+#: helpers/states.php:498
+msgid "Nógrád"
+msgstr ""
+
+#: helpers/states.php:499
+msgid "Pest"
+msgstr ""
+
+#: helpers/states.php:500
+msgid "Somogy"
+msgstr ""
+
+#: helpers/states.php:501
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr ""
+
+#: helpers/states.php:502
+msgid "Tolna"
+msgstr ""
+
+#: helpers/states.php:503
+msgid "Vas"
+msgstr ""
+
+#: helpers/states.php:504
+msgid "Veszprém"
+msgstr ""
+
+#: helpers/states.php:505
+msgid "Zala"
+msgstr ""
+
+#: helpers/states.php:508
+msgid "Daerah Istimewa Aceh"
+msgstr ""
+
+#: helpers/states.php:509
+msgid "Sumatera Utara"
+msgstr ""
+
+#: helpers/states.php:510
+msgid "Sumatera Barat"
+msgstr ""
+
+#: helpers/states.php:511
+msgid "Riau"
+msgstr ""
+
+#: helpers/states.php:512
+msgid "Kepulauan Riau"
+msgstr ""
+
+#: helpers/states.php:513
+msgid "Jambi"
+msgstr ""
+
+#: helpers/states.php:514
+msgid "Sumatera Selatan"
+msgstr ""
+
+#: helpers/states.php:515
+msgid "Bangka Belitung"
+msgstr ""
+
+#: helpers/states.php:516
+msgid "Bengkulu"
+msgstr ""
+
+#: helpers/states.php:517
+msgid "Lampung"
+msgstr ""
+
+#: helpers/states.php:518
+msgid "DKI Jakarta"
+msgstr ""
+
+#: helpers/states.php:519
+msgid "Jawa Barat"
+msgstr ""
+
+#: helpers/states.php:520
+msgid "Banten"
+msgstr ""
+
+#: helpers/states.php:521
+msgid "Jawa Tengah"
+msgstr ""
+
+#: helpers/states.php:522
+msgid "Jawa Timur"
+msgstr ""
+
+#: helpers/states.php:523
+msgid "Daerah Istimewa Yogyakarta"
+msgstr ""
+
+#: helpers/states.php:524
+msgid "Bali"
+msgstr ""
+
+#: helpers/states.php:525
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+#: helpers/states.php:526
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+#: helpers/states.php:527
+msgid "Kalimantan Barat"
+msgstr ""
+
+#: helpers/states.php:528
+msgid "Kalimantan Tengah"
+msgstr ""
+
+#: helpers/states.php:529
+msgid "Kalimantan Timur"
+msgstr ""
+
+#: helpers/states.php:530
+msgid "Kalimantan Selatan"
+msgstr ""
+
+#: helpers/states.php:531
+msgid "Kalimantan Utara"
+msgstr ""
+
+#: helpers/states.php:532
+msgid "Sulawesi Utara"
+msgstr ""
+
+#: helpers/states.php:533
+msgid "Sulawesi Tengah"
+msgstr ""
+
+#: helpers/states.php:534
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+#: helpers/states.php:535
+msgid "Sulawesi Barat"
+msgstr ""
+
+#: helpers/states.php:536
+msgid "Sulawesi Selatan"
+msgstr ""
+
+#: helpers/states.php:537
+msgid "Gorontalo"
+msgstr ""
+
+#: helpers/states.php:538
+msgid "Maluku"
+msgstr ""
+
+#: helpers/states.php:539
+msgid "Maluku Utara"
+msgstr ""
+
+#: helpers/states.php:540
+msgid "Papua"
+msgstr ""
+
+#: helpers/states.php:541
+msgid "Papua Barat"
+msgstr ""
+
+#: helpers/states.php:544
+msgid "Carlow"
+msgstr ""
+
+#: helpers/states.php:545
+msgid "Cavan"
+msgstr ""
+
+#: helpers/states.php:546
+msgid "Clare"
+msgstr ""
+
+#: helpers/states.php:547
+msgid "Cork"
+msgstr ""
+
+#: helpers/states.php:548
+msgid "Donegal"
+msgstr ""
+
+#: helpers/states.php:549
+msgid "Dublin"
+msgstr ""
+
+#: helpers/states.php:550
+msgid "Galway"
+msgstr ""
+
+#: helpers/states.php:551
+msgid "Kerry"
+msgstr ""
+
+#: helpers/states.php:552
+msgid "Kildare"
+msgstr ""
+
+#: helpers/states.php:553
+msgid "Kilkenny"
+msgstr ""
+
+#: helpers/states.php:554
+msgid "Laois"
+msgstr ""
+
+#: helpers/states.php:555
+msgid "Leitrim"
+msgstr ""
+
+#: helpers/states.php:556
+msgid "Limerick"
+msgstr ""
+
+#: helpers/states.php:557
+msgid "Longford"
+msgstr ""
+
+#: helpers/states.php:558
+msgid "Louth"
+msgstr ""
+
+#: helpers/states.php:559
+msgid "Mayo"
+msgstr ""
+
+#: helpers/states.php:560
+msgid "Meath"
+msgstr ""
+
+#: helpers/states.php:561
+msgid "Monaghan"
+msgstr ""
+
+#: helpers/states.php:562
+msgid "Offaly"
+msgstr ""
+
+#: helpers/states.php:563
+msgid "Roscommon"
+msgstr ""
+
+#: helpers/states.php:564
+msgid "Sligo"
+msgstr ""
+
+#: helpers/states.php:565
+msgid "Tipperary"
+msgstr ""
+
+#: helpers/states.php:566
+msgid "Waterford"
+msgstr ""
+
+#: helpers/states.php:567
+msgid "Westmeath"
+msgstr ""
+
+#: helpers/states.php:568
+msgid "Wexford"
+msgstr ""
+
+#: helpers/states.php:569
+msgid "Wicklow"
+msgstr ""
+
+#: helpers/states.php:572
+msgid "Andhra Pradesh"
+msgstr ""
+
+#: helpers/states.php:573
+msgid "Arunachal Pradesh"
+msgstr ""
+
+#: helpers/states.php:574
+msgid "Assam"
+msgstr ""
+
+#: helpers/states.php:575
+msgid "Bihar"
+msgstr ""
+
+#: helpers/states.php:576
+msgid "Chhattisgarh"
+msgstr ""
+
+#: helpers/states.php:577
+msgid "Goa"
+msgstr ""
+
+#: helpers/states.php:578
+msgid "Gujarat"
+msgstr ""
+
+#: helpers/states.php:579
+msgid "Haryana"
+msgstr ""
+
+#: helpers/states.php:580
+msgid "Himachal Pradesh"
+msgstr ""
+
+#: helpers/states.php:581
+msgid "Jammu and Kashmir"
+msgstr ""
+
+#: helpers/states.php:582
+msgid "Jharkhand"
+msgstr ""
+
+#: helpers/states.php:583
+msgid "Karnataka"
+msgstr ""
+
+#: helpers/states.php:584
+msgid "Kerala"
+msgstr ""
+
+#: helpers/states.php:585
+msgid "Madhya Pradesh"
+msgstr ""
+
+#: helpers/states.php:586
+msgid "Maharashtra"
+msgstr ""
+
+#: helpers/states.php:587
+msgid "Manipur"
+msgstr ""
+
+#: helpers/states.php:588
+msgid "Meghalaya"
+msgstr ""
+
+#: helpers/states.php:589
+msgid "Mizoram"
+msgstr ""
+
+#: helpers/states.php:590
+msgid "Nagaland"
+msgstr ""
+
+#: helpers/states.php:591
+msgid "Orissa"
+msgstr ""
+
+#: helpers/states.php:592
+#: helpers/states.php:1218
+msgid "Punjab"
+msgstr ""
+
+#: helpers/states.php:593
+msgid "Rajasthan"
+msgstr ""
+
+#: helpers/states.php:594
+msgid "Sikkim"
+msgstr ""
+
+#: helpers/states.php:595
+msgid "Tamil Nadu"
+msgstr ""
+
+#: helpers/states.php:596
+msgid "Telangana"
+msgstr ""
+
+#: helpers/states.php:597
+msgid "Tripura"
+msgstr ""
+
+#: helpers/states.php:598
+msgid "Uttarakhand"
+msgstr ""
+
+#: helpers/states.php:599
+msgid "Uttar Pradesh"
+msgstr ""
+
+#: helpers/states.php:600
+msgid "West Bengal"
+msgstr ""
+
+#: helpers/states.php:601
+msgid "Andaman and Nicobar Islands"
+msgstr ""
+
+#: helpers/states.php:602
+msgid "Chandigarh"
+msgstr ""
+
+#: helpers/states.php:603
+msgid "Dadra and Nagar Haveli"
+msgstr ""
+
+#: helpers/states.php:604
+msgid "Daman and Diu"
+msgstr ""
+
+#: helpers/states.php:605
+msgid "Delhi"
+msgstr ""
+
+#: helpers/states.php:606
+msgid "Lakshadeep"
+msgstr ""
+
+#: helpers/states.php:607
+msgid "Pondicherry (Puducherry)"
+msgstr ""
+
+#: helpers/states.php:610
+msgid "Khuzestan  (خوزستان)"
+msgstr ""
+
+#: helpers/states.php:611
+msgid "Tehran  (تهران)"
+msgstr ""
+
+#: helpers/states.php:612
+msgid "Ilaam (ایلام)"
+msgstr ""
+
+#: helpers/states.php:613
+msgid "Bushehr (بوشهر)"
+msgstr ""
+
+#: helpers/states.php:614
+msgid "Ardabil (اردبیل)"
+msgstr ""
+
+#: helpers/states.php:615
+msgid "Isfahan (اصفهان)"
+msgstr ""
+
+#: helpers/states.php:616
+msgid "Yazd (یزد)"
+msgstr ""
+
+#: helpers/states.php:617
+msgid "Kermanshah (کرمانشاه)"
+msgstr ""
+
+#: helpers/states.php:618
+msgid "Kerman (کرمان)"
+msgstr ""
+
+#: helpers/states.php:619
+msgid "Hamadan (همدان)"
+msgstr ""
+
+#: helpers/states.php:620
+msgid "Ghazvin (قزوین)"
+msgstr ""
+
+#: helpers/states.php:621
+msgid "Zanjan (زنجان)"
+msgstr ""
+
+#: helpers/states.php:622
+msgid "Luristan (لرستان)"
+msgstr ""
+
+#: helpers/states.php:623
+msgid "Alborz (البرز)"
+msgstr ""
+
+#: helpers/states.php:624
+msgid "East Azarbaijan (آذربایجان شرقی)"
+msgstr ""
+
+#: helpers/states.php:625
+msgid "West Azarbaijan (آذربایجان غربی)"
+msgstr ""
+
+#: helpers/states.php:626
+msgid "Chaharmahal and Bakhtiari (چهارمحال و بختیاری)"
+msgstr ""
+
+#: helpers/states.php:627
+msgid "South Khorasan (خراسان جنوبی)"
+msgstr ""
+
+#: helpers/states.php:628
+msgid "Razavi Khorasan (خراسان رضوی)"
+msgstr ""
+
+#: helpers/states.php:629
+msgid "North Khorasan (خراسان شمالی)"
+msgstr ""
+
+#: helpers/states.php:630
+msgid "Semnan (سمنان)"
+msgstr ""
+
+#: helpers/states.php:631
+msgid "Fars (فارس)"
+msgstr ""
+
+#: helpers/states.php:632
+msgid "Qom (قم)"
+msgstr ""
+
+#: helpers/states.php:633
+msgid "Kurdistan / کردستان)"
+msgstr ""
+
+#: helpers/states.php:634
+msgid "Kohgiluyeh and BoyerAhmad (کهگیلوییه و بویراحمد)"
+msgstr ""
+
+#: helpers/states.php:635
+msgid "Golestan (گلستان)"
+msgstr ""
+
+#: helpers/states.php:636
+msgid "Gilan (گیلان)"
+msgstr ""
+
+#: helpers/states.php:637
+msgid "Mazandaran (مازندران)"
+msgstr ""
+
+#: helpers/states.php:638
+msgid "Markazi (مرکزی)"
+msgstr ""
+
+#: helpers/states.php:639
+msgid "Hormozgan (هرمزگان)"
+msgstr ""
+
+#: helpers/states.php:640
+msgid "Sistan and Baluchestan (سیستان و بلوچستان)"
+msgstr ""
+
+#: helpers/states.php:644
+msgid "Agrigento"
+msgstr ""
+
+#: helpers/states.php:645
+msgid "Alessandria"
+msgstr ""
+
+#: helpers/states.php:646
+msgid "Ancona"
+msgstr ""
+
+#: helpers/states.php:647
+msgid "Aosta"
+msgstr ""
+
+#: helpers/states.php:648
+msgid "Arezzo"
+msgstr ""
+
+#: helpers/states.php:649
+msgid "Ascoli Piceno"
+msgstr ""
+
+#: helpers/states.php:650
+msgid "Asti"
+msgstr ""
+
+#: helpers/states.php:651
+msgid "Avellino"
+msgstr ""
+
+#: helpers/states.php:652
+msgid "Bari"
+msgstr ""
+
+#: helpers/states.php:653
+msgid "Barletta-Andria-Trani"
+msgstr ""
+
+#: helpers/states.php:654
+msgid "Belluno"
+msgstr ""
+
+#: helpers/states.php:655
+msgid "Benevento"
+msgstr ""
+
+#: helpers/states.php:656
+msgid "Bergamo"
+msgstr ""
+
+#: helpers/states.php:657
+msgid "Biella"
+msgstr ""
+
+#: helpers/states.php:658
+msgid "Bologna"
+msgstr ""
+
+#: helpers/states.php:659
+msgid "Bolzano"
+msgstr ""
+
+#: helpers/states.php:660
+msgid "Brescia"
+msgstr ""
+
+#: helpers/states.php:661
+msgid "Brindisi"
+msgstr ""
+
+#: helpers/states.php:662
+msgid "Cagliari"
+msgstr ""
+
+#: helpers/states.php:663
+msgid "Caltanissetta"
+msgstr ""
+
+#: helpers/states.php:664
+msgid "Campobasso"
+msgstr ""
+
+#: helpers/states.php:665
+msgid "Caserta"
+msgstr ""
+
+#: helpers/states.php:666
+msgid "Catania"
+msgstr ""
+
+#: helpers/states.php:667
+msgid "Catanzaro"
+msgstr ""
+
+#: helpers/states.php:668
+msgid "Chieti"
+msgstr ""
+
+#: helpers/states.php:669
+msgid "Como"
+msgstr ""
+
+#: helpers/states.php:670
+msgid "Cosenza"
+msgstr ""
+
+#: helpers/states.php:671
+msgid "Cremona"
+msgstr ""
+
+#: helpers/states.php:672
+msgid "Crotone"
+msgstr ""
+
+#: helpers/states.php:673
+msgid "Cuneo"
+msgstr ""
+
+#: helpers/states.php:674
+msgid "Enna"
+msgstr ""
+
+#: helpers/states.php:675
+msgid "Fermo"
+msgstr ""
+
+#: helpers/states.php:676
+msgid "Ferrara"
+msgstr ""
+
+#: helpers/states.php:677
+msgid "Firenze"
+msgstr ""
+
+#: helpers/states.php:678
+msgid "Foggia"
+msgstr ""
+
+#: helpers/states.php:679
+msgid "Forlì-Cesena"
+msgstr ""
+
+#: helpers/states.php:680
+msgid "Frosinone"
+msgstr ""
+
+#: helpers/states.php:681
+msgid "Genova"
+msgstr ""
+
+#: helpers/states.php:682
+msgid "Gorizia"
+msgstr ""
+
+#: helpers/states.php:683
+msgid "Grosseto"
+msgstr ""
+
+#: helpers/states.php:684
+msgid "Imperia"
+msgstr ""
+
+#: helpers/states.php:685
+msgid "Isernia"
+msgstr ""
+
+#: helpers/states.php:686
+msgid "La Spezia"
+msgstr ""
+
+#: helpers/states.php:687
+msgid "L'Aquila"
+msgstr ""
+
+#: helpers/states.php:688
+msgid "Latina"
+msgstr ""
+
+#: helpers/states.php:689
+msgid "Lecce"
+msgstr ""
+
+#: helpers/states.php:690
+msgid "Lecco"
+msgstr ""
+
+#: helpers/states.php:691
+msgid "Livorno"
+msgstr ""
+
+#: helpers/states.php:692
+msgid "Lodi"
+msgstr ""
+
+#: helpers/states.php:693
+msgid "Lucca"
+msgstr ""
+
+#: helpers/states.php:694
+msgid "Macerata"
+msgstr ""
+
+#: helpers/states.php:695
+msgid "Mantova"
+msgstr ""
+
+#: helpers/states.php:696
+msgid "Massa-Carrara"
+msgstr ""
+
+#: helpers/states.php:697
+msgid "Matera"
+msgstr ""
+
+#: helpers/states.php:698
+msgid "Messina"
+msgstr ""
+
+#: helpers/states.php:699
+msgid "Milano"
+msgstr ""
+
+#: helpers/states.php:700
+msgid "Modena"
+msgstr ""
+
+#: helpers/states.php:701
+msgid "Monza e della Brianza"
+msgstr ""
+
+#: helpers/states.php:702
+msgid "Napoli"
+msgstr ""
+
+#: helpers/states.php:703
+msgid "Novara"
+msgstr ""
+
+#: helpers/states.php:704
+msgid "Nuoro"
+msgstr ""
+
+#: helpers/states.php:705
+msgid "Oristano"
+msgstr ""
+
+#: helpers/states.php:706
+msgid "Padova"
+msgstr ""
+
+#: helpers/states.php:707
+msgid "Palermo"
+msgstr ""
+
+#: helpers/states.php:708
+msgid "Parma"
+msgstr ""
+
+#: helpers/states.php:709
+msgid "Pavia"
+msgstr ""
+
+#: helpers/states.php:710
+msgid "Perugia"
+msgstr ""
+
+#: helpers/states.php:711
+msgid "Pesaro e Urbino"
+msgstr ""
+
+#: helpers/states.php:712
+msgid "Pescara"
+msgstr ""
+
+#: helpers/states.php:713
+msgid "Piacenza"
+msgstr ""
+
+#: helpers/states.php:714
+msgid "Pisa"
+msgstr ""
+
+#: helpers/states.php:715
+msgid "Pistoia"
+msgstr ""
+
+#: helpers/states.php:716
+msgid "Pordenone"
+msgstr ""
+
+#: helpers/states.php:717
+msgid "Potenza"
+msgstr ""
+
+#: helpers/states.php:718
+msgid "Prato"
+msgstr ""
+
+#: helpers/states.php:719
+msgid "Ragusa"
+msgstr ""
+
+#: helpers/states.php:720
+msgid "Ravenna"
+msgstr ""
+
+#: helpers/states.php:721
+msgid "Reggio Calabria"
+msgstr ""
+
+#: helpers/states.php:722
+msgid "Reggio Emilia"
+msgstr ""
+
+#: helpers/states.php:723
+msgid "Rieti"
+msgstr ""
+
+#: helpers/states.php:724
+msgid "Rimini"
+msgstr ""
+
+#: helpers/states.php:725
+msgid "Roma"
+msgstr ""
+
+#: helpers/states.php:726
+msgid "Rovigo"
+msgstr ""
+
+#: helpers/states.php:727
+msgid "Salerno"
+msgstr ""
+
+#: helpers/states.php:728
+msgid "Sassari"
+msgstr ""
+
+#: helpers/states.php:729
+msgid "Savona"
+msgstr ""
+
+#: helpers/states.php:730
+msgid "Siena"
+msgstr ""
+
+#: helpers/states.php:731
+msgid "Siracusa"
+msgstr ""
+
+#: helpers/states.php:732
+msgid "Sondrio"
+msgstr ""
+
+#: helpers/states.php:733
+msgid "Sud Sardegna"
+msgstr ""
+
+#: helpers/states.php:734
+msgid "Taranto"
+msgstr ""
+
+#: helpers/states.php:735
+msgid "Teramo"
+msgstr ""
+
+#: helpers/states.php:736
+msgid "Terni"
+msgstr ""
+
+#: helpers/states.php:737
+msgid "Torino"
+msgstr ""
+
+#: helpers/states.php:738
+msgid "Trapani"
+msgstr ""
+
+#: helpers/states.php:739
+msgid "Trento"
+msgstr ""
+
+#: helpers/states.php:740
+msgid "Treviso"
+msgstr ""
+
+#: helpers/states.php:741
+msgid "Trieste"
+msgstr ""
+
+#: helpers/states.php:742
+msgid "Udine"
+msgstr ""
+
+#: helpers/states.php:743
+msgid "Varese"
+msgstr ""
+
+#: helpers/states.php:744
+msgid "Venezia"
+msgstr ""
+
+#: helpers/states.php:745
+msgid "Verbano-Cusio-Ossola"
+msgstr ""
+
+#: helpers/states.php:746
+msgid "Vercelli"
+msgstr ""
+
+#: helpers/states.php:747
+msgid "Verona"
+msgstr ""
+
+#: helpers/states.php:748
+msgid "Vibo Valentia"
+msgstr ""
+
+#: helpers/states.php:749
+msgid "Vicenza"
+msgstr ""
+
+#: helpers/states.php:750
+msgid "Viterbo"
+msgstr ""
+
+#: helpers/states.php:762
+msgid "Hokkaido"
+msgstr ""
+
+#: helpers/states.php:763
+msgid "Aomori"
+msgstr ""
+
+#: helpers/states.php:764
+msgid "Iwate"
+msgstr ""
+
+#: helpers/states.php:765
+msgid "Miyagi"
+msgstr ""
+
+#: helpers/states.php:766
+msgid "Akita"
+msgstr ""
+
+#: helpers/states.php:767
+msgid "Yamagata"
+msgstr ""
+
+#: helpers/states.php:768
+msgid "Fukushima"
+msgstr ""
+
+#: helpers/states.php:769
+msgid "Ibaraki"
+msgstr ""
+
+#: helpers/states.php:770
+msgid "Tochigi"
+msgstr ""
+
+#: helpers/states.php:771
+msgid "Gunma"
+msgstr ""
+
+#: helpers/states.php:772
+msgid "Saitama"
+msgstr ""
+
+#: helpers/states.php:773
+msgid "Chiba"
+msgstr ""
+
+#: helpers/states.php:774
+msgid "Tokyo"
+msgstr ""
+
+#: helpers/states.php:775
+msgid "Kanagawa"
+msgstr ""
+
+#: helpers/states.php:776
+msgid "Niigata"
+msgstr ""
+
+#: helpers/states.php:777
+msgid "Toyama"
+msgstr ""
+
+#: helpers/states.php:778
+msgid "Ishikawa"
+msgstr ""
+
+#: helpers/states.php:779
+msgid "Fukui"
+msgstr ""
+
+#: helpers/states.php:780
+msgid "Yamanashi"
+msgstr ""
+
+#: helpers/states.php:781
+msgid "Nagano"
+msgstr ""
+
+#: helpers/states.php:782
+msgid "Gifu"
+msgstr ""
+
+#: helpers/states.php:783
+msgid "Shizuoka"
+msgstr ""
+
+#: helpers/states.php:784
+msgid "Aichi"
+msgstr ""
+
+#: helpers/states.php:785
+msgid "Mie"
+msgstr ""
+
+#: helpers/states.php:786
+msgid "Shiga"
+msgstr ""
+
+#: helpers/states.php:787
+msgid "Kyoto"
+msgstr ""
+
+#: helpers/states.php:788
+msgid "Osaka"
+msgstr ""
+
+#: helpers/states.php:789
+msgid "Hyogo"
+msgstr ""
+
+#: helpers/states.php:790
+msgid "Nara"
+msgstr ""
+
+#: helpers/states.php:791
+msgid "Wakayama"
+msgstr ""
+
+#: helpers/states.php:792
+msgid "Tottori"
+msgstr ""
+
+#: helpers/states.php:793
+msgid "Shimane"
+msgstr ""
+
+#: helpers/states.php:794
+msgid "Okayama"
+msgstr ""
+
+#: helpers/states.php:795
+msgid "Hiroshima"
+msgstr ""
+
+#: helpers/states.php:796
+msgid "Yamaguchi"
+msgstr ""
+
+#: helpers/states.php:797
+msgid "Tokushima"
+msgstr ""
+
+#: helpers/states.php:798
+msgid "Kagawa"
+msgstr ""
+
+#: helpers/states.php:799
+msgid "Ehime"
+msgstr ""
+
+#: helpers/states.php:800
+msgid "Kochi"
+msgstr ""
+
+#: helpers/states.php:801
+msgid "Fukuoka"
+msgstr ""
+
+#: helpers/states.php:802
+msgid "Saga"
+msgstr ""
+
+#: helpers/states.php:803
+msgid "Nagasaki"
+msgstr ""
+
+#: helpers/states.php:804
+msgid "Kumamoto"
+msgstr ""
+
+#: helpers/states.php:805
+msgid "Oita"
+msgstr ""
+
+#: helpers/states.php:806
+msgid "Miyazaki"
+msgstr ""
+
+#: helpers/states.php:807
+msgid "Kagoshima"
+msgstr ""
+
+#: helpers/states.php:808
+msgid "Okinawa"
+msgstr ""
+
+#: helpers/states.php:811
+msgid "Baringo"
+msgstr ""
+
+#: helpers/states.php:812
+msgid "Bomet"
+msgstr ""
+
+#: helpers/states.php:813
+msgid "Bungoma"
+msgstr ""
+
+#: helpers/states.php:814
+#: helpers/states.php:1513
+msgid "Busia"
+msgstr ""
+
+#: helpers/states.php:815
+msgid "Elgeyo-Marakwet"
+msgstr ""
+
+#: helpers/states.php:816
+msgid "Embu"
+msgstr ""
+
+#: helpers/states.php:817
+msgid "Garissa"
+msgstr ""
+
+#: helpers/states.php:818
+msgid "Homa Bay"
+msgstr ""
+
+#: helpers/states.php:819
+msgid "Isiolo"
+msgstr ""
+
+#: helpers/states.php:820
+msgid "Kajiado"
+msgstr ""
+
+#: helpers/states.php:821
+msgid "Kakamega"
+msgstr ""
+
+#: helpers/states.php:822
+msgid "Kericho"
+msgstr ""
+
+#: helpers/states.php:823
+msgid "Kiambu"
+msgstr ""
+
+#: helpers/states.php:824
+msgid "Kilifi"
+msgstr ""
+
+#: helpers/states.php:825
+msgid "Kirinyaga"
+msgstr ""
+
+#: helpers/states.php:826
+msgid "Kisii"
+msgstr ""
+
+#: helpers/states.php:827
+msgid "Kisumu"
+msgstr ""
+
+#: helpers/states.php:828
+msgid "Kitui"
+msgstr ""
+
+#: helpers/states.php:829
+msgid "Kwale"
+msgstr ""
+
+#: helpers/states.php:830
+msgid "Laikipia"
+msgstr ""
+
+#: helpers/states.php:831
+msgid "Lamu"
+msgstr ""
+
+#: helpers/states.php:832
+msgid "Machakos"
+msgstr ""
+
+#: helpers/states.php:833
+msgid "Makueni"
+msgstr ""
+
+#: helpers/states.php:834
+msgid "Mandera"
+msgstr ""
+
+#: helpers/states.php:835
+msgid "Marsabit"
+msgstr ""
+
+#: helpers/states.php:836
+msgid "Meru"
+msgstr ""
+
+#: helpers/states.php:837
+msgid "Migori"
+msgstr ""
+
+#: helpers/states.php:838
+msgid "Mombasa"
+msgstr ""
+
+#: helpers/states.php:839
+msgid "Murang’a"
+msgstr ""
+
+#: helpers/states.php:840
+msgid "Nairobi County"
+msgstr ""
+
+#: helpers/states.php:841
+msgid "Nakuru"
+msgstr ""
+
+#: helpers/states.php:842
+msgid "Nandi"
+msgstr ""
+
+#: helpers/states.php:843
+msgid "Narok"
+msgstr ""
+
+#: helpers/states.php:844
+msgid "Nyamira"
+msgstr ""
+
+#: helpers/states.php:845
+msgid "Nyandarua"
+msgstr ""
+
+#: helpers/states.php:846
+msgid "Nyeri"
+msgstr ""
+
+#: helpers/states.php:847
+msgid "Samburu"
+msgstr ""
+
+#: helpers/states.php:848
+msgid "Siaya"
+msgstr ""
+
+#: helpers/states.php:849
+msgid "Taita-Taveta"
+msgstr ""
+
+#: helpers/states.php:850
+msgid "Tana River"
+msgstr ""
+
+#: helpers/states.php:851
+msgid "Tharaka-Nithi"
+msgstr ""
+
+#: helpers/states.php:852
+msgid "Trans Nzoia"
+msgstr ""
+
+#: helpers/states.php:853
+msgid "Turkana"
+msgstr ""
+
+#: helpers/states.php:854
+msgid "Uasin Gishu"
+msgstr ""
+
+#: helpers/states.php:855
+msgid "Vihiga"
+msgstr ""
+
+#: helpers/states.php:856
+msgid "Wajir"
+msgstr ""
+
+#: helpers/states.php:857
+msgid "West Pokot"
+msgstr ""
+
+#: helpers/states.php:862
+msgid "Attapeu"
+msgstr ""
+
+#: helpers/states.php:863
+msgid "Bokeo"
+msgstr ""
+
+#: helpers/states.php:864
+msgid "Bolikhamsai"
+msgstr ""
+
+#: helpers/states.php:865
+msgid "Champasak"
+msgstr ""
+
+#: helpers/states.php:866
+msgid "Houaphanh"
+msgstr ""
+
+#: helpers/states.php:867
+msgid "Khammouane"
+msgstr ""
+
+#: helpers/states.php:868
+msgid "Luang Namtha"
+msgstr ""
+
+#: helpers/states.php:869
+msgid "Luang Prabang"
+msgstr ""
+
+#: helpers/states.php:870
+msgid "Oudomxay"
+msgstr ""
+
+#: helpers/states.php:871
+msgid "Phongsaly"
+msgstr ""
+
+#: helpers/states.php:872
+msgid "Salavan"
+msgstr ""
+
+#: helpers/states.php:873
+msgid "Savannakhet"
+msgstr ""
+
+#: helpers/states.php:874
+msgid "Vientiane Province"
+msgstr ""
+
+#: helpers/states.php:875
+msgid "Vientiane"
+msgstr ""
+
+#: helpers/states.php:876
+msgid "Sainyabuli"
+msgstr ""
+
+#: helpers/states.php:877
+msgid "Sekong"
+msgstr ""
+
+#: helpers/states.php:878
+msgid "Xiangkhouang"
+msgstr ""
+
+#: helpers/states.php:879
+msgid "Xaisomboun"
+msgstr ""
+
+#: helpers/states.php:883
+msgid "Bomi"
+msgstr ""
+
+#: helpers/states.php:884
+msgid "Bong"
+msgstr ""
+
+#: helpers/states.php:885
+msgid "Gbarpolu"
+msgstr ""
+
+#: helpers/states.php:886
+msgid "Grand Bassa"
+msgstr ""
+
+#: helpers/states.php:887
+msgid "Grand Cape Mount"
+msgstr ""
+
+#: helpers/states.php:888
+msgid "Grand Gedeh"
+msgstr ""
+
+#: helpers/states.php:889
+msgid "Grand Kru"
+msgstr ""
+
+#: helpers/states.php:890
+msgid "Lofa"
+msgstr ""
+
+#: helpers/states.php:891
+msgid "Margibi"
+msgstr ""
+
+#: helpers/states.php:892
+#: helpers/states.php:1650
+msgid "Maryland"
+msgstr ""
+
+#: helpers/states.php:893
+msgid "Montserrado"
+msgstr ""
+
+#: helpers/states.php:894
+msgid "Nimba"
+msgstr ""
+
+#: helpers/states.php:895
+msgid "Rivercess"
+msgstr ""
+
+#: helpers/states.php:896
+msgid "River Gee"
+msgstr ""
+
+#: helpers/states.php:897
+msgid "Sinoe"
+msgstr ""
+
+#: helpers/states.php:901
+msgid "Chișinău"
+msgstr ""
+
+#: helpers/states.php:902
+msgid "Bălți"
+msgstr ""
+
+#: helpers/states.php:903
+msgid "Anenii Noi"
+msgstr ""
+
+#: helpers/states.php:904
+msgid "Basarabeasca"
+msgstr ""
+
+#: helpers/states.php:905
+msgid "Briceni"
+msgstr ""
+
+#: helpers/states.php:906
+msgid "Cahul"
+msgstr ""
+
+#: helpers/states.php:907
+msgid "Cantemir"
+msgstr ""
+
+#: helpers/states.php:908
+#: helpers/states.php:1256
+msgid "Călărași"
+msgstr ""
+
+#: helpers/states.php:909
+msgid "Căușeni"
+msgstr ""
+
+#: helpers/states.php:910
+msgid "Cimișlia"
+msgstr ""
+
+#: helpers/states.php:911
+msgid "Criuleni"
+msgstr ""
+
+#: helpers/states.php:912
+msgid "Dondușeni"
+msgstr ""
+
+#: helpers/states.php:913
+msgid "Drochia"
+msgstr ""
+
+#: helpers/states.php:914
+msgid "Dubăsari"
+msgstr ""
+
+#: helpers/states.php:915
+msgid "Edineț"
+msgstr ""
+
+#: helpers/states.php:916
+msgid "Fălești"
+msgstr ""
+
+#: helpers/states.php:917
+msgid "Florești"
+msgstr ""
+
+#: helpers/states.php:918
+msgid "UTA Găgăuzia"
+msgstr ""
+
+#: helpers/states.php:919
+msgid "Glodeni"
+msgstr ""
+
+#: helpers/states.php:920
+msgid "Hîncești"
+msgstr ""
+
+#: helpers/states.php:921
+msgid "Ialoveni"
+msgstr ""
+
+#: helpers/states.php:922
+msgid "Leova"
+msgstr ""
+
+#: helpers/states.php:923
+msgid "Nisporeni"
+msgstr ""
+
+#: helpers/states.php:924
+msgid "Ocnița"
+msgstr ""
+
+#: helpers/states.php:925
+msgid "Orhei"
+msgstr ""
+
+#: helpers/states.php:926
+msgid "Rezina"
+msgstr ""
+
+#: helpers/states.php:927
+msgid "Rîșcani"
+msgstr ""
+
+#: helpers/states.php:928
+msgid "Sîngerei"
+msgstr ""
+
+#: helpers/states.php:929
+msgid "Soroca"
+msgstr ""
+
+#: helpers/states.php:930
+msgid "Strășeni"
+msgstr ""
+
+#: helpers/states.php:931
+msgid "Șoldănești"
+msgstr ""
+
+#: helpers/states.php:932
+msgid "Ștefan Vodă"
+msgstr ""
+
+#: helpers/states.php:933
+msgid "Taraclia"
+msgstr ""
+
+#: helpers/states.php:934
+msgid "Telenești"
+msgstr ""
+
+#: helpers/states.php:935
+msgid "Ungheni"
+msgstr ""
+
+#: helpers/states.php:940
+msgid "Ciudad de México"
+msgstr ""
+
+#: helpers/states.php:941
+msgid "Jalisco"
+msgstr ""
+
+#: helpers/states.php:942
+msgid "Nuevo León"
+msgstr ""
+
+#: helpers/states.php:943
+msgid "Aguascalientes"
+msgstr ""
+
+#: helpers/states.php:944
+msgid "Baja California"
+msgstr ""
+
+#: helpers/states.php:945
+msgid "Baja California Sur"
+msgstr ""
+
+#: helpers/states.php:946
+msgid "Campeche"
+msgstr ""
+
+#: helpers/states.php:947
+msgid "Chiapas"
+msgstr ""
+
+#: helpers/states.php:948
+msgid "Chihuahua"
+msgstr ""
+
+#: helpers/states.php:949
+msgid "Coahuila"
+msgstr ""
+
+#: helpers/states.php:950
+msgid "Colima"
+msgstr ""
+
+#: helpers/states.php:951
+msgid "Durango"
+msgstr ""
+
+#: helpers/states.php:952
+msgid "Guanajuato"
+msgstr ""
+
+#: helpers/states.php:953
+msgid "Guerrero"
+msgstr ""
+
+#: helpers/states.php:954
+msgid "Hidalgo"
+msgstr ""
+
+#: helpers/states.php:955
+msgid "Estado de México"
+msgstr ""
+
+#: helpers/states.php:956
+msgid "Michoacán"
+msgstr ""
+
+#: helpers/states.php:957
+msgid "Morelos"
+msgstr ""
+
+#: helpers/states.php:958
+msgid "Nayarit"
+msgstr ""
+
+#: helpers/states.php:959
+msgid "Oaxaca"
+msgstr ""
+
+#: helpers/states.php:960
+msgid "Puebla"
+msgstr ""
+
+#: helpers/states.php:961
+msgid "Querétaro"
+msgstr ""
+
+#: helpers/states.php:962
+msgid "Quintana Roo"
+msgstr ""
+
+#: helpers/states.php:963
+msgid "San Luis Potosí"
+msgstr ""
+
+#: helpers/states.php:964
+msgid "Sinaloa"
+msgstr ""
+
+#: helpers/states.php:965
+msgid "Sonora"
+msgstr ""
+
+#: helpers/states.php:966
+msgid "Tabasco"
+msgstr ""
+
+#: helpers/states.php:967
+msgid "Tamaulipas"
+msgstr ""
+
+#: helpers/states.php:968
+msgid "Tlaxcala"
+msgstr ""
+
+#: helpers/states.php:969
+msgid "Veracruz"
+msgstr ""
+
+#: helpers/states.php:970
+msgid "Yucatán"
+msgstr ""
+
+#: helpers/states.php:971
+msgid "Zacatecas"
+msgstr ""
+
+#: helpers/states.php:974
+msgid "Johor"
+msgstr ""
+
+#: helpers/states.php:975
+msgid "Kedah"
+msgstr ""
+
+#: helpers/states.php:976
+msgid "Kelantan"
+msgstr ""
+
+#: helpers/states.php:977
+msgid "Labuan"
+msgstr ""
+
+#: helpers/states.php:978
+msgid "Malacca (Melaka)"
+msgstr ""
+
+#: helpers/states.php:979
+msgid "Negeri Sembilan"
+msgstr ""
+
+#: helpers/states.php:980
+msgid "Pahang"
+msgstr ""
+
+#: helpers/states.php:981
+msgid "Penang (Pulau Pinang)"
+msgstr ""
+
+#: helpers/states.php:982
+msgid "Perak"
+msgstr ""
+
+#: helpers/states.php:983
+msgid "Perlis"
+msgstr ""
+
+#: helpers/states.php:984
+msgid "Sabah"
+msgstr ""
+
+#: helpers/states.php:985
+msgid "Sarawak"
+msgstr ""
+
+#: helpers/states.php:986
+msgid "Selangor"
+msgstr ""
+
+#: helpers/states.php:987
+msgid "Terengganu"
+msgstr ""
+
+#: helpers/states.php:988
+msgid "Putrajaya"
+msgstr ""
+
+#: helpers/states.php:989
+msgid "Kuala Lumpur"
+msgstr ""
+
+#: helpers/states.php:992
+msgid "Cabo Delgado"
+msgstr ""
+
+#: helpers/states.php:993
+msgid "Gaza"
+msgstr ""
+
+#: helpers/states.php:994
+msgid "Inhambane"
+msgstr ""
+
+#: helpers/states.php:995
+msgid "Manica"
+msgstr ""
+
+#: helpers/states.php:996
+msgid "Maputo Province"
+msgstr ""
+
+#: helpers/states.php:997
+msgid "Maputo"
+msgstr ""
+
+#: helpers/states.php:998
+msgid "Nampula"
+msgstr ""
+
+#: helpers/states.php:999
+msgid "Niassa"
+msgstr ""
+
+#: helpers/states.php:1000
+msgid "Sofala"
+msgstr ""
+
+#: helpers/states.php:1001
+msgid "Tete"
+msgstr ""
+
+#: helpers/states.php:1002
+msgid "Zambézia"
+msgstr ""
+
+#: helpers/states.php:1005
+msgid "Erongo"
+msgstr ""
+
+#: helpers/states.php:1006
+msgid "Hardap"
+msgstr ""
+
+#: helpers/states.php:1007
+msgid "Karas"
+msgstr ""
+
+#: helpers/states.php:1008
+msgid "Kavango East"
+msgstr ""
+
+#: helpers/states.php:1009
+msgid "Kavango West"
+msgstr ""
+
+#: helpers/states.php:1010
+msgid "Khomas"
+msgstr ""
+
+#: helpers/states.php:1011
+msgid "Kunene"
+msgstr ""
+
+#: helpers/states.php:1012
+msgid "Ohangwena"
+msgstr ""
+
+#: helpers/states.php:1013
+msgid "Omaheke"
+msgstr ""
+
+#: helpers/states.php:1014
+msgid "Omusati"
+msgstr ""
+
+#: helpers/states.php:1015
+msgid "Oshana"
+msgstr ""
+
+#: helpers/states.php:1016
+msgid "Oshikoto"
+msgstr ""
+
+#: helpers/states.php:1017
+msgid "Otjozondjupa"
+msgstr ""
+
+#: helpers/states.php:1018
+msgid "Zambezi"
+msgstr ""
+
+#: helpers/states.php:1021
+msgid "Abia"
+msgstr ""
+
+#: helpers/states.php:1022
+msgid "Abuja"
+msgstr ""
+
+#: helpers/states.php:1023
+msgid "Adamawa"
+msgstr ""
+
+#: helpers/states.php:1024
+msgid "Akwa Ibom"
+msgstr ""
+
+#: helpers/states.php:1025
+msgid "Anambra"
+msgstr ""
+
+#: helpers/states.php:1026
+msgid "Bauchi"
+msgstr ""
+
+#: helpers/states.php:1027
+msgid "Bayelsa"
+msgstr ""
+
+#: helpers/states.php:1028
+msgid "Benue"
+msgstr ""
+
+#: helpers/states.php:1029
+msgid "Borno"
+msgstr ""
+
+#: helpers/states.php:1030
+msgid "Cross River"
+msgstr ""
+
+#: helpers/states.php:1031
+msgid "Delta"
+msgstr ""
+
+#: helpers/states.php:1032
+msgid "Ebonyi"
+msgstr ""
+
+#: helpers/states.php:1033
+msgid "Edo"
+msgstr ""
+
+#: helpers/states.php:1034
+msgid "Ekiti"
+msgstr ""
+
+#: helpers/states.php:1035
+msgid "Enugu"
+msgstr ""
+
+#: helpers/states.php:1036
+msgid "Gombe"
+msgstr ""
+
+#: helpers/states.php:1037
+msgid "Imo"
+msgstr ""
+
+#: helpers/states.php:1038
+msgid "Jigawa"
+msgstr ""
+
+#: helpers/states.php:1039
+msgid "Kaduna"
+msgstr ""
+
+#: helpers/states.php:1040
+msgid "Kano"
+msgstr ""
+
+#: helpers/states.php:1041
+msgid "Katsina"
+msgstr ""
+
+#: helpers/states.php:1042
+msgid "Kebbi"
+msgstr ""
+
+#: helpers/states.php:1043
+msgid "Kogi"
+msgstr ""
+
+#: helpers/states.php:1044
+msgid "Kwara"
+msgstr ""
+
+#: helpers/states.php:1045
+msgid "Lagos"
+msgstr ""
+
+#: helpers/states.php:1046
+msgid "Nasarawa"
+msgstr ""
+
+#: helpers/states.php:1047
+msgid "Niger"
+msgstr ""
+
+#: helpers/states.php:1048
+msgid "Ogun"
+msgstr ""
+
+#: helpers/states.php:1049
+msgid "Ondo"
+msgstr ""
+
+#: helpers/states.php:1050
+msgid "Osun"
+msgstr ""
+
+#: helpers/states.php:1051
+msgid "Oyo"
+msgstr ""
+
+#: helpers/states.php:1053
+msgid "Rivers"
+msgstr ""
+
+#: helpers/states.php:1054
+msgid "Sokoto"
+msgstr ""
+
+#: helpers/states.php:1055
+msgid "Taraba"
+msgstr ""
+
+#: helpers/states.php:1056
+msgid "Yobe"
+msgstr ""
+
+#: helpers/states.php:1057
+msgid "Zamfara"
+msgstr ""
+
+#: helpers/states.php:1062
+msgid "Bagmati"
+msgstr ""
+
+#: helpers/states.php:1063
+msgid "Bheri"
+msgstr ""
+
+#: helpers/states.php:1064
+msgid "Dhaulagiri"
+msgstr ""
+
+#: helpers/states.php:1065
+msgid "Gandaki"
+msgstr ""
+
+#: helpers/states.php:1066
+msgid "Janakpur"
+msgstr ""
+
+#: helpers/states.php:1067
+msgid "Karnali"
+msgstr ""
+
+#: helpers/states.php:1068
+msgid "Koshi"
+msgstr ""
+
+#: helpers/states.php:1069
+msgid "Lumbini"
+msgstr ""
+
+#: helpers/states.php:1070
+msgid "Mahakali"
+msgstr ""
+
+#: helpers/states.php:1071
+msgid "Mechi"
+msgstr ""
+
+#: helpers/states.php:1072
+msgid "Narayani"
+msgstr ""
+
+#: helpers/states.php:1073
+msgid "Rapti"
+msgstr ""
+
+#: helpers/states.php:1074
+msgid "Sagarmatha"
+msgstr ""
+
+#: helpers/states.php:1075
+msgid "Seti"
+msgstr ""
+
+#: helpers/states.php:1078
+msgid "Northland"
+msgstr ""
+
+#: helpers/states.php:1079
+msgid "Auckland"
+msgstr ""
+
+#: helpers/states.php:1080
+msgid "Waikato"
+msgstr ""
+
+#: helpers/states.php:1081
+msgid "Bay of Plenty"
+msgstr ""
+
+#: helpers/states.php:1082
+msgid "Taranaki"
+msgstr ""
+
+#: helpers/states.php:1083
+msgid "Gisborne"
+msgstr ""
+
+#: helpers/states.php:1084
+msgid "Hawke’s Bay"
+msgstr ""
+
+#: helpers/states.php:1085
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+#: helpers/states.php:1086
+msgid "Wellington"
+msgstr ""
+
+#: helpers/states.php:1087
+msgid "Nelson"
+msgstr ""
+
+#: helpers/states.php:1088
+msgid "Marlborough"
+msgstr ""
+
+#: helpers/states.php:1089
+msgid "Tasman"
+msgstr ""
+
+#: helpers/states.php:1090
+msgid "West Coast"
+msgstr ""
+
+#: helpers/states.php:1091
+msgid "Canterbury"
+msgstr ""
+
+#: helpers/states.php:1092
+msgid "Otago"
+msgstr ""
+
+#: helpers/states.php:1093
+msgid "Southland"
+msgstr ""
+
+#: helpers/states.php:1096
+msgid "El Callao"
+msgstr ""
+
+#: helpers/states.php:1097
+msgid "Municipalidad Metropolitana de Lima"
+msgstr ""
+
+#: helpers/states.php:1099
+msgid "Ancash"
+msgstr ""
+
+#: helpers/states.php:1100
+msgid "Apurímac"
+msgstr ""
+
+#: helpers/states.php:1101
+msgid "Arequipa"
+msgstr ""
+
+#: helpers/states.php:1102
+msgid "Ayacucho"
+msgstr ""
+
+#: helpers/states.php:1103
+msgid "Cajamarca"
+msgstr ""
+
+#: helpers/states.php:1104
+msgid "Cusco"
+msgstr ""
+
+#: helpers/states.php:1105
+msgid "Huancavelica"
+msgstr ""
+
+#: helpers/states.php:1106
+msgid "Huánuco"
+msgstr ""
+
+#: helpers/states.php:1107
+msgid "Ica"
+msgstr ""
+
+#: helpers/states.php:1108
+msgid "Junín"
+msgstr ""
+
+#: helpers/states.php:1109
+msgid "La Libertad"
+msgstr ""
+
+#: helpers/states.php:1110
+msgid "Lambayeque"
+msgstr ""
+
+#: helpers/states.php:1111
+msgid "Lima"
+msgstr ""
+
+#: helpers/states.php:1112
+msgid "Loreto"
+msgstr ""
+
+#: helpers/states.php:1113
+msgid "Madre de Dios"
+msgstr ""
+
+#: helpers/states.php:1114
+msgid "Moquegua"
+msgstr ""
+
+#: helpers/states.php:1115
+msgid "Pasco"
+msgstr ""
+
+#: helpers/states.php:1116
+msgid "Piura"
+msgstr ""
+
+#: helpers/states.php:1117
+msgid "Puno"
+msgstr ""
+
+#: helpers/states.php:1118
+msgid "San Martín"
+msgstr ""
+
+#: helpers/states.php:1119
+msgid "Tacna"
+msgstr ""
+
+#: helpers/states.php:1120
+msgid "Tumbes"
+msgstr ""
+
+#: helpers/states.php:1121
+msgid "Ucayali"
+msgstr ""
+
+#: helpers/states.php:1128
+msgid "Abra"
+msgstr ""
+
+#: helpers/states.php:1129
+msgid "Agusan del Norte"
+msgstr ""
+
+#: helpers/states.php:1130
+msgid "Agusan del Sur"
+msgstr ""
+
+#: helpers/states.php:1131
+msgid "Aklan"
+msgstr ""
+
+#: helpers/states.php:1132
+msgid "Albay"
+msgstr ""
+
+#: helpers/states.php:1133
+msgid "Antique"
+msgstr ""
+
+#: helpers/states.php:1134
+msgid "Apayao"
+msgstr ""
+
+#: helpers/states.php:1135
+msgid "Aurora"
+msgstr ""
+
+#: helpers/states.php:1136
+msgid "Basilan"
+msgstr ""
+
+#: helpers/states.php:1137
+msgid "Bataan"
+msgstr ""
+
+#: helpers/states.php:1138
+msgid "Batanes"
+msgstr ""
+
+#: helpers/states.php:1139
+msgid "Batangas"
+msgstr ""
+
+#: helpers/states.php:1140
+msgid "Benguet"
+msgstr ""
+
+#: helpers/states.php:1141
+msgid "Biliran"
+msgstr ""
+
+#: helpers/states.php:1142
+msgid "Bohol"
+msgstr ""
+
+#: helpers/states.php:1143
+msgid "Bukidnon"
+msgstr ""
+
+#: helpers/states.php:1144
+msgid "Bulacan"
+msgstr ""
+
+#: helpers/states.php:1145
+msgid "Cagayan"
+msgstr ""
+
+#: helpers/states.php:1146
+msgid "Camarines Norte"
+msgstr ""
+
+#: helpers/states.php:1147
+msgid "Camarines Sur"
+msgstr ""
+
+#: helpers/states.php:1148
+msgid "Camiguin"
+msgstr ""
+
+#: helpers/states.php:1149
+msgid "Capiz"
+msgstr ""
+
+#: helpers/states.php:1150
+msgid "Catanduanes"
+msgstr ""
+
+#: helpers/states.php:1151
+msgid "Cavite"
+msgstr ""
+
+#: helpers/states.php:1152
+msgid "Cebu"
+msgstr ""
+
+#: helpers/states.php:1153
+msgid "Compostela Valley"
+msgstr ""
+
+#: helpers/states.php:1154
+msgid "Cotabato"
+msgstr ""
+
+#: helpers/states.php:1155
+msgid "Davao del Norte"
+msgstr ""
+
+#: helpers/states.php:1156
+msgid "Davao del Sur"
+msgstr ""
+
+#: helpers/states.php:1157
+msgid "Davao Occidental"
+msgstr ""
+
+#: helpers/states.php:1158
+msgid "Davao Oriental"
+msgstr ""
+
+#: helpers/states.php:1159
+msgid "Dinagat Islands"
+msgstr ""
+
+#: helpers/states.php:1160
+msgid "Eastern Samar"
+msgstr ""
+
+#: helpers/states.php:1161
+msgid "Guimaras"
+msgstr ""
+
+#: helpers/states.php:1162
+msgid "Ifugao"
+msgstr ""
+
+#: helpers/states.php:1163
+msgid "Ilocos Norte"
+msgstr ""
+
+#: helpers/states.php:1164
+msgid "Ilocos Sur"
+msgstr ""
+
+#: helpers/states.php:1165
+msgid "Iloilo"
+msgstr ""
+
+#: helpers/states.php:1166
+msgid "Isabela"
+msgstr ""
+
+#: helpers/states.php:1167
+msgid "Kalinga"
+msgstr ""
+
+#: helpers/states.php:1168
+msgid "La Union"
+msgstr ""
+
+#: helpers/states.php:1169
+msgid "Laguna"
+msgstr ""
+
+#: helpers/states.php:1170
+msgid "Lanao del Norte"
+msgstr ""
+
+#: helpers/states.php:1171
+msgid "Lanao del Sur"
+msgstr ""
+
+#: helpers/states.php:1172
+msgid "Leyte"
+msgstr ""
+
+#: helpers/states.php:1173
+msgid "Maguindanao"
+msgstr ""
+
+#: helpers/states.php:1174
+msgid "Marinduque"
+msgstr ""
+
+#: helpers/states.php:1175
+msgid "Masbate"
+msgstr ""
+
+#: helpers/states.php:1176
+msgid "Misamis Occidental"
+msgstr ""
+
+#: helpers/states.php:1177
+msgid "Misamis Oriental"
+msgstr ""
+
+#: helpers/states.php:1178
+msgid "Mountain Province"
+msgstr ""
+
+#: helpers/states.php:1179
+msgid "Negros Occidental"
+msgstr ""
+
+#: helpers/states.php:1180
+msgid "Negros Oriental"
+msgstr ""
+
+#: helpers/states.php:1181
+msgid "Northern Samar"
+msgstr ""
+
+#: helpers/states.php:1182
+msgid "Nueva Ecija"
+msgstr ""
+
+#: helpers/states.php:1183
+msgid "Nueva Vizcaya"
+msgstr ""
+
+#: helpers/states.php:1184
+msgid "Occidental Mindoro"
+msgstr ""
+
+#: helpers/states.php:1185
+msgid "Oriental Mindoro"
+msgstr ""
+
+#: helpers/states.php:1186
+msgid "Palawan"
+msgstr ""
+
+#: helpers/states.php:1187
+msgid "Pampanga"
+msgstr ""
+
+#: helpers/states.php:1188
+msgid "Pangasinan"
+msgstr ""
+
+#: helpers/states.php:1189
+msgid "Quezon"
+msgstr ""
+
+#: helpers/states.php:1190
+msgid "Quirino"
+msgstr ""
+
+#: helpers/states.php:1191
+msgid "Rizal"
+msgstr ""
+
+#: helpers/states.php:1192
+msgid "Romblon"
+msgstr ""
+
+#: helpers/states.php:1193
+msgid "Samar"
+msgstr ""
+
+#: helpers/states.php:1194
+msgid "Sarangani"
+msgstr ""
+
+#: helpers/states.php:1195
+msgid "Siquijor"
+msgstr ""
+
+#: helpers/states.php:1196
+msgid "Sorsogon"
+msgstr ""
+
+#: helpers/states.php:1197
+msgid "South Cotabato"
+msgstr ""
+
+#: helpers/states.php:1198
+msgid "Southern Leyte"
+msgstr ""
+
+#: helpers/states.php:1199
+msgid "Sultan Kudarat"
+msgstr ""
+
+#: helpers/states.php:1200
+msgid "Sulu"
+msgstr ""
+
+#: helpers/states.php:1201
+msgid "Surigao del Norte"
+msgstr ""
+
+#: helpers/states.php:1202
+msgid "Surigao del Sur"
+msgstr ""
+
+#: helpers/states.php:1203
+msgid "Tarlac"
+msgstr ""
+
+#: helpers/states.php:1204
+msgid "Tawi-Tawi"
+msgstr ""
+
+#: helpers/states.php:1205
+msgid "Zambales"
+msgstr ""
+
+#: helpers/states.php:1206
+msgid "Zamboanga del Norte"
+msgstr ""
+
+#: helpers/states.php:1207
+msgid "Zamboanga del Sur"
+msgstr ""
+
+#: helpers/states.php:1208
+msgid "Zamboanga Sibugay"
+msgstr ""
+
+#: helpers/states.php:1209
+msgid "Metro Manila"
+msgstr ""
+
+#: helpers/states.php:1212
+msgid "Azad Kashmir"
+msgstr ""
+
+#: helpers/states.php:1213
+msgid "Balochistan"
+msgstr ""
+
+#: helpers/states.php:1214
+msgid "FATA"
+msgstr ""
+
+#: helpers/states.php:1215
+msgid "Gilgit Baltistan"
+msgstr ""
+
+#: helpers/states.php:1216
+msgid "Islamabad Capital Territory"
+msgstr ""
+
+#: helpers/states.php:1217
+msgid "Khyber Pakhtunkhwa"
+msgstr ""
+
+#: helpers/states.php:1219
+msgid "Sindh"
+msgstr ""
+
+#: helpers/states.php:1224
+msgid "Asunción"
+msgstr ""
+
+#: helpers/states.php:1225
+msgid "Concepción"
+msgstr ""
+
+#: helpers/states.php:1226
+msgid "San Pedro"
+msgstr ""
+
+#: helpers/states.php:1227
+msgid "Cordillera"
+msgstr ""
+
+#: helpers/states.php:1228
+msgid "Guairá"
+msgstr ""
+
+#: helpers/states.php:1229
+msgid "Caaguazú"
+msgstr ""
+
+#: helpers/states.php:1230
+msgid "Caazapá"
+msgstr ""
+
+#: helpers/states.php:1231
+msgid "Itapúa"
+msgstr ""
+
+#: helpers/states.php:1233
+msgid "Paraguarí"
+msgstr ""
+
+#: helpers/states.php:1234
+msgid "Alto Paraná"
+msgstr ""
+
+#: helpers/states.php:1236
+msgid "Ñeembucú"
+msgstr ""
+
+#: helpers/states.php:1237
+msgid "Amambay"
+msgstr ""
+
+#: helpers/states.php:1238
+msgid "Canindeyú"
+msgstr ""
+
+#: helpers/states.php:1239
+msgid "Presidente Hayes"
+msgstr ""
+
+#: helpers/states.php:1240
+msgid "Alto Paraguay"
+msgstr ""
+
+#: helpers/states.php:1241
+msgid "Boquerón"
+msgstr ""
+
+#: helpers/states.php:1245
+msgid "Alba"
+msgstr ""
+
+#: helpers/states.php:1246
+msgid "Arad"
+msgstr ""
+
+#: helpers/states.php:1247
+msgid "Argeș"
+msgstr ""
+
+#: helpers/states.php:1248
+msgid "Bacău"
+msgstr ""
+
+#: helpers/states.php:1249
+msgid "Bihor"
+msgstr ""
+
+#: helpers/states.php:1250
+msgid "Bistrița-Năsăud"
+msgstr ""
+
+#: helpers/states.php:1251
+msgid "Botoșani"
+msgstr ""
+
+#: helpers/states.php:1252
+msgid "Brăila"
+msgstr ""
+
+#: helpers/states.php:1253
+msgid "Brașov"
+msgstr ""
+
+#: helpers/states.php:1254
+msgid "București"
+msgstr ""
+
+#: helpers/states.php:1255
+msgid "Buzău"
+msgstr ""
+
+#: helpers/states.php:1257
+msgid "Caraș-Severin"
+msgstr ""
+
+#: helpers/states.php:1258
+msgid "Cluj"
+msgstr ""
+
+#: helpers/states.php:1259
+msgid "Constanța"
+msgstr ""
+
+#: helpers/states.php:1260
+msgid "Covasna"
+msgstr ""
+
+#: helpers/states.php:1261
+msgid "Dâmbovița"
+msgstr ""
+
+#: helpers/states.php:1262
+msgid "Dolj"
+msgstr ""
+
+#: helpers/states.php:1263
+msgid "Galați"
+msgstr ""
+
+#: helpers/states.php:1264
+msgid "Giurgiu"
+msgstr ""
+
+#: helpers/states.php:1265
+msgid "Gorj"
+msgstr ""
+
+#: helpers/states.php:1266
+msgid "Harghita"
+msgstr ""
+
+#: helpers/states.php:1267
+msgid "Hunedoara"
+msgstr ""
+
+#: helpers/states.php:1268
+msgid "Ialomița"
+msgstr ""
+
+#: helpers/states.php:1269
+msgid "Iași"
+msgstr ""
+
+#: helpers/states.php:1270
+msgid "Ilfov"
+msgstr ""
+
+#: helpers/states.php:1271
+msgid "Maramureș"
+msgstr ""
+
+#: helpers/states.php:1272
+msgid "Mehedinți"
+msgstr ""
+
+#: helpers/states.php:1273
+msgid "Mureș"
+msgstr ""
+
+#: helpers/states.php:1274
+msgid "Neamț"
+msgstr ""
+
+#: helpers/states.php:1275
+msgid "Olt"
+msgstr ""
+
+#: helpers/states.php:1276
+msgid "Prahova"
+msgstr ""
+
+#: helpers/states.php:1277
+msgid "Sălaj"
+msgstr ""
+
+#: helpers/states.php:1278
+msgid "Satu Mare"
+msgstr ""
+
+#: helpers/states.php:1279
+msgid "Sibiu"
+msgstr ""
+
+#: helpers/states.php:1280
+msgid "Suceava"
+msgstr ""
+
+#: helpers/states.php:1281
+msgid "Teleorman"
+msgstr ""
+
+#: helpers/states.php:1282
+msgid "Timiș"
+msgstr ""
+
+#: helpers/states.php:1283
+msgid "Tulcea"
+msgstr ""
+
+#: helpers/states.php:1284
+msgid "Vâlcea"
+msgstr ""
+
+#: helpers/states.php:1285
+msgid "Vaslui"
+msgstr ""
+
+#: helpers/states.php:1286
+msgid "Vrancea"
+msgstr ""
+
+#: helpers/states.php:1293
+msgid "Amnat Charoen"
+msgstr ""
+
+#: helpers/states.php:1294
+msgid "Ang Thong"
+msgstr ""
+
+#: helpers/states.php:1295
+msgid "Ayutthaya"
+msgstr ""
+
+#: helpers/states.php:1296
+msgid "Bangkok"
+msgstr ""
+
+#: helpers/states.php:1297
+msgid "Bueng Kan"
+msgstr ""
+
+#: helpers/states.php:1298
+msgid "Buri Ram"
+msgstr ""
+
+#: helpers/states.php:1299
+msgid "Chachoengsao"
+msgstr ""
+
+#: helpers/states.php:1300
+msgid "Chai Nat"
+msgstr ""
+
+#: helpers/states.php:1301
+msgid "Chaiyaphum"
+msgstr ""
+
+#: helpers/states.php:1302
+msgid "Chanthaburi"
+msgstr ""
+
+#: helpers/states.php:1303
+msgid "Chiang Mai"
+msgstr ""
+
+#: helpers/states.php:1304
+msgid "Chiang Rai"
+msgstr ""
+
+#: helpers/states.php:1305
+msgid "Chonburi"
+msgstr ""
+
+#: helpers/states.php:1306
+msgid "Chumphon"
+msgstr ""
+
+#: helpers/states.php:1307
+msgid "Kalasin"
+msgstr ""
+
+#: helpers/states.php:1308
+msgid "Kamphaeng Phet"
+msgstr ""
+
+#: helpers/states.php:1309
+msgid "Kanchanaburi"
+msgstr ""
+
+#: helpers/states.php:1310
+msgid "Khon Kaen"
+msgstr ""
+
+#: helpers/states.php:1311
+msgid "Krabi"
+msgstr ""
+
+#: helpers/states.php:1312
+msgid "Lampang"
+msgstr ""
+
+#: helpers/states.php:1313
+msgid "Lamphun"
+msgstr ""
+
+#: helpers/states.php:1314
+msgid "Loei"
+msgstr ""
+
+#: helpers/states.php:1315
+msgid "Lopburi"
+msgstr ""
+
+#: helpers/states.php:1316
+msgid "Mae Hong Son"
+msgstr ""
+
+#: helpers/states.php:1317
+msgid "Maha Sarakham"
+msgstr ""
+
+#: helpers/states.php:1318
+msgid "Mukdahan"
+msgstr ""
+
+#: helpers/states.php:1319
+msgid "Nakhon Nayok"
+msgstr ""
+
+#: helpers/states.php:1320
+msgid "Nakhon Pathom"
+msgstr ""
+
+#: helpers/states.php:1321
+msgid "Nakhon Phanom"
+msgstr ""
+
+#: helpers/states.php:1322
+msgid "Nakhon Ratchasima"
+msgstr ""
+
+#: helpers/states.php:1323
+msgid "Nakhon Sawan"
+msgstr ""
+
+#: helpers/states.php:1324
+msgid "Nakhon Si Thammarat"
+msgstr ""
+
+#: helpers/states.php:1325
+msgid "Nan"
+msgstr ""
+
+#: helpers/states.php:1326
+msgid "Narathiwat"
+msgstr ""
+
+#: helpers/states.php:1327
+msgid "Nong Bua Lam Phu"
+msgstr ""
+
+#: helpers/states.php:1328
+msgid "Nong Khai"
+msgstr ""
+
+#: helpers/states.php:1329
+msgid "Nonthaburi"
+msgstr ""
+
+#: helpers/states.php:1330
+msgid "Pathum Thani"
+msgstr ""
+
+#: helpers/states.php:1331
+msgid "Pattani"
+msgstr ""
+
+#: helpers/states.php:1332
+msgid "Phang Nga"
+msgstr ""
+
+#: helpers/states.php:1333
+msgid "Phatthalung"
+msgstr ""
+
+#: helpers/states.php:1334
+msgid "Phayao"
+msgstr ""
+
+#: helpers/states.php:1335
+msgid "Phetchabun"
+msgstr ""
+
+#: helpers/states.php:1336
+msgid "Phetchaburi"
+msgstr ""
+
+#: helpers/states.php:1337
+msgid "Phichit"
+msgstr ""
+
+#: helpers/states.php:1338
+msgid "Phitsanulok"
+msgstr ""
+
+#: helpers/states.php:1339
+msgid "Phrae"
+msgstr ""
+
+#: helpers/states.php:1340
+msgid "Phuket"
+msgstr ""
+
+#: helpers/states.php:1341
+msgid "Prachin Buri"
+msgstr ""
+
+#: helpers/states.php:1342
+msgid "Prachuap Khiri Khan"
+msgstr ""
+
+#: helpers/states.php:1343
+msgid "Ranong"
+msgstr ""
+
+#: helpers/states.php:1344
+msgid "Ratchaburi"
+msgstr ""
+
+#: helpers/states.php:1345
+msgid "Rayong"
+msgstr ""
+
+#: helpers/states.php:1346
+msgid "Roi Et"
+msgstr ""
+
+#: helpers/states.php:1347
+msgid "Sa Kaeo"
+msgstr ""
+
+#: helpers/states.php:1348
+msgid "Sakon Nakhon"
+msgstr ""
+
+#: helpers/states.php:1349
+msgid "Samut Prakan"
+msgstr ""
+
+#: helpers/states.php:1350
+msgid "Samut Sakhon"
+msgstr ""
+
+#: helpers/states.php:1351
+msgid "Samut Songkhram"
+msgstr ""
+
+#: helpers/states.php:1352
+msgid "Saraburi"
+msgstr ""
+
+#: helpers/states.php:1353
+msgid "Satun"
+msgstr ""
+
+#: helpers/states.php:1354
+msgid "Sing Buri"
+msgstr ""
+
+#: helpers/states.php:1355
+msgid "Sisaket"
+msgstr ""
+
+#: helpers/states.php:1356
+msgid "Songkhla"
+msgstr ""
+
+#: helpers/states.php:1357
+msgid "Sukhothai"
+msgstr ""
+
+#: helpers/states.php:1358
+msgid "Suphan Buri"
+msgstr ""
+
+#: helpers/states.php:1359
+msgid "Surat Thani"
+msgstr ""
+
+#: helpers/states.php:1360
+msgid "Surin"
+msgstr ""
+
+#: helpers/states.php:1361
+msgid "Tak"
+msgstr ""
+
+#: helpers/states.php:1362
+msgid "Trang"
+msgstr ""
+
+#: helpers/states.php:1363
+msgid "Trat"
+msgstr ""
+
+#: helpers/states.php:1364
+msgid "Ubon Ratchathani"
+msgstr ""
+
+#: helpers/states.php:1365
+msgid "Udon Thani"
+msgstr ""
+
+#: helpers/states.php:1366
+msgid "Uthai Thani"
+msgstr ""
+
+#: helpers/states.php:1367
+msgid "Uttaradit"
+msgstr ""
+
+#: helpers/states.php:1368
+msgid "Yala"
+msgstr ""
+
+#: helpers/states.php:1369
+msgid "Yasothon"
+msgstr ""
+
+#: helpers/states.php:1372
+msgid "Adana"
+msgstr ""
+
+#: helpers/states.php:1373
+msgid "Adıyaman"
+msgstr ""
+
+#: helpers/states.php:1374
+msgid "Afyon"
+msgstr ""
+
+#: helpers/states.php:1375
+msgid "Ağrı"
+msgstr ""
+
+#: helpers/states.php:1376
+msgid "Amasya"
+msgstr ""
+
+#: helpers/states.php:1377
+msgid "Ankara"
+msgstr ""
+
+#: helpers/states.php:1378
+msgid "Antalya"
+msgstr ""
+
+#: helpers/states.php:1379
+msgid "Artvin"
+msgstr ""
+
+#: helpers/states.php:1380
+msgid "Aydın"
+msgstr ""
+
+#: helpers/states.php:1381
+msgid "Balıkesir"
+msgstr ""
+
+#: helpers/states.php:1382
+msgid "Bilecik"
+msgstr ""
+
+#: helpers/states.php:1383
+msgid "Bingöl"
+msgstr ""
+
+#: helpers/states.php:1384
+msgid "Bitlis"
+msgstr ""
+
+#: helpers/states.php:1385
+msgid "Bolu"
+msgstr ""
+
+#: helpers/states.php:1386
+msgid "Burdur"
+msgstr ""
+
+#: helpers/states.php:1387
+msgid "Bursa"
+msgstr ""
+
+#: helpers/states.php:1388
+msgid "Çanakkale"
+msgstr ""
+
+#: helpers/states.php:1389
+msgid "Çankırı"
+msgstr ""
+
+#: helpers/states.php:1390
+msgid "Çorum"
+msgstr ""
+
+#: helpers/states.php:1391
+msgid "Denizli"
+msgstr ""
+
+#: helpers/states.php:1392
+msgid "Diyarbakır"
+msgstr ""
+
+#: helpers/states.php:1393
+msgid "Edirne"
+msgstr ""
+
+#: helpers/states.php:1394
+msgid "Elazığ"
+msgstr ""
+
+#: helpers/states.php:1395
+msgid "Erzincan"
+msgstr ""
+
+#: helpers/states.php:1396
+msgid "Erzurum"
+msgstr ""
+
+#: helpers/states.php:1397
+msgid "Eskişehir"
+msgstr ""
+
+#: helpers/states.php:1398
+msgid "Gaziantep"
+msgstr ""
+
+#: helpers/states.php:1399
+msgid "Giresun"
+msgstr ""
+
+#: helpers/states.php:1400
+msgid "Gümüşhane"
+msgstr ""
+
+#: helpers/states.php:1401
+msgid "Hakkari"
+msgstr ""
+
+#: helpers/states.php:1402
+msgid "Hatay"
+msgstr ""
+
+#: helpers/states.php:1403
+msgid "Isparta"
+msgstr ""
+
+#: helpers/states.php:1404
+msgid "İçel"
+msgstr ""
+
+#: helpers/states.php:1405
+msgid "İstanbul"
+msgstr ""
+
+#: helpers/states.php:1406
+msgid "İzmir"
+msgstr ""
+
+#: helpers/states.php:1407
+msgid "Kars"
+msgstr ""
+
+#: helpers/states.php:1408
+msgid "Kastamonu"
+msgstr ""
+
+#: helpers/states.php:1409
+msgid "Kayseri"
+msgstr ""
+
+#: helpers/states.php:1410
+msgid "Kırklareli"
+msgstr ""
+
+#: helpers/states.php:1411
+msgid "Kırşehir"
+msgstr ""
+
+#: helpers/states.php:1412
+msgid "Kocaeli"
+msgstr ""
+
+#: helpers/states.php:1413
+msgid "Konya"
+msgstr ""
+
+#: helpers/states.php:1414
+msgid "Kütahya"
+msgstr ""
+
+#: helpers/states.php:1415
+msgid "Malatya"
+msgstr ""
+
+#: helpers/states.php:1416
+msgid "Manisa"
+msgstr ""
+
+#: helpers/states.php:1417
+msgid "Kahramanmaraş"
+msgstr ""
+
+#: helpers/states.php:1418
+msgid "Mardin"
+msgstr ""
+
+#: helpers/states.php:1419
+msgid "Muğla"
+msgstr ""
+
+#: helpers/states.php:1420
+msgid "Muş"
+msgstr ""
+
+#: helpers/states.php:1421
+msgid "Nevşehir"
+msgstr ""
+
+#: helpers/states.php:1422
+msgid "Niğde"
+msgstr ""
+
+#: helpers/states.php:1423
+msgid "Ordu"
+msgstr ""
+
+#: helpers/states.php:1424
+msgid "Rize"
+msgstr ""
+
+#: helpers/states.php:1425
+msgid "Sakarya"
+msgstr ""
+
+#: helpers/states.php:1426
+msgid "Samsun"
+msgstr ""
+
+#: helpers/states.php:1427
+msgid "Siirt"
+msgstr ""
+
+#: helpers/states.php:1428
+msgid "Sinop"
+msgstr ""
+
+#: helpers/states.php:1429
+msgid "Sivas"
+msgstr ""
+
+#: helpers/states.php:1430
+msgid "Tekirdağ"
+msgstr ""
+
+#: helpers/states.php:1431
+msgid "Tokat"
+msgstr ""
+
+#: helpers/states.php:1432
+msgid "Trabzon"
+msgstr ""
+
+#: helpers/states.php:1433
+msgid "Tunceli"
+msgstr ""
+
+#: helpers/states.php:1434
+msgid "Şanlıurfa"
+msgstr ""
+
+#: helpers/states.php:1435
+msgid "Uşak"
+msgstr ""
+
+#: helpers/states.php:1436
+msgid "Van"
+msgstr ""
+
+#: helpers/states.php:1437
+msgid "Yozgat"
+msgstr ""
+
+#: helpers/states.php:1438
+msgid "Zonguldak"
+msgstr ""
+
+#: helpers/states.php:1439
+msgid "Aksaray"
+msgstr ""
+
+#: helpers/states.php:1440
+msgid "Bayburt"
+msgstr ""
+
+#: helpers/states.php:1441
+msgid "Karaman"
+msgstr ""
+
+#: helpers/states.php:1442
+msgid "Kırıkkale"
+msgstr ""
+
+#: helpers/states.php:1443
+msgid "Batman"
+msgstr ""
+
+#: helpers/states.php:1444
+msgid "Şırnak"
+msgstr ""
+
+#: helpers/states.php:1445
+msgid "Bartın"
+msgstr ""
+
+#: helpers/states.php:1446
+msgid "Ardahan"
+msgstr ""
+
+#: helpers/states.php:1447
+msgid "Iğdır"
+msgstr ""
+
+#: helpers/states.php:1448
+msgid "Yalova"
+msgstr ""
+
+#: helpers/states.php:1449
+msgid "Karabük"
+msgstr ""
+
+#: helpers/states.php:1450
+msgid "Kilis"
+msgstr ""
+
+#: helpers/states.php:1451
+msgid "Osmaniye"
+msgstr ""
+
+#: helpers/states.php:1452
+msgid "Düzce"
+msgstr ""
+
+#: helpers/states.php:1455
+msgid "Arusha"
+msgstr ""
+
+#: helpers/states.php:1456
+msgid "Dar es Salaam"
+msgstr ""
+
+#: helpers/states.php:1457
+msgid "Dodoma"
+msgstr ""
+
+#: helpers/states.php:1458
+msgid "Iringa"
+msgstr ""
+
+#: helpers/states.php:1459
+msgid "Kagera"
+msgstr ""
+
+#: helpers/states.php:1460
+msgid "Pemba North"
+msgstr ""
+
+#: helpers/states.php:1461
+msgid "Zanzibar North"
+msgstr ""
+
+#: helpers/states.php:1462
+msgid "Kigoma"
+msgstr ""
+
+#: helpers/states.php:1463
+msgid "Kilimanjaro"
+msgstr ""
+
+#: helpers/states.php:1464
+msgid "Pemba South"
+msgstr ""
+
+#: helpers/states.php:1465
+msgid "Zanzibar South"
+msgstr ""
+
+#: helpers/states.php:1466
+msgid "Lindi"
+msgstr ""
+
+#: helpers/states.php:1467
+msgid "Mara"
+msgstr ""
+
+#: helpers/states.php:1468
+msgid "Mbeya"
+msgstr ""
+
+#: helpers/states.php:1469
+msgid "Zanzibar West"
+msgstr ""
+
+#: helpers/states.php:1470
+msgid "Morogoro"
+msgstr ""
+
+#: helpers/states.php:1471
+msgid "Mtwara"
+msgstr ""
+
+#: helpers/states.php:1472
+msgid "Mwanza"
+msgstr ""
+
+#: helpers/states.php:1473
+msgid "Coast"
+msgstr ""
+
+#: helpers/states.php:1474
+msgid "Rukwa"
+msgstr ""
+
+#: helpers/states.php:1475
+msgid "Ruvuma"
+msgstr ""
+
+#: helpers/states.php:1476
+msgid "Shinyanga"
+msgstr ""
+
+#: helpers/states.php:1477
+msgid "Singida"
+msgstr ""
+
+#: helpers/states.php:1478
+msgid "Tabora"
+msgstr ""
+
+#: helpers/states.php:1479
+msgid "Tanga"
+msgstr ""
+
+#: helpers/states.php:1480
+msgid "Manyara"
+msgstr ""
+
+#: helpers/states.php:1481
+msgid "Geita"
+msgstr ""
+
+#: helpers/states.php:1482
+msgid "Katavi"
+msgstr ""
+
+#: helpers/states.php:1483
+msgid "Njombe"
+msgstr ""
+
+#: helpers/states.php:1484
+msgid "Simiyu"
+msgstr ""
+
+#: helpers/states.php:1489
+msgid "Abim"
+msgstr ""
+
+#: helpers/states.php:1490
+msgid "Adjumani"
+msgstr ""
+
+#: helpers/states.php:1491
+msgid "Agago"
+msgstr ""
+
+#: helpers/states.php:1492
+msgid "Alebtong"
+msgstr ""
+
+#: helpers/states.php:1493
+msgid "Amolatar"
+msgstr ""
+
+#: helpers/states.php:1494
+msgid "Amudat"
+msgstr ""
+
+#: helpers/states.php:1495
+msgid "Amuria"
+msgstr ""
+
+#: helpers/states.php:1496
+msgid "Amuru"
+msgstr ""
+
+#: helpers/states.php:1497
+msgid "Apac"
+msgstr ""
+
+#: helpers/states.php:1498
+msgid "Arua"
+msgstr ""
+
+#: helpers/states.php:1499
+msgid "Budaka"
+msgstr ""
+
+#: helpers/states.php:1500
+msgid "Bududa"
+msgstr ""
+
+#: helpers/states.php:1501
+msgid "Bugiri"
+msgstr ""
+
+#: helpers/states.php:1502
+msgid "Bugweri"
+msgstr ""
+
+#: helpers/states.php:1503
+msgid "Buhweju"
+msgstr ""
+
+#: helpers/states.php:1504
+msgid "Buikwe"
+msgstr ""
+
+#: helpers/states.php:1505
+msgid "Bukedea"
+msgstr ""
+
+#: helpers/states.php:1506
+msgid "Bukomansimbi"
+msgstr ""
+
+#: helpers/states.php:1507
+msgid "Bukwa"
+msgstr ""
+
+#: helpers/states.php:1508
+msgid "Bulambuli"
+msgstr ""
+
+#: helpers/states.php:1509
+msgid "Buliisa"
+msgstr ""
+
+#: helpers/states.php:1510
+msgid "Bundibugyo"
+msgstr ""
+
+#: helpers/states.php:1511
+msgid "Bunyangabu"
+msgstr ""
+
+#: helpers/states.php:1512
+msgid "Bushenyi"
+msgstr ""
+
+#: helpers/states.php:1514
+msgid "Butaleja"
+msgstr ""
+
+#: helpers/states.php:1515
+msgid "Butambala"
+msgstr ""
+
+#: helpers/states.php:1516
+msgid "Butebo"
+msgstr ""
+
+#: helpers/states.php:1517
+msgid "Buvuma"
+msgstr ""
+
+#: helpers/states.php:1518
+msgid "Buyende"
+msgstr ""
+
+#: helpers/states.php:1519
+msgid "Dokolo"
+msgstr ""
+
+#: helpers/states.php:1520
+msgid "Gomba"
+msgstr ""
+
+#: helpers/states.php:1521
+msgid "Gulu"
+msgstr ""
+
+#: helpers/states.php:1522
+msgid "Hoima"
+msgstr ""
+
+#: helpers/states.php:1523
+msgid "Ibanda"
+msgstr ""
+
+#: helpers/states.php:1524
+msgid "Iganga"
+msgstr ""
+
+#: helpers/states.php:1525
+msgid "Isingiro"
+msgstr ""
+
+#: helpers/states.php:1526
+msgid "Jinja"
+msgstr ""
+
+#: helpers/states.php:1527
+msgid "Kaabong"
+msgstr ""
+
+#: helpers/states.php:1528
+msgid "Kabale"
+msgstr ""
+
+#: helpers/states.php:1529
+msgid "Kabarole"
+msgstr ""
+
+#: helpers/states.php:1530
+msgid "Kaberamaido"
+msgstr ""
+
+#: helpers/states.php:1531
+msgid "Kagadi"
+msgstr ""
+
+#: helpers/states.php:1532
+msgid "Kakumiro"
+msgstr ""
+
+#: helpers/states.php:1533
+msgid "Kalangala"
+msgstr ""
+
+#: helpers/states.php:1534
+msgid "Kaliro"
+msgstr ""
+
+#: helpers/states.php:1535
+msgid "Kalungu"
+msgstr ""
+
+#: helpers/states.php:1536
+msgid "Kampala"
+msgstr ""
+
+#: helpers/states.php:1537
+msgid "Kamuli"
+msgstr ""
+
+#: helpers/states.php:1538
+msgid "Kamwenge"
+msgstr ""
+
+#: helpers/states.php:1539
+msgid "Kanungu"
+msgstr ""
+
+#: helpers/states.php:1540
+msgid "Kapchorwa"
+msgstr ""
+
+#: helpers/states.php:1541
+msgid "Kapelebyong"
+msgstr ""
+
+#: helpers/states.php:1542
+msgid "Kasanda"
+msgstr ""
+
+#: helpers/states.php:1543
+msgid "Kasese"
+msgstr ""
+
+#: helpers/states.php:1544
+msgid "Katakwi"
+msgstr ""
+
+#: helpers/states.php:1545
+msgid "Kayunga"
+msgstr ""
+
+#: helpers/states.php:1546
+msgid "Kibaale"
+msgstr ""
+
+#: helpers/states.php:1547
+msgid "Kiboga"
+msgstr ""
+
+#: helpers/states.php:1548
+msgid "Kibuku"
+msgstr ""
+
+#: helpers/states.php:1549
+msgid "Kikuube"
+msgstr ""
+
+#: helpers/states.php:1550
+msgid "Kiruhura"
+msgstr ""
+
+#: helpers/states.php:1551
+msgid "Kiryandongo"
+msgstr ""
+
+#: helpers/states.php:1552
+msgid "Kisoro"
+msgstr ""
+
+#: helpers/states.php:1553
+msgid "Kitgum"
+msgstr ""
+
+#: helpers/states.php:1554
+msgid "Koboko"
+msgstr ""
+
+#: helpers/states.php:1555
+msgid "Kole"
+msgstr ""
+
+#: helpers/states.php:1556
+msgid "Kotido"
+msgstr ""
+
+#: helpers/states.php:1557
+msgid "Kumi"
+msgstr ""
+
+#: helpers/states.php:1558
+msgid "Kwania"
+msgstr ""
+
+#: helpers/states.php:1559
+msgid "Kween"
+msgstr ""
+
+#: helpers/states.php:1560
+msgid "Kyankwanzi"
+msgstr ""
+
+#: helpers/states.php:1561
+msgid "Kyegegwa"
+msgstr ""
+
+#: helpers/states.php:1562
+msgid "Kyenjojo"
+msgstr ""
+
+#: helpers/states.php:1563
+msgid "Kyotera"
+msgstr ""
+
+#: helpers/states.php:1564
+msgid "Lamwo"
+msgstr ""
+
+#: helpers/states.php:1565
+msgid "Lira"
+msgstr ""
+
+#: helpers/states.php:1566
+msgid "Luuka"
+msgstr ""
+
+#: helpers/states.php:1567
+msgid "Luwero"
+msgstr ""
+
+#: helpers/states.php:1568
+msgid "Lwengo"
+msgstr ""
+
+#: helpers/states.php:1569
+msgid "Lyantonde"
+msgstr ""
+
+#: helpers/states.php:1570
+msgid "Manafwa"
+msgstr ""
+
+#: helpers/states.php:1571
+msgid "Maracha"
+msgstr ""
+
+#: helpers/states.php:1572
+msgid "Masaka"
+msgstr ""
+
+#: helpers/states.php:1573
+msgid "Masindi"
+msgstr ""
+
+#: helpers/states.php:1574
+msgid "Mayuge"
+msgstr ""
+
+#: helpers/states.php:1575
+msgid "Mbale"
+msgstr ""
+
+#: helpers/states.php:1576
+msgid "Mbarara"
+msgstr ""
+
+#: helpers/states.php:1577
+msgid "Mitooma"
+msgstr ""
+
+#: helpers/states.php:1578
+msgid "Mityana"
+msgstr ""
+
+#: helpers/states.php:1579
+msgid "Moroto"
+msgstr ""
+
+#: helpers/states.php:1580
+msgid "Moyo"
+msgstr ""
+
+#: helpers/states.php:1581
+msgid "Mpigi"
+msgstr ""
+
+#: helpers/states.php:1582
+msgid "Mubende"
+msgstr ""
+
+#: helpers/states.php:1583
+msgid "Mukono"
+msgstr ""
+
+#: helpers/states.php:1584
+msgid "Nabilatuk"
+msgstr ""
+
+#: helpers/states.php:1585
+msgid "Nakapiripirit"
+msgstr ""
+
+#: helpers/states.php:1586
+msgid "Nakaseke"
+msgstr ""
+
+#: helpers/states.php:1587
+msgid "Nakasongola"
+msgstr ""
+
+#: helpers/states.php:1588
+msgid "Namayingo"
+msgstr ""
+
+#: helpers/states.php:1589
+msgid "Namisindwa"
+msgstr ""
+
+#: helpers/states.php:1590
+msgid "Namutumba"
+msgstr ""
+
+#: helpers/states.php:1591
+msgid "Napak"
+msgstr ""
+
+#: helpers/states.php:1592
+msgid "Nebbi"
+msgstr ""
+
+#: helpers/states.php:1593
+msgid "Ngora"
+msgstr ""
+
+#: helpers/states.php:1594
+msgid "Ntoroko"
+msgstr ""
+
+#: helpers/states.php:1595
+msgid "Ntungamo"
+msgstr ""
+
+#: helpers/states.php:1596
+msgid "Nwoya"
+msgstr ""
+
+#: helpers/states.php:1597
+msgid "Omoro"
+msgstr ""
+
+#: helpers/states.php:1598
+msgid "Otuke"
+msgstr ""
+
+#: helpers/states.php:1599
+msgid "Oyam"
+msgstr ""
+
+#: helpers/states.php:1600
+msgid "Pader"
+msgstr ""
+
+#: helpers/states.php:1601
+msgid "Pakwach"
+msgstr ""
+
+#: helpers/states.php:1602
+msgid "Pallisa"
+msgstr ""
+
+#: helpers/states.php:1603
+msgid "Rakai"
+msgstr ""
+
+#: helpers/states.php:1604
+msgid "Rubanda"
+msgstr ""
+
+#: helpers/states.php:1605
+msgid "Rubirizi"
+msgstr ""
+
+#: helpers/states.php:1606
+msgid "Rukiga"
+msgstr ""
+
+#: helpers/states.php:1607
+msgid "Rukungiri"
+msgstr ""
+
+#: helpers/states.php:1608
+msgid "Sembabule"
+msgstr ""
+
+#: helpers/states.php:1609
+msgid "Serere"
+msgstr ""
+
+#: helpers/states.php:1610
+msgid "Sheema"
+msgstr ""
+
+#: helpers/states.php:1611
+msgid "Sironko"
+msgstr ""
+
+#: helpers/states.php:1612
+msgid "Soroti"
+msgstr ""
+
+#: helpers/states.php:1613
+msgid "Tororo"
+msgstr ""
+
+#: helpers/states.php:1614
+msgid "Wakiso"
+msgstr ""
+
+#: helpers/states.php:1615
+msgid "Yumbe"
+msgstr ""
+
+#: helpers/states.php:1616
+msgid "Zombo"
+msgstr ""
+
+#: helpers/states.php:1619
+msgid "Baker Island"
+msgstr ""
+
+#: helpers/states.php:1620
+msgid "Howland Island"
+msgstr ""
+
+#: helpers/states.php:1621
+msgid "Jarvis Island"
+msgstr ""
+
+#: helpers/states.php:1622
+msgid "Johnston Atoll"
+msgstr ""
+
+#: helpers/states.php:1623
+msgid "Kingman Reef"
+msgstr ""
+
+#: helpers/states.php:1624
+msgid "Midway Atoll"
+msgstr ""
+
+#: helpers/states.php:1625
+msgid "Navassa Island"
+msgstr ""
+
+#: helpers/states.php:1626
+msgid "Palmyra Atoll"
+msgstr ""
+
+#: helpers/states.php:1627
+msgid "Wake Island"
+msgstr ""
+
+#: helpers/states.php:1630
+msgid "Alabama"
+msgstr ""
+
+#: helpers/states.php:1631
+msgid "Alaska"
+msgstr ""
+
+#: helpers/states.php:1632
+msgid "Arizona"
+msgstr ""
+
+#: helpers/states.php:1633
+msgid "Arkansas"
+msgstr ""
+
+#: helpers/states.php:1634
+msgid "California"
+msgstr ""
+
+#: helpers/states.php:1635
+msgid "Colorado"
+msgstr ""
+
+#: helpers/states.php:1636
+msgid "Connecticut"
+msgstr ""
+
+#: helpers/states.php:1637
+msgid "Delaware"
+msgstr ""
+
+#: helpers/states.php:1638
+msgid "District Of Columbia"
+msgstr ""
+
+#: helpers/states.php:1639
+msgid "Florida"
+msgstr ""
+
+#: helpers/states.php:1640
+msgctxt "US state of Georgia"
+msgid "Georgia"
+msgstr ""
+
+#: helpers/states.php:1641
+msgid "Hawaii"
+msgstr ""
+
+#: helpers/states.php:1642
+msgid "Idaho"
+msgstr ""
+
+#: helpers/states.php:1643
+msgid "Illinois"
+msgstr ""
+
+#: helpers/states.php:1644
+msgid "Indiana"
+msgstr ""
+
+#: helpers/states.php:1645
+msgid "Iowa"
+msgstr ""
+
+#: helpers/states.php:1646
+msgid "Kansas"
+msgstr ""
+
+#: helpers/states.php:1647
+msgid "Kentucky"
+msgstr ""
+
+#: helpers/states.php:1648
+msgid "Louisiana"
+msgstr ""
+
+#: helpers/states.php:1649
+msgid "Maine"
+msgstr ""
+
+#: helpers/states.php:1651
+msgid "Massachusetts"
+msgstr ""
+
+#: helpers/states.php:1652
+msgid "Michigan"
+msgstr ""
+
+#: helpers/states.php:1653
+msgid "Minnesota"
+msgstr ""
+
+#: helpers/states.php:1654
+msgid "Mississippi"
+msgstr ""
+
+#: helpers/states.php:1655
+msgid "Missouri"
+msgstr ""
+
+#: helpers/states.php:1657
+msgid "Nebraska"
+msgstr ""
+
+#: helpers/states.php:1658
+msgid "Nevada"
+msgstr ""
+
+#: helpers/states.php:1659
+msgid "New Hampshire"
+msgstr ""
+
+#: helpers/states.php:1660
+msgid "New Jersey"
+msgstr ""
+
+#: helpers/states.php:1661
+msgid "New Mexico"
+msgstr ""
+
+#: helpers/states.php:1662
+msgid "New York"
+msgstr ""
+
+#: helpers/states.php:1663
+msgid "North Carolina"
+msgstr ""
+
+#: helpers/states.php:1664
+msgid "North Dakota"
+msgstr ""
+
+#: helpers/states.php:1665
+msgid "Ohio"
+msgstr ""
+
+#: helpers/states.php:1666
+msgid "Oklahoma"
+msgstr ""
+
+#: helpers/states.php:1667
+msgid "Oregon"
+msgstr ""
+
+#: helpers/states.php:1668
+msgid "Pennsylvania"
+msgstr ""
+
+#: helpers/states.php:1669
+msgid "Rhode Island"
+msgstr ""
+
+#: helpers/states.php:1670
+msgid "South Carolina"
+msgstr ""
+
+#: helpers/states.php:1671
+msgid "South Dakota"
+msgstr ""
+
+#: helpers/states.php:1672
+msgid "Tennessee"
+msgstr ""
+
+#: helpers/states.php:1673
+msgid "Texas"
+msgstr ""
+
+#: helpers/states.php:1674
+msgid "Utah"
+msgstr ""
+
+#: helpers/states.php:1675
+msgid "Vermont"
+msgstr ""
+
+#: helpers/states.php:1676
+msgid "Virginia"
+msgstr ""
+
+#: helpers/states.php:1677
+msgid "Washington"
+msgstr ""
+
+#: helpers/states.php:1678
+msgid "West Virginia"
+msgstr ""
+
+#: helpers/states.php:1679
+msgid "Wisconsin"
+msgstr ""
+
+#: helpers/states.php:1680
+msgid "Wyoming"
+msgstr ""
+
+#: helpers/states.php:1681
+msgid "Armed Forces (AA)"
+msgstr ""
+
+#: helpers/states.php:1682
+msgid "Armed Forces (AE)"
+msgstr ""
+
+#: helpers/states.php:1683
+msgid "Armed Forces (AP)"
+msgstr ""
+
+#: helpers/states.php:1688
+msgid "Eastern Cape"
+msgstr ""
+
+#: helpers/states.php:1689
+msgid "Free State"
+msgstr ""
+
+#: helpers/states.php:1690
+msgid "Gauteng"
+msgstr ""
+
+#: helpers/states.php:1691
+msgid "KwaZulu-Natal"
+msgstr ""
+
+#: helpers/states.php:1692
+msgid "Limpopo"
+msgstr ""
+
+#: helpers/states.php:1693
+msgid "Mpumalanga"
+msgstr ""
+
+#: helpers/states.php:1694
+msgid "Northern Cape"
+msgstr ""
+
+#: helpers/states.php:1695
+msgid "North West"
+msgstr ""
+
+#: helpers/states.php:1696
+msgid "Western Cape"
+msgstr ""
+
+#: helpers/states.php:1702
+msgid "Luapula"
+msgstr ""
+
+#: helpers/states.php:1704
+msgid "North-Western"
+msgstr ""
+
+#: helpers/states.php:1705
+msgid "Southern"
+msgstr ""
+
+#: helpers/states.php:1706
+msgid "Copperbelt"
+msgstr ""
+
+#: helpers/states.php:1707
+msgid "Lusaka"
+msgstr ""
+
+#: helpers/states.php:1708
+msgid "Muchinga"
+msgstr ""
+
+#: includes/bwf-functions.php:105
+msgid "Default"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:19
+msgid "General"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:69
+msgid "Settings"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:320
+msgid "Changes saved"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:321
+msgid "Leave empty to remove slug completely from url"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:331
+msgid "Tiktok"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:371
+#: includes/class-bwf-admin-general-settings.php:393
+msgid "Error: The permalink \"%s\" is reserved by Native WooCommerce Checkout Page. Try another permalink."
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:372
+#: includes/class-bwf-admin-general-settings.php:394
+msgid "Error: The current Permalinks settings does not allow blank values. Switch Permalink settings to 'Post name'. <a href=\"%s\">Click Here To Change</a>"
+msgstr ""
+
+#: includes/class-bwf-admin-general-settings.php:447
+msgid "Settings Updated"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:957
+msgid "Funnel"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:962
+msgid "First Interaction"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:968
+msgid "Conversion Time"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:974
+msgid "UTM Source"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:980
+msgid "UTM Medium"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:986
+msgid "UTM Campaign"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:992
+msgid "UTM Term"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:998
+msgid "UTM Content"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:1004
+msgid "Referrer"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:1010
+msgid "Click ID"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:1011
+msgid "Yes"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:1011
+msgid "No"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:1016
+msgid "Device"
+msgstr ""
+
+#: includes/class-bwf-ecomm-tracking-common.php:1022
+msgid "Browser"
+msgstr ""
+
+#: includes/class-woofunnels-admin-notifications.php:48
+#: includes/class-woofunnels-process.php:66
+msgid "Cheating huh?"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:573
+msgid "To enable this update please activate your FunnelKit license by visiting the Dashboard Page."
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:594
+#: includes/class-woofunnels-dashboard-loader.php:617
+#: includes/class-woofunnels-dashboard-loader.php:638
+#: includes/class-woofunnels-dashboard-loader.php:659
+msgid "Tools"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:670
+msgid "All Plugins transients cleared."
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:687
+msgid "WooFunnels transients"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:688
+msgid "This tool will clear all the WooFunnels plugins transients cache."
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:691
+msgid "Clear transients"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:699
+msgid "Turn Off"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:702
+msgid "Turn On"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:707
+msgid "Usage Tracking"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:708
+msgid "This action controls Usage Tracking"
+msgstr ""
+
+#: includes/class-woofunnels-dashboard-loader.php:724
+msgid "Logs"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:32
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:33
+msgid "No longer need the plugin"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:34
+msgid "I found an alternate plugin"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:35
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:36
+msgid "Please share which plugin"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:37
+msgid "Encountered a fatal error"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:38
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:39
+msgctxt "the text of the \"other\" reason for deactivating the plugin that is shown in the modal box."
+msgid "Other"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:40
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:41
+#: includes/class-woofunnels-deactivate.php:42
+#: includes/class-woofunnels-updater-licenses-table.php:151
+msgid "Deactivate"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:43
+msgid "Yes - Deactivate"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:44
+msgctxt "the text of the cancel button of the plugin deactivation dialog box."
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:45
+msgid "I can't pay for it anymore"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:46
+msgid "What price would you feel comfortable paying?"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:47
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:48
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:49
+msgid "Couldn't get the plugin to work"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:50
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:51
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:52
+msgid "What feature?"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:53
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:54
+msgid "What you've been looking for?"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:55
+msgid "What did you expect?"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:56
+msgid "The plugin didn't work"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:57
+msgid "I don't like to share my information with you"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:58
+msgid "Conflicts with other plugins"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:59
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: includes/class-woofunnels-deactivate.php:133
+msgid "Please share the reason"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:54
+msgid "No plugins available for activation."
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:106
+msgid "version %1$s available"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:125
+msgid ""
+"\n"
+"Place your license key here"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:131
+msgid "This license has expired. Login to <a target=\"_blank\" href=\"%s\">Your Account</a> and renew your license."
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:138
+msgid "This license is no longer valid. Login to <a target=\"_blank\" href=\"%s\">Your Account</a> and renew your license."
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:174
+msgid "Expire"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:229
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:230
+msgid "Version"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:231
+msgid "Key"
+msgstr ""
+
+#: includes/class-woofunnels-updater-licenses-table.php:232
+msgid "Renews On"
+msgstr ""

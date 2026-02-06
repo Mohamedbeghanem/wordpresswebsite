@@ -1,0 +1,5928 @@
+2025-12-13T00:00:11+00:00 - Array
+(
+    [action_id] => 5700
+    [creation_date] => 2025-12-12 23:54:11
+    [execution_time] => 1765583711
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:07:30+00:00 - Array
+(
+    [action_id] => 5704
+    [creation_date] => 2025-12-13 00:00:11
+    [execution_time] => 1765584071
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:14:33+00:00 - Array
+(
+    [action_id] => 5715
+    [creation_date] => 2025-12-13 00:07:30
+    [execution_time] => 1765584510
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:21:34+00:00 - Array
+(
+    [action_id] => 5719
+    [creation_date] => 2025-12-13 00:14:33
+    [execution_time] => 1765584933
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:28:40+00:00 - Array
+(
+    [action_id] => 5723
+    [creation_date] => 2025-12-13 00:21:34
+    [execution_time] => 1765585354
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:35:45+00:00 - Array
+(
+    [action_id] => 5727
+    [creation_date] => 2025-12-13 00:28:40
+    [execution_time] => 1765585780
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:49:35+00:00 - Array
+(
+    [action_id] => 5731
+    [creation_date] => 2025-12-13 00:35:45
+    [execution_time] => 1765586205
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T00:56:15+00:00 - Array
+(
+    [action_id] => 5735
+    [creation_date] => 2025-12-13 00:49:35
+    [execution_time] => 1765587035
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:02:29+00:00 - Array
+(
+    [action_id] => 5739
+    [creation_date] => 2025-12-13 00:56:15
+    [execution_time] => 1765587435
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:08:43+00:00 - Array
+(
+    [action_id] => 5743
+    [creation_date] => 2025-12-13 01:02:29
+    [execution_time] => 1765587809
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:11:45+00:00 - Array
+(
+    [action_id] => 5747
+    [creation_date] => 2025-12-13 01:08:43
+    [execution_time] => 1765588183
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:21:06+00:00 - Array
+(
+    [action_id] => 5751
+    [creation_date] => 2025-12-13 01:11:45
+    [execution_time] => 1765588365
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:27:21+00:00 - Array
+(
+    [action_id] => 5755
+    [creation_date] => 2025-12-13 01:21:06
+    [execution_time] => 1765588926
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:30:27+00:00 - Array
+(
+    [action_id] => 5759
+    [creation_date] => 2025-12-13 01:27:21
+    [execution_time] => 1765589301
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:33:25+00:00 - Array
+(
+    [action_id] => 5763
+    [creation_date] => 2025-12-13 01:30:27
+    [execution_time] => 1765589487
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:36:33+00:00 - Array
+(
+    [action_id] => 5767
+    [creation_date] => 2025-12-13 01:33:25
+    [execution_time] => 1765589665
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:39:49+00:00 - Array
+(
+    [action_id] => 5771
+    [creation_date] => 2025-12-13 01:36:33
+    [execution_time] => 1765589853
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:42:55+00:00 - Array
+(
+    [action_id] => 5775
+    [creation_date] => 2025-12-13 01:39:49
+    [execution_time] => 1765590049
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:46:15+00:00 - Array
+(
+    [action_id] => 5779
+    [creation_date] => 2025-12-13 01:42:55
+    [execution_time] => 1765590235
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:55:38+00:00 - Array
+(
+    [action_id] => 5783
+    [creation_date] => 2025-12-13 01:46:15
+    [execution_time] => 1765590435
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T01:58:40+00:00 - Array
+(
+    [action_id] => 5787
+    [creation_date] => 2025-12-13 01:55:38
+    [execution_time] => 1765590998
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:05:00+00:00 - Array
+(
+    [action_id] => 5791
+    [creation_date] => 2025-12-13 01:58:40
+    [execution_time] => 1765591180
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:08:03+00:00 - Array
+(
+    [action_id] => 5795
+    [creation_date] => 2025-12-13 02:05:00
+    [execution_time] => 1765591560
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:11:36+00:00 - Array
+(
+    [action_id] => 5799
+    [creation_date] => 2025-12-13 02:08:03
+    [execution_time] => 1765591743
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:14:36+00:00 - Array
+(
+    [action_id] => 5803
+    [creation_date] => 2025-12-13 02:11:36
+    [execution_time] => 1765591956
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:21:22+00:00 - Array
+(
+    [action_id] => 5807
+    [creation_date] => 2025-12-13 02:14:36
+    [execution_time] => 1765592136
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:34:39+00:00 - Array
+(
+    [action_id] => 5811
+    [creation_date] => 2025-12-13 02:21:22
+    [execution_time] => 1765592542
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:42:13+00:00 - Array
+(
+    [action_id] => 5815
+    [creation_date] => 2025-12-13 02:34:39
+    [execution_time] => 1765593339
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:46:43+00:00 - Array
+(
+    [action_id] => 5819
+    [creation_date] => 2025-12-13 02:42:13
+    [execution_time] => 1765593793
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:48:34+00:00 - Array
+(
+    [action_id] => 5823
+    [creation_date] => 2025-12-13 02:46:43
+    [execution_time] => 1765594063
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:50:25+00:00 - Array
+(
+    [action_id] => 5827
+    [creation_date] => 2025-12-13 02:48:34
+    [execution_time] => 1765594174
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:52:17+00:00 - Array
+(
+    [action_id] => 5831
+    [creation_date] => 2025-12-13 02:50:25
+    [execution_time] => 1765594285
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:54:13+00:00 - Array
+(
+    [action_id] => 5835
+    [creation_date] => 2025-12-13 02:52:17
+    [execution_time] => 1765594397
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:56:21+00:00 - Array
+(
+    [action_id] => 5839
+    [creation_date] => 2025-12-13 02:54:13
+    [execution_time] => 1765594513
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T02:58:11+00:00 - Array
+(
+    [action_id] => 5843
+    [creation_date] => 2025-12-13 02:56:21
+    [execution_time] => 1765594641
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T03:00:19+00:00 - Array
+(
+    [action_id] => 5847
+    [creation_date] => 2025-12-13 02:58:11
+    [execution_time] => 1765594751
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T03:02:12+00:00 - Array
+(
+    [action_id] => 5851
+    [creation_date] => 2025-12-13 03:00:19
+    [execution_time] => 1765594879
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T03:55:50+00:00 - Array
+(
+    [action_id] => 5855
+    [creation_date] => 2025-12-13 03:02:12
+    [execution_time] => 1765594992
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T04:27:42+00:00 - Array
+(
+    [action_id] => 5859
+    [creation_date] => 2025-12-13 03:55:50
+    [execution_time] => 1765598210
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T04:36:25+00:00 - Array
+(
+    [action_id] => 5863
+    [creation_date] => 2025-12-13 04:27:42
+    [execution_time] => 1765600122
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T04:40:32+00:00 - Array
+(
+    [action_id] => 5867
+    [creation_date] => 2025-12-13 04:36:25
+    [execution_time] => 1765600645
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T04:44:32+00:00 - Array
+(
+    [action_id] => 5871
+    [creation_date] => 2025-12-13 04:40:32
+    [execution_time] => 1765600892
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:03:40+00:00 - Array
+(
+    [action_id] => 5875
+    [creation_date] => 2025-12-13 04:44:32
+    [execution_time] => 1765601132
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:07:35+00:00 - Array
+(
+    [action_id] => 5879
+    [creation_date] => 2025-12-13 05:03:40
+    [execution_time] => 1765602280
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:19:17+00:00 - Array
+(
+    [action_id] => 5883
+    [creation_date] => 2025-12-13 05:07:35
+    [execution_time] => 1765602515
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:23:00+00:00 - Array
+(
+    [action_id] => 5887
+    [creation_date] => 2025-12-13 05:19:17
+    [execution_time] => 1765603217
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:37:47+00:00 - Array
+(
+    [action_id] => 5891
+    [creation_date] => 2025-12-13 05:23:00
+    [execution_time] => 1765603440
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:41:08+00:00 - Array
+(
+    [action_id] => 5895
+    [creation_date] => 2025-12-13 05:37:47
+    [execution_time] => 1765604327
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:51:53+00:00 - Array
+(
+    [action_id] => 5899
+    [creation_date] => 2025-12-13 05:41:08
+    [execution_time] => 1765604528
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:55:33+00:00 - Array
+(
+    [action_id] => 5903
+    [creation_date] => 2025-12-13 05:51:53
+    [execution_time] => 1765605173
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T05:59:10+00:00 - Array
+(
+    [action_id] => 5907
+    [creation_date] => 2025-12-13 05:55:33
+    [execution_time] => 1765605393
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:02:57+00:00 - Array
+(
+    [action_id] => 5911
+    [creation_date] => 2025-12-13 05:59:10
+    [execution_time] => 1765605610
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:10:42+00:00 - Array
+(
+    [action_id] => 5915
+    [creation_date] => 2025-12-13 06:02:57
+    [execution_time] => 1765605837
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:14:04+00:00 - Array
+(
+    [action_id] => 5919
+    [creation_date] => 2025-12-13 06:10:42
+    [execution_time] => 1765606302
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:17:55+00:00 - Array
+(
+    [action_id] => 5923
+    [creation_date] => 2025-12-13 06:14:04
+    [execution_time] => 1765606504
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:28:35+00:00 - Array
+(
+    [action_id] => 5927
+    [creation_date] => 2025-12-13 06:17:55
+    [execution_time] => 1765606735
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:30:49+00:00 - Array
+(
+    [action_id] => 5931
+    [creation_date] => 2025-12-13 06:28:35
+    [execution_time] => 1765607375
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:36:33+00:00 - Array
+(
+    [action_id] => 5935
+    [creation_date] => 2025-12-13 06:30:49
+    [execution_time] => 1765607509
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:39:59+00:00 - Array
+(
+    [action_id] => 5939
+    [creation_date] => 2025-12-13 06:36:33
+    [execution_time] => 1765607853
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:42:31+00:00 - Array
+(
+    [action_id] => 5943
+    [creation_date] => 2025-12-13 06:39:59
+    [execution_time] => 1765608059
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:47:18+00:00 - Array
+(
+    [action_id] => 5947
+    [creation_date] => 2025-12-13 06:42:31
+    [execution_time] => 1765608211
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T06:51:23+00:00 - Array
+(
+    [action_id] => 5951
+    [creation_date] => 2025-12-13 06:47:18
+    [execution_time] => 1765608498
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:02:49+00:00 - Array
+(
+    [action_id] => 5955
+    [creation_date] => 2025-12-13 06:51:23
+    [execution_time] => 1765608743
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:12:53+00:00 - Array
+(
+    [action_id] => 5959
+    [creation_date] => 2025-12-13 07:02:49
+    [execution_time] => 1765609429
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:27:57+00:00 - Array
+(
+    [action_id] => 5963
+    [creation_date] => 2025-12-13 07:12:53
+    [execution_time] => 1765610033
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:31:43+00:00 - Array
+(
+    [action_id] => 5967
+    [creation_date] => 2025-12-13 07:27:57
+    [execution_time] => 1765610937
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:37:02+00:00 - Array
+(
+    [action_id] => 5971
+    [creation_date] => 2025-12-13 07:31:43
+    [execution_time] => 1765611163
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:48:57+00:00 - Array
+(
+    [action_id] => 5975
+    [creation_date] => 2025-12-13 07:37:02
+    [execution_time] => 1765611482
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:57:41+00:00 - Array
+(
+    [action_id] => 5979
+    [creation_date] => 2025-12-13 07:48:57
+    [execution_time] => 1765612197
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T07:59:14+00:00 - Array
+(
+    [action_id] => 5983
+    [creation_date] => 2025-12-13 07:57:41
+    [execution_time] => 1765612721
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:01:18+00:00 - Array
+(
+    [action_id] => 5987
+    [creation_date] => 2025-12-13 07:59:14
+    [execution_time] => 1765612814
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:03:15+00:00 - Array
+(
+    [action_id] => 5991
+    [creation_date] => 2025-12-13 08:01:18
+    [execution_time] => 1765612938
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:05:19+00:00 - Array
+(
+    [action_id] => 5995
+    [creation_date] => 2025-12-13 08:03:15
+    [execution_time] => 1765613055
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:07:17+00:00 - Array
+(
+    [action_id] => 5999
+    [creation_date] => 2025-12-13 08:05:19
+    [execution_time] => 1765613179
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:09:17+00:00 - Array
+(
+    [action_id] => 6003
+    [creation_date] => 2025-12-13 08:07:17
+    [execution_time] => 1765613297
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:11:21+00:00 - Array
+(
+    [action_id] => 6007
+    [creation_date] => 2025-12-13 08:09:17
+    [execution_time] => 1765613417
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:13:19+00:00 - Array
+(
+    [action_id] => 6011
+    [creation_date] => 2025-12-13 08:11:21
+    [execution_time] => 1765613541
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:15:24+00:00 - Array
+(
+    [action_id] => 6015
+    [creation_date] => 2025-12-13 08:13:19
+    [execution_time] => 1765613659
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:16:25+00:00 - Array
+(
+    [action_id] => 6019
+    [creation_date] => 2025-12-13 08:15:24
+    [execution_time] => 1765613784
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:18:58+00:00 - Array
+(
+    [action_id] => 6023
+    [creation_date] => 2025-12-13 08:16:25
+    [execution_time] => 1765613845
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:21:07+00:00 - Array
+(
+    [action_id] => 6027
+    [creation_date] => 2025-12-13 08:18:58
+    [execution_time] => 1765613998
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:23:19+00:00 - Array
+(
+    [action_id] => 6031
+    [creation_date] => 2025-12-13 08:21:07
+    [execution_time] => 1765614127
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:25:24+00:00 - Array
+(
+    [action_id] => 6035
+    [creation_date] => 2025-12-13 08:23:19
+    [execution_time] => 1765614259
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:27:25+00:00 - Array
+(
+    [action_id] => 6039
+    [creation_date] => 2025-12-13 08:25:24
+    [execution_time] => 1765614384
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:29:26+00:00 - Array
+(
+    [action_id] => 6043
+    [creation_date] => 2025-12-13 08:27:25
+    [execution_time] => 1765614505
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:31:27+00:00 - Array
+(
+    [action_id] => 6047
+    [creation_date] => 2025-12-13 08:29:26
+    [execution_time] => 1765614626
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:33:28+00:00 - Array
+(
+    [action_id] => 6051
+    [creation_date] => 2025-12-13 08:31:27
+    [execution_time] => 1765614747
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:35:29+00:00 - Array
+(
+    [action_id] => 6055
+    [creation_date] => 2025-12-13 08:33:28
+    [execution_time] => 1765614868
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:37:29+00:00 - Array
+(
+    [action_id] => 6059
+    [creation_date] => 2025-12-13 08:35:29
+    [execution_time] => 1765614989
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:39:31+00:00 - Array
+(
+    [action_id] => 6063
+    [creation_date] => 2025-12-13 08:37:29
+    [execution_time] => 1765615109
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:41:32+00:00 - Array
+(
+    [action_id] => 6067
+    [creation_date] => 2025-12-13 08:39:31
+    [execution_time] => 1765615231
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:43:32+00:00 - Array
+(
+    [action_id] => 6071
+    [creation_date] => 2025-12-13 08:41:32
+    [execution_time] => 1765615352
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:45:33+00:00 - Array
+(
+    [action_id] => 6075
+    [creation_date] => 2025-12-13 08:43:32
+    [execution_time] => 1765615472
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:47:34+00:00 - Array
+(
+    [action_id] => 6079
+    [creation_date] => 2025-12-13 08:45:33
+    [execution_time] => 1765615593
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:49:35+00:00 - Array
+(
+    [action_id] => 6083
+    [creation_date] => 2025-12-13 08:47:34
+    [execution_time] => 1765615714
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:51:36+00:00 - Array
+(
+    [action_id] => 6087
+    [creation_date] => 2025-12-13 08:49:35
+    [execution_time] => 1765615835
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:53:38+00:00 - Array
+(
+    [action_id] => 6091
+    [creation_date] => 2025-12-13 08:51:36
+    [execution_time] => 1765615956
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:55:41+00:00 - Array
+(
+    [action_id] => 6095
+    [creation_date] => 2025-12-13 08:53:38
+    [execution_time] => 1765616078
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:57:40+00:00 - Array
+(
+    [action_id] => 6099
+    [creation_date] => 2025-12-13 08:55:41
+    [execution_time] => 1765616201
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T08:59:41+00:00 - Array
+(
+    [action_id] => 6103
+    [creation_date] => 2025-12-13 08:57:40
+    [execution_time] => 1765616320
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:01:41+00:00 - Array
+(
+    [action_id] => 6107
+    [creation_date] => 2025-12-13 08:59:41
+    [execution_time] => 1765616441
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:24:01+00:00 - Array
+(
+    [action_id] => 6111
+    [creation_date] => 2025-12-13 09:01:41
+    [execution_time] => 1765616561
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:29:39+00:00 - Array
+(
+    [action_id] => 6115
+    [creation_date] => 2025-12-13 09:24:01
+    [execution_time] => 1765617901
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:34:11+00:00 - Array
+(
+    [action_id] => 6119
+    [creation_date] => 2025-12-13 09:29:39
+    [execution_time] => 1765618239
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:38:45+00:00 - Array
+(
+    [action_id] => 6123
+    [creation_date] => 2025-12-13 09:34:11
+    [execution_time] => 1765618511
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:42:39+00:00 - Array
+(
+    [action_id] => 6127
+    [creation_date] => 2025-12-13 09:38:45
+    [execution_time] => 1765618785
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:46:51+00:00 - Array
+(
+    [action_id] => 6131
+    [creation_date] => 2025-12-13 09:42:39
+    [execution_time] => 1765619019
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:50:53+00:00 - Array
+(
+    [action_id] => 6135
+    [creation_date] => 2025-12-13 09:46:51
+    [execution_time] => 1765619271
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:54:35+00:00 - Array
+(
+    [action_id] => 6139
+    [creation_date] => 2025-12-13 09:50:53
+    [execution_time] => 1765619513
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T09:58:41+00:00 - Array
+(
+    [action_id] => 6143
+    [creation_date] => 2025-12-13 09:54:35
+    [execution_time] => 1765619735
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:06:43+00:00 - Array
+(
+    [action_id] => 6147
+    [creation_date] => 2025-12-13 09:58:41
+    [execution_time] => 1765619981
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:10:38+00:00 - Array
+(
+    [action_id] => 6151
+    [creation_date] => 2025-12-13 10:06:43
+    [execution_time] => 1765620463
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:25:16+00:00 - Array
+(
+    [action_id] => 6155
+    [creation_date] => 2025-12-13 10:10:38
+    [execution_time] => 1765620698
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:29:20+00:00 - Array
+(
+    [action_id] => 6159
+    [creation_date] => 2025-12-13 10:25:16
+    [execution_time] => 1765621576
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:34:31+00:00 - Array
+(
+    [action_id] => 6163
+    [creation_date] => 2025-12-13 10:29:20
+    [execution_time] => 1765621820
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:36:18+00:00 - Array
+(
+    [action_id] => 6167
+    [creation_date] => 2025-12-13 10:34:31
+    [execution_time] => 1765622131
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:38:31+00:00 - Array
+(
+    [action_id] => 6171
+    [creation_date] => 2025-12-13 10:36:18
+    [execution_time] => 1765622238
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:50:08+00:00 - Array
+(
+    [action_id] => 6175
+    [creation_date] => 2025-12-13 10:38:31
+    [execution_time] => 1765622371
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T10:58:07+00:00 - Array
+(
+    [action_id] => 6179
+    [creation_date] => 2025-12-13 10:50:08
+    [execution_time] => 1765623068
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:02:00+00:00 - Array
+(
+    [action_id] => 6183
+    [creation_date] => 2025-12-13 10:58:07
+    [execution_time] => 1765623547
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:05:55+00:00 - Array
+(
+    [action_id] => 6187
+    [creation_date] => 2025-12-13 11:02:00
+    [execution_time] => 1765623780
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:14:21+00:00 - Array
+(
+    [action_id] => 6191
+    [creation_date] => 2025-12-13 11:05:55
+    [execution_time] => 1765624015
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:21:48+00:00 - Array
+(
+    [action_id] => 6195
+    [creation_date] => 2025-12-13 11:14:21
+    [execution_time] => 1765624521
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:23:33+00:00 - Array
+(
+    [action_id] => 6199
+    [creation_date] => 2025-12-13 11:21:48
+    [execution_time] => 1765624968
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:41:03+00:00 - Array
+(
+    [action_id] => 6203
+    [creation_date] => 2025-12-13 11:23:33
+    [execution_time] => 1765625073
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:44:55+00:00 - Array
+(
+    [action_id] => 6207
+    [creation_date] => 2025-12-13 11:41:03
+    [execution_time] => 1765626123
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:48:47+00:00 - Array
+(
+    [action_id] => 6211
+    [creation_date] => 2025-12-13 11:44:55
+    [execution_time] => 1765626355
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:54:01+00:00 - Array
+(
+    [action_id] => 6215
+    [creation_date] => 2025-12-13 11:48:47
+    [execution_time] => 1765626587
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T11:56:31+00:00 - Array
+(
+    [action_id] => 6219
+    [creation_date] => 2025-12-13 11:54:01
+    [execution_time] => 1765626901
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:01:23+00:00 - Array
+(
+    [action_id] => 6223
+    [creation_date] => 2025-12-13 11:56:31
+    [execution_time] => 1765627051
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:16:17+00:00 - Array
+(
+    [action_id] => 6227
+    [creation_date] => 2025-12-13 12:01:23
+    [execution_time] => 1765627343
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:23:22+00:00 - Array
+(
+    [action_id] => 6231
+    [creation_date] => 2025-12-13 12:16:17
+    [execution_time] => 1765628237
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:32:14+00:00 - Array
+(
+    [action_id] => 6235
+    [creation_date] => 2025-12-13 12:23:22
+    [execution_time] => 1765628662
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:34:13+00:00 - Array
+(
+    [action_id] => 6239
+    [creation_date] => 2025-12-13 12:32:14
+    [execution_time] => 1765629194
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:37:49+00:00 - Array
+(
+    [action_id] => 6243
+    [creation_date] => 2025-12-13 12:34:13
+    [execution_time] => 1765629313
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:44:39+00:00 - Array
+(
+    [action_id] => 6247
+    [creation_date] => 2025-12-13 12:37:49
+    [execution_time] => 1765629529
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T12:51:27+00:00 - Array
+(
+    [action_id] => 6251
+    [creation_date] => 2025-12-13 12:44:39
+    [execution_time] => 1765629939
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T13:05:16+00:00 - Array
+(
+    [action_id] => 6255
+    [creation_date] => 2025-12-13 12:51:27
+    [execution_time] => 1765630347
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T13:06:23+00:00 - Array
+(
+    [action_id] => 6259
+    [creation_date] => 2025-12-13 13:05:16
+    [execution_time] => 1765631176
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T13:37:22+00:00 - Array
+(
+    [action_id] => 6263
+    [creation_date] => 2025-12-13 13:06:23
+    [execution_time] => 1765631243
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T13:47:24+00:00 - Array
+(
+    [action_id] => 6267
+    [creation_date] => 2025-12-13 13:37:22
+    [execution_time] => 1765633102
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:07:47+00:00 - Array
+(
+    [action_id] => 6271
+    [creation_date] => 2025-12-13 13:47:24
+    [execution_time] => 1765633704
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:09:33+00:00 - Array
+(
+    [action_id] => 6275
+    [creation_date] => 2025-12-13 14:07:47
+    [execution_time] => 1765634927
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:12:53+00:00 - Array
+(
+    [action_id] => 6279
+    [creation_date] => 2025-12-13 14:09:33
+    [execution_time] => 1765635033
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:16:13+00:00 - Array
+(
+    [action_id] => 6283
+    [creation_date] => 2025-12-13 14:12:53
+    [execution_time] => 1765635233
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:19:13+00:00 - Array
+(
+    [action_id] => 6287
+    [creation_date] => 2025-12-13 14:16:13
+    [execution_time] => 1765635433
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:20:49+00:00 - Array
+(
+    [action_id] => 6291
+    [creation_date] => 2025-12-13 14:19:13
+    [execution_time] => 1765635613
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:22:17+00:00 - Array
+(
+    [action_id] => 6295
+    [creation_date] => 2025-12-13 14:20:49
+    [execution_time] => 1765635709
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:24:46+00:00 - Array
+(
+    [action_id] => 6299
+    [creation_date] => 2025-12-13 14:22:17
+    [execution_time] => 1765635797
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:26:02+00:00 - Array
+(
+    [action_id] => 6303
+    [creation_date] => 2025-12-13 14:24:46
+    [execution_time] => 1765635946
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:27:16+00:00 - Array
+(
+    [action_id] => 6307
+    [creation_date] => 2025-12-13 14:26:02
+    [execution_time] => 1765636022
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:28:23+00:00 - Array
+(
+    [action_id] => 6311
+    [creation_date] => 2025-12-13 14:27:16
+    [execution_time] => 1765636096
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:36:58+00:00 - Array
+(
+    [action_id] => 6315
+    [creation_date] => 2025-12-13 14:28:23
+    [execution_time] => 1765636163
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:45:04+00:00 - Array
+(
+    [action_id] => 6319
+    [creation_date] => 2025-12-13 14:36:58
+    [execution_time] => 1765636678
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:51:02+00:00 - Array
+(
+    [action_id] => 6323
+    [creation_date] => 2025-12-13 14:45:04
+    [execution_time] => 1765637164
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:52:58+00:00 - Array
+(
+    [action_id] => 6327
+    [creation_date] => 2025-12-13 14:51:02
+    [execution_time] => 1765637522
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:54:59+00:00 - Array
+(
+    [action_id] => 6331
+    [creation_date] => 2025-12-13 14:52:58
+    [execution_time] => 1765637638
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:57:00+00:00 - Array
+(
+    [action_id] => 6335
+    [creation_date] => 2025-12-13 14:54:59
+    [execution_time] => 1765637759
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T14:58:50+00:00 - Array
+(
+    [action_id] => 6339
+    [creation_date] => 2025-12-13 14:57:00
+    [execution_time] => 1765637880
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:00:58+00:00 - Array
+(
+    [action_id] => 6343
+    [creation_date] => 2025-12-13 14:58:50
+    [execution_time] => 1765637990
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:05:08+00:00 - Array
+(
+    [action_id] => 6347
+    [creation_date] => 2025-12-13 15:00:58
+    [execution_time] => 1765638118
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:07:03+00:00 - Array
+(
+    [action_id] => 6351
+    [creation_date] => 2025-12-13 15:05:08
+    [execution_time] => 1765638368
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:09:00+00:00 - Array
+(
+    [action_id] => 6355
+    [creation_date] => 2025-12-13 15:07:03
+    [execution_time] => 1765638483
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:11:04+00:00 - Array
+(
+    [action_id] => 6359
+    [creation_date] => 2025-12-13 15:09:00
+    [execution_time] => 1765638600
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:13:05+00:00 - Array
+(
+    [action_id] => 6363
+    [creation_date] => 2025-12-13 15:11:04
+    [execution_time] => 1765638724
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:15:05+00:00 - Array
+(
+    [action_id] => 6367
+    [creation_date] => 2025-12-13 15:13:05
+    [execution_time] => 1765638845
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:17:07+00:00 - Array
+(
+    [action_id] => 6371
+    [creation_date] => 2025-12-13 15:15:05
+    [execution_time] => 1765638965
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:19:07+00:00 - Array
+(
+    [action_id] => 6375
+    [creation_date] => 2025-12-13 15:17:07
+    [execution_time] => 1765639087
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:21:08+00:00 - Array
+(
+    [action_id] => 6379
+    [creation_date] => 2025-12-13 15:19:07
+    [execution_time] => 1765639207
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:23:08+00:00 - Array
+(
+    [action_id] => 6383
+    [creation_date] => 2025-12-13 15:21:08
+    [execution_time] => 1765639328
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:24:35+00:00 - Array
+(
+    [action_id] => 6387
+    [creation_date] => 2025-12-13 15:23:08
+    [execution_time] => 1765639448
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:27:10+00:00 - Array
+(
+    [action_id] => 6391
+    [creation_date] => 2025-12-13 15:24:35
+    [execution_time] => 1765639535
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:29:10+00:00 - Array
+(
+    [action_id] => 6395
+    [creation_date] => 2025-12-13 15:27:10
+    [execution_time] => 1765639690
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:30:53+00:00 - Array
+(
+    [action_id] => 6399
+    [creation_date] => 2025-12-13 15:29:10
+    [execution_time] => 1765639810
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:32:46+00:00 - Array
+(
+    [action_id] => 6403
+    [creation_date] => 2025-12-13 15:30:53
+    [execution_time] => 1765639913
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:35:06+00:00 - Array
+(
+    [action_id] => 6407
+    [creation_date] => 2025-12-13 15:32:46
+    [execution_time] => 1765640026
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:37:13+00:00 - Array
+(
+    [action_id] => 6411
+    [creation_date] => 2025-12-13 15:35:06
+    [execution_time] => 1765640166
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:39:14+00:00 - Array
+(
+    [action_id] => 6415
+    [creation_date] => 2025-12-13 15:37:13
+    [execution_time] => 1765640293
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:41:13+00:00 - Array
+(
+    [action_id] => 6419
+    [creation_date] => 2025-12-13 15:39:14
+    [execution_time] => 1765640414
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:42:42+00:00 - Array
+(
+    [action_id] => 6423
+    [creation_date] => 2025-12-13 15:41:13
+    [execution_time] => 1765640533
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:45:15+00:00 - Array
+(
+    [action_id] => 6427
+    [creation_date] => 2025-12-13 15:42:42
+    [execution_time] => 1765640622
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:47:10+00:00 - Array
+(
+    [action_id] => 6431
+    [creation_date] => 2025-12-13 15:45:15
+    [execution_time] => 1765640775
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:49:15+00:00 - Array
+(
+    [action_id] => 6435
+    [creation_date] => 2025-12-13 15:47:10
+    [execution_time] => 1765640890
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:51:16+00:00 - Array
+(
+    [action_id] => 6439
+    [creation_date] => 2025-12-13 15:49:15
+    [execution_time] => 1765641015
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:53:17+00:00 - Array
+(
+    [action_id] => 6443
+    [creation_date] => 2025-12-13 15:51:16
+    [execution_time] => 1765641136
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:55:16+00:00 - Array
+(
+    [action_id] => 6447
+    [creation_date] => 2025-12-13 15:53:17
+    [execution_time] => 1765641257
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:57:19+00:00 - Array
+(
+    [action_id] => 6451
+    [creation_date] => 2025-12-13 15:55:16
+    [execution_time] => 1765641376
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T15:59:20+00:00 - Array
+(
+    [action_id] => 6455
+    [creation_date] => 2025-12-13 15:57:19
+    [execution_time] => 1765641499
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:01:22+00:00 - Array
+(
+    [action_id] => 6459
+    [creation_date] => 2025-12-13 15:59:20
+    [execution_time] => 1765641620
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:03:21+00:00 - Array
+(
+    [action_id] => 6463
+    [creation_date] => 2025-12-13 16:01:22
+    [execution_time] => 1765641742
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:05:18+00:00 - Array
+(
+    [action_id] => 6467
+    [creation_date] => 2025-12-13 16:03:21
+    [execution_time] => 1765641861
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:07:19+00:00 - Array
+(
+    [action_id] => 6471
+    [creation_date] => 2025-12-13 16:05:18
+    [execution_time] => 1765641978
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:08:23+00:00 - Array
+(
+    [action_id] => 6475
+    [creation_date] => 2025-12-13 16:07:19
+    [execution_time] => 1765642099
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:11:23+00:00 - Array
+(
+    [action_id] => 6479
+    [creation_date] => 2025-12-13 16:08:23
+    [execution_time] => 1765642163
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:13:22+00:00 - Array
+(
+    [action_id] => 6483
+    [creation_date] => 2025-12-13 16:11:23
+    [execution_time] => 1765642343
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:15:24+00:00 - Array
+(
+    [action_id] => 6487
+    [creation_date] => 2025-12-13 16:13:22
+    [execution_time] => 1765642462
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:17:23+00:00 - Array
+(
+    [action_id] => 6491
+    [creation_date] => 2025-12-13 16:15:24
+    [execution_time] => 1765642584
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:19:24+00:00 - Array
+(
+    [action_id] => 6495
+    [creation_date] => 2025-12-13 16:17:23
+    [execution_time] => 1765642703
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:21:25+00:00 - Array
+(
+    [action_id] => 6499
+    [creation_date] => 2025-12-13 16:19:24
+    [execution_time] => 1765642824
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:23:25+00:00 - Array
+(
+    [action_id] => 6503
+    [creation_date] => 2025-12-13 16:21:25
+    [execution_time] => 1765642945
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:25:21+00:00 - Array
+(
+    [action_id] => 6507
+    [creation_date] => 2025-12-13 16:23:25
+    [execution_time] => 1765643065
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:27:14+00:00 - Array
+(
+    [action_id] => 6511
+    [creation_date] => 2025-12-13 16:25:21
+    [execution_time] => 1765643181
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:29:25+00:00 - Array
+(
+    [action_id] => 6515
+    [creation_date] => 2025-12-13 16:27:14
+    [execution_time] => 1765643294
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:30:43+00:00 - Array
+(
+    [action_id] => 6519
+    [creation_date] => 2025-12-13 16:29:25
+    [execution_time] => 1765643425
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:33:25+00:00 - Array
+(
+    [action_id] => 6523
+    [creation_date] => 2025-12-13 16:30:43
+    [execution_time] => 1765643503
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:35:27+00:00 - Array
+(
+    [action_id] => 6527
+    [creation_date] => 2025-12-13 16:33:25
+    [execution_time] => 1765643665
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:37:26+00:00 - Array
+(
+    [action_id] => 6531
+    [creation_date] => 2025-12-13 16:35:27
+    [execution_time] => 1765643787
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:39:26+00:00 - Array
+(
+    [action_id] => 6535
+    [creation_date] => 2025-12-13 16:37:26
+    [execution_time] => 1765643906
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:40:27+00:00 - Array
+(
+    [action_id] => 6539
+    [creation_date] => 2025-12-13 16:39:26
+    [execution_time] => 1765644026
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:41:28+00:00 - Array
+(
+    [action_id] => 6543
+    [creation_date] => 2025-12-13 16:40:27
+    [execution_time] => 1765644087
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:43:28+00:00 - Array
+(
+    [action_id] => 6547
+    [creation_date] => 2025-12-13 16:41:28
+    [execution_time] => 1765644148
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:45:02+00:00 - Array
+(
+    [action_id] => 6551
+    [creation_date] => 2025-12-13 16:43:28
+    [execution_time] => 1765644268
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:47:30+00:00 - Array
+(
+    [action_id] => 6555
+    [creation_date] => 2025-12-13 16:45:02
+    [execution_time] => 1765644362
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:49:01+00:00 - Array
+(
+    [action_id] => 6559
+    [creation_date] => 2025-12-13 16:47:30
+    [execution_time] => 1765644510
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:51:32+00:00 - Array
+(
+    [action_id] => 6563
+    [creation_date] => 2025-12-13 16:49:01
+    [execution_time] => 1765644601
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:53:33+00:00 - Array
+(
+    [action_id] => 6567
+    [creation_date] => 2025-12-13 16:51:32
+    [execution_time] => 1765644752
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:55:34+00:00 - Array
+(
+    [action_id] => 6571
+    [creation_date] => 2025-12-13 16:53:33
+    [execution_time] => 1765644873
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:57:33+00:00 - Array
+(
+    [action_id] => 6575
+    [creation_date] => 2025-12-13 16:55:34
+    [execution_time] => 1765644994
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T16:59:33+00:00 - Array
+(
+    [action_id] => 6579
+    [creation_date] => 2025-12-13 16:57:33
+    [execution_time] => 1765645113
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:01:35+00:00 - Array
+(
+    [action_id] => 6583
+    [creation_date] => 2025-12-13 16:59:33
+    [execution_time] => 1765645233
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:03:35+00:00 - Array
+(
+    [action_id] => 6587
+    [creation_date] => 2025-12-13 17:01:35
+    [execution_time] => 1765645355
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:05:34+00:00 - Array
+(
+    [action_id] => 6591
+    [creation_date] => 2025-12-13 17:03:35
+    [execution_time] => 1765645475
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:07:38+00:00 - Array
+(
+    [action_id] => 6595
+    [creation_date] => 2025-12-13 17:05:34
+    [execution_time] => 1765645594
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:09:35+00:00 - Array
+(
+    [action_id] => 6599
+    [creation_date] => 2025-12-13 17:07:38
+    [execution_time] => 1765645718
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:11:35+00:00 - Array
+(
+    [action_id] => 6603
+    [creation_date] => 2025-12-13 17:09:35
+    [execution_time] => 1765645835
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:13:36+00:00 - Array
+(
+    [action_id] => 6607
+    [creation_date] => 2025-12-13 17:11:35
+    [execution_time] => 1765645955
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:15:13+00:00 - Array
+(
+    [action_id] => 6611
+    [creation_date] => 2025-12-13 17:13:36
+    [execution_time] => 1765646076
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:17:41+00:00 - Array
+(
+    [action_id] => 6615
+    [creation_date] => 2025-12-13 17:15:13
+    [execution_time] => 1765646173
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:18:41+00:00 - Array
+(
+    [action_id] => 6619
+    [creation_date] => 2025-12-13 17:17:41
+    [execution_time] => 1765646321
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:21:40+00:00 - Array
+(
+    [action_id] => 6623
+    [creation_date] => 2025-12-13 17:18:41
+    [execution_time] => 1765646381
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:23:40+00:00 - Array
+(
+    [action_id] => 6627
+    [creation_date] => 2025-12-13 17:21:40
+    [execution_time] => 1765646560
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:25:22+00:00 - Array
+(
+    [action_id] => 6631
+    [creation_date] => 2025-12-13 17:23:40
+    [execution_time] => 1765646680
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:33:18+00:00 - Array
+(
+    [action_id] => 6635
+    [creation_date] => 2025-12-13 17:25:22
+    [execution_time] => 1765646782
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:39:03+00:00 - Array
+(
+    [action_id] => 6639
+    [creation_date] => 2025-12-13 17:33:18
+    [execution_time] => 1765647258
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T17:48:57+00:00 - Array
+(
+    [action_id] => 6643
+    [creation_date] => 2025-12-13 17:39:03
+    [execution_time] => 1765647603
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T18:19:53+00:00 - Array
+(
+    [action_id] => 6647
+    [creation_date] => 2025-12-13 17:48:57
+    [execution_time] => 1765648197
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T18:50:49+00:00 - Array
+(
+    [action_id] => 6651
+    [creation_date] => 2025-12-13 18:19:53
+    [execution_time] => 1765650053
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T18:52:38+00:00 - Array
+(
+    [action_id] => 6655
+    [creation_date] => 2025-12-13 18:50:49
+    [execution_time] => 1765651909
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T18:53:48+00:00 - Array
+(
+    [action_id] => 6659
+    [creation_date] => 2025-12-13 18:52:38
+    [execution_time] => 1765652018
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:00:19+00:00 - Array
+(
+    [action_id] => 6663
+    [creation_date] => 2025-12-13 18:53:48
+    [execution_time] => 1765652088
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:01:30+00:00 - Array
+(
+    [action_id] => 6667
+    [creation_date] => 2025-12-13 19:00:19
+    [execution_time] => 1765652479
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:03:07+00:00 - Array
+(
+    [action_id] => 6671
+    [creation_date] => 2025-12-13 19:01:30
+    [execution_time] => 1765652550
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:05:50+00:00 - Array
+(
+    [action_id] => 6675
+    [creation_date] => 2025-12-13 19:03:07
+    [execution_time] => 1765652647
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:10:02+00:00 - Array
+(
+    [action_id] => 6679
+    [creation_date] => 2025-12-13 19:05:50
+    [execution_time] => 1765652810
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:11:32+00:00 - Array
+(
+    [action_id] => 6683
+    [creation_date] => 2025-12-13 19:10:02
+    [execution_time] => 1765653062
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:13:53+00:00 - Array
+(
+    [action_id] => 6687
+    [creation_date] => 2025-12-13 19:11:32
+    [execution_time] => 1765653152
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:24:34+00:00 - Array
+(
+    [action_id] => 6691
+    [creation_date] => 2025-12-13 19:13:53
+    [execution_time] => 1765653293
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:28:04+00:00 - Array
+(
+    [action_id] => 6695
+    [creation_date] => 2025-12-13 19:24:34
+    [execution_time] => 1765653934
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:30:57+00:00 - Array
+(
+    [action_id] => 6699
+    [creation_date] => 2025-12-13 19:28:04
+    [execution_time] => 1765654144
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:34:44+00:00 - Array
+(
+    [action_id] => 6703
+    [creation_date] => 2025-12-13 19:30:57
+    [execution_time] => 1765654317
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:37:31+00:00 - Array
+(
+    [action_id] => 6707
+    [creation_date] => 2025-12-13 19:34:44
+    [execution_time] => 1765654544
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:45:36+00:00 - Array
+(
+    [action_id] => 6711
+    [creation_date] => 2025-12-13 19:37:31
+    [execution_time] => 1765654711
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:47:31+00:00 - Array
+(
+    [action_id] => 6715
+    [creation_date] => 2025-12-13 19:45:36
+    [execution_time] => 1765655196
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:49:32+00:00 - Array
+(
+    [action_id] => 6719
+    [creation_date] => 2025-12-13 19:47:31
+    [execution_time] => 1765655311
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:51:32+00:00 - Array
+(
+    [action_id] => 6723
+    [creation_date] => 2025-12-13 19:49:32
+    [execution_time] => 1765655432
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:53:34+00:00 - Array
+(
+    [action_id] => 6727
+    [creation_date] => 2025-12-13 19:51:32
+    [execution_time] => 1765655552
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:54:42+00:00 - Array
+(
+    [action_id] => 6731
+    [creation_date] => 2025-12-13 19:53:34
+    [execution_time] => 1765655674
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:57:35+00:00 - Array
+(
+    [action_id] => 6735
+    [creation_date] => 2025-12-13 19:54:42
+    [execution_time] => 1765655742
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T19:59:38+00:00 - Array
+(
+    [action_id] => 6739
+    [creation_date] => 2025-12-13 19:57:35
+    [execution_time] => 1765655915
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:01:32+00:00 - Array
+(
+    [action_id] => 6743
+    [creation_date] => 2025-12-13 19:59:38
+    [execution_time] => 1765656038
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:03:38+00:00 - Array
+(
+    [action_id] => 6747
+    [creation_date] => 2025-12-13 20:01:32
+    [execution_time] => 1765656152
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:04:43+00:00 - Array
+(
+    [action_id] => 6751
+    [creation_date] => 2025-12-13 20:03:38
+    [execution_time] => 1765656278
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:07:40+00:00 - Array
+(
+    [action_id] => 6755
+    [creation_date] => 2025-12-13 20:04:43
+    [execution_time] => 1765656343
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:09:03+00:00 - Array
+(
+    [action_id] => 6759
+    [creation_date] => 2025-12-13 20:07:40
+    [execution_time] => 1765656520
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:11:42+00:00 - Array
+(
+    [action_id] => 6763
+    [creation_date] => 2025-12-13 20:09:03
+    [execution_time] => 1765656603
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:13:42+00:00 - Array
+(
+    [action_id] => 6767
+    [creation_date] => 2025-12-13 20:11:42
+    [execution_time] => 1765656762
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:15:43+00:00 - Array
+(
+    [action_id] => 6771
+    [creation_date] => 2025-12-13 20:13:42
+    [execution_time] => 1765656882
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:17:44+00:00 - Array
+(
+    [action_id] => 6775
+    [creation_date] => 2025-12-13 20:15:43
+    [execution_time] => 1765657003
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:19:46+00:00 - Array
+(
+    [action_id] => 6779
+    [creation_date] => 2025-12-13 20:17:44
+    [execution_time] => 1765657124
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:21:22+00:00 - Array
+(
+    [action_id] => 6783
+    [creation_date] => 2025-12-13 20:19:46
+    [execution_time] => 1765657246
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:23:47+00:00 - Array
+(
+    [action_id] => 6787
+    [creation_date] => 2025-12-13 20:21:22
+    [execution_time] => 1765657342
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:25:48+00:00 - Array
+(
+    [action_id] => 6791
+    [creation_date] => 2025-12-13 20:23:47
+    [execution_time] => 1765657487
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:27:49+00:00 - Array
+(
+    [action_id] => 6795
+    [creation_date] => 2025-12-13 20:25:48
+    [execution_time] => 1765657608
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:29:51+00:00 - Array
+(
+    [action_id] => 6799
+    [creation_date] => 2025-12-13 20:27:49
+    [execution_time] => 1765657729
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:31:50+00:00 - Array
+(
+    [action_id] => 6803
+    [creation_date] => 2025-12-13 20:29:51
+    [execution_time] => 1765657851
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:33:52+00:00 - Array
+(
+    [action_id] => 6807
+    [creation_date] => 2025-12-13 20:31:50
+    [execution_time] => 1765657970
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:35:52+00:00 - Array
+(
+    [action_id] => 6811
+    [creation_date] => 2025-12-13 20:33:52
+    [execution_time] => 1765658092
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:37:54+00:00 - Array
+(
+    [action_id] => 6815
+    [creation_date] => 2025-12-13 20:35:52
+    [execution_time] => 1765658212
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:39:53+00:00 - Array
+(
+    [action_id] => 6819
+    [creation_date] => 2025-12-13 20:37:54
+    [execution_time] => 1765658334
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:41:09+00:00 - Array
+(
+    [action_id] => 6823
+    [creation_date] => 2025-12-13 20:39:53
+    [execution_time] => 1765658453
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:43:08+00:00 - Array
+(
+    [action_id] => 6827
+    [creation_date] => 2025-12-13 20:41:09
+    [execution_time] => 1765658529
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:45:59+00:00 - Array
+(
+    [action_id] => 6831
+    [creation_date] => 2025-12-13 20:43:08
+    [execution_time] => 1765658648
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:47:59+00:00 - Array
+(
+    [action_id] => 6835
+    [creation_date] => 2025-12-13 20:45:59
+    [execution_time] => 1765658819
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:49:39+00:00 - Array
+(
+    [action_id] => 6839
+    [creation_date] => 2025-12-13 20:47:59
+    [execution_time] => 1765658939
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:52:02+00:00 - Array
+(
+    [action_id] => 6843
+    [creation_date] => 2025-12-13 20:49:39
+    [execution_time] => 1765659039
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T20:54:14+00:00 - Array
+(
+    [action_id] => 6847
+    [creation_date] => 2025-12-13 20:52:02
+    [execution_time] => 1765659182
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:00:49+00:00 - Array
+(
+    [action_id] => 6851
+    [creation_date] => 2025-12-13 20:54:14
+    [execution_time] => 1765659314
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:07:21+00:00 - Array
+(
+    [action_id] => 6855
+    [creation_date] => 2025-12-13 21:00:49
+    [execution_time] => 1765659709
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:13:47+00:00 - Array
+(
+    [action_id] => 6859
+    [creation_date] => 2025-12-13 21:07:21
+    [execution_time] => 1765660101
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:15:27+00:00 - Array
+(
+    [action_id] => 6863
+    [creation_date] => 2025-12-13 21:13:47
+    [execution_time] => 1765660487
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:17:07+00:00 - Array
+(
+    [action_id] => 6867
+    [creation_date] => 2025-12-13 21:15:27
+    [execution_time] => 1765660587
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:20:13+00:00 - Array
+(
+    [action_id] => 6871
+    [creation_date] => 2025-12-13 21:17:07
+    [execution_time] => 1765660687
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:21:31+00:00 - Array
+(
+    [action_id] => 6875
+    [creation_date] => 2025-12-13 21:20:13
+    [execution_time] => 1765660873
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:26:50+00:00 - Array
+(
+    [action_id] => 6879
+    [creation_date] => 2025-12-13 21:21:31
+    [execution_time] => 1765660951
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:29:57+00:00 - Array
+(
+    [action_id] => 6883
+    [creation_date] => 2025-12-13 21:26:50
+    [execution_time] => 1765661270
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:39:30+00:00 - Array
+(
+    [action_id] => 6887
+    [creation_date] => 2025-12-13 21:29:57
+    [execution_time] => 1765661457
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:42:41+00:00 - Array
+(
+    [action_id] => 6891
+    [creation_date] => 2025-12-13 21:39:30
+    [execution_time] => 1765662030
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:45:25+00:00 - Array
+(
+    [action_id] => 6895
+    [creation_date] => 2025-12-13 21:42:41
+    [execution_time] => 1765662221
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:52:18+00:00 - Array
+(
+    [action_id] => 6899
+    [creation_date] => 2025-12-13 21:45:25
+    [execution_time] => 1765662385
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:53:24+00:00 - Array
+(
+    [action_id] => 6903
+    [creation_date] => 2025-12-13 21:52:18
+    [execution_time] => 1765662798
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:54:57+00:00 - Array
+(
+    [action_id] => 6907
+    [creation_date] => 2025-12-13 21:53:24
+    [execution_time] => 1765662864
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:58:02+00:00 - Array
+(
+    [action_id] => 6911
+    [creation_date] => 2025-12-13 21:54:57
+    [execution_time] => 1765662957
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T21:59:47+00:00 - Array
+(
+    [action_id] => 6915
+    [creation_date] => 2025-12-13 21:58:02
+    [execution_time] => 1765663142
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T22:41:23+00:00 - Array
+(
+    [action_id] => 6919
+    [creation_date] => 2025-12-13 21:59:47
+    [execution_time] => 1765663247
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T22:42:59+00:00 - Array
+(
+    [action_id] => 6923
+    [creation_date] => 2025-12-13 22:41:23
+    [execution_time] => 1765665743
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T22:51:11+00:00 - Array
+(
+    [action_id] => 6927
+    [creation_date] => 2025-12-13 22:42:59
+    [execution_time] => 1765665839
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T23:19:02+00:00 - Array
+(
+    [action_id] => 6931
+    [creation_date] => 2025-12-13 22:51:11
+    [execution_time] => 1765666331
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T23:23:03+00:00 - Array
+(
+    [action_id] => 6935
+    [creation_date] => 2025-12-13 23:19:02
+    [execution_time] => 1765668002
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T23:31:02+00:00 - Array
+(
+    [action_id] => 6939
+    [creation_date] => 2025-12-13 23:23:03
+    [execution_time] => 1765668243
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T23:38:17+00:00 - Array
+(
+    [action_id] => 6943
+    [creation_date] => 2025-12-13 23:31:02
+    [execution_time] => 1765668722
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T23:48:22+00:00 - Array
+(
+    [action_id] => 6947
+    [creation_date] => 2025-12-13 23:38:17
+    [execution_time] => 1765669157
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+
+2025-12-13T23:58:47+00:00 - Array
+(
+    [action_id] => 6951
+    [creation_date] => 2025-12-13 23:48:22
+    [execution_time] => 1765669762
+    [hook] => bwfcrm_broadcast_run_queue
+    [arguments] => 
+    [group] => bwfcrm
+    [recurring] => 60
+    [error] => Array
+        (
+            [type] => 8192
+            [message] => Automatic conversion of false to array is deprecated
+            [file] => /home/u514882008/domains/h2m-store.com/public_html/wp-content/plugins/bit-integrations-pro/includes/Core/Hooks/HookService.php
+            [line] => 60
+        )
+
+)
+

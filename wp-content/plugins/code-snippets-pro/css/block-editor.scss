@@ -1,0 +1,18 @@
+/**
+ * The following styles get applied inside the block editor only.
+ */
+
+@use 'common/select';
+
+.code-snippets-select {
+	inline-size: 100%;
+	margin-block-start: 1em;
+}
+
+.code-snippets-content-block,
+.code-snippets-source-block {
+	.components-placeholder__label svg {
+		inline-size: 24px;
+		block-size: 24px;
+	}
+}

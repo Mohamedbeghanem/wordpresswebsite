@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire de Commande</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+
+        .form-container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+
+
+        .form-content {
+            padding: 30px;
+        }
+
+        .product-info {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #f0f0f0;
+            margin-bottom: 25px;
+        }
+
+        .product-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+
+        .product-price {
+            font-size: 28px;
+            font-weight: 800;
+            color: #00bcd4;
+            letter-spacing: 0.5px;
+        }
+
+        .swatches-section {
+            margin-bottom: 30px;
+        }
+
+        .swatch-group {
+            margin-bottom: 20px;
+        }
+
+        .swatch-label {
+            display: block;
+            font-size: 14px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .swatch-options {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .swatch-btn {
+            padding: 10px 20px;
+            border: 2px solid #e0e0e0;
+            background: white;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 600;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .swatch-btn:hover {
+            border-color: #000;
+            color: #000;
+        }
+
+        .swatch-btn.active {
+            border-color: #000;
+            background: #000;
+            color: white;
+        }
+
+        .color-swatches {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .color-swatch {
+            width: 45px;
+            height: 45px;
+            border: 3px solid #e0e0e0;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.3s;
+            position: relative;
+        }
+
+        .color-swatch:hover {
+            transform: scale(1.1);
+            border-color: #666;
+        }
+
+        .color-swatch.active {
+            border-color: #000;
+            box-shadow: 0 0 0 2px white, 0 0 0 4px #000;
+        }
+
+        .color-swatch::after {
+            content: '✓';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            opacity: 0;
+            transition: opacity 0.3s;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        }
+
+        .color-swatch.active::after {
+            opacity: 1;
+        }
+
+        .form-title {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: #1a1a1a;
+            text-align: left;
+        }
+
+        .form-row {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .form-group {
+            flex: 1;
+            margin-bottom: 15px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 14px;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            font-size: 14px;
+            transition: all 0.3s;
+            background: #fafafa;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            outline: none;
+            border-color: #000;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(0,0,0,0.05);
+        }
+
+        .form-group input::placeholder {
+            color: #999;
+        }
+
+        .delivery-section {
+            margin: 20px 0;
+        }
+
+        .delivery-title {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .radio-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .radio-option {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .radio-option input[type="radio"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+
+        .radio-option label {
+            font-size: 14px;
+            color: #333;
+            cursor: pointer;
+        }
+
+
+
+        .price-section {
+            border-top: 1px solid #e0e0e0;
+            padding-top: 15px;
+            margin-top: 15px;
+        }
+
+        .price-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        .price-label {
+            color: #666;
+        }
+
+        .price-value {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .free-delivery {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 4px 10px;
+            background: #e8f5e9;
+            border-radius: 12px;
+            font-size: 12px;
+            color: #2e7d32;
+        }
+
+        .total-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 2px solid #e0e0e0;
+        }
+
+        .total-label {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+        }
+
+        .total-value {
+            font-size: 20px;
+            font-weight: 700;
+            color: #00bcd4;
+        }
+
+        .quantity-control {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .qty-btn {
+            width: 35px;
+            height: 35px;
+            border: 1px solid #ddd;
+            background: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+        }
+
+        .qty-btn:hover {
+            background: #f5f5f5;
+            border-color: #000;
+        }
+
+        .qty-input {
+            width: 60px;
+            text-align: center;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, #000000 0%, #434343 100%);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+        }
+
+        .submit-btn:active {
+            transform: translateY(0);
+        }
+
+        .icon {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <form class="form-content" id="orderForm">
+            <div class="product-info">
+                <h3 class="product-name">Dior Homme Intense</h3>
+                <div class="product-price">90,000 DA</div>
+            </div>
+
+            <div class="swatches-section">
+                <div class="swatch-group">
+                    <label class="swatch-label">Taille</label>
+                    <div class="swatch-options">
+                        <button type="button" class="swatch-btn active" data-value="100ml">100ml</button>
+                        <button type="button" class="swatch-btn" data-value="150ml">150ml</button>
+                        <button type="button" class="swatch-btn" data-value="200ml">200ml</button>
+                    </div>
+                </div>
+
+                <div class="swatch-group">
+                    <label class="swatch-label">Couleur</label>
+                    <div class="color-swatches">
+                        <button type="button" class="color-swatch active" data-value="amber" style="background: linear-gradient(135deg, #D4A574 0%, #8B6F47 100%);" title="Amber"></button>
+                        <button type="button" class="color-swatch" data-value="noir" style="background: linear-gradient(135deg, #2C2C2C 0%, #000000 100%);" title="Noir"></button>
+                        <button type="button" class="color-swatch" data-value="blue" style="background: linear-gradient(135deg, #4A90E2 0%, #2E5C8A 100%);" title="Blue"></button>
+                        <button type="button" class="color-swatch" data-value="red" style="background: linear-gradient(135deg, #E74C3C 0%, #8B1E1E 100%);" title="Red"></button>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="form-title">Remplissez le formulaire pour commander</h2>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <input type="text" placeholder="Nom et prénom" required>
+                </div>
+                <div class="form-group">
+                    <input type="tel" placeholder="Numéro de téléphone" required>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <select required>
+                        <option value="">votre wilaya</option>
+                        <option value="alger">Alger</option>
+                        <option value="oran">Oran</option>
+                        <option value="constantine">Constantine</option>
+                        <option value="annaba">Annaba</option>
+                        <option value="blida">Blida</option>
+                        <!-- Add more wilayas as needed -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <select required>
+                        <option value="">votre commune</option>
+                        <option value="commune1">Commune 1</option>
+                        <option value="commune2">Commune 2</option>
+                        <!-- Add communes dynamically based on wilaya -->
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="text" placeholder="📍 votre adresse" required>
+            </div>
+
+            <div class="delivery-section">
+                <div class="delivery-title">Lieu de livraison</div>
+                <div class="radio-group">
+                    <div class="radio-option">
+                        <input type="radio" id="home" name="delivery" value="home" checked>
+                        <label for="home">À domicile</label>
+                    </div>
+                    <div class="radio-option">
+                        <input type="radio" id="office" name="delivery" value="office">
+                        <label for="office">Au bureau de livraison</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="price-section">
+                <div class="price-row">
+                    <span class="price-label">Frais de livraison</span>
+                    <span class="free-delivery">
+                        <span>🚚</span>
+                        livraison gratuite
+                    </span>
+                </div>
+                <div class="price-row">
+                    <span class="price-label">Prix des produits</span>
+                    <span class="price-value">90000 DA</span>
+                </div>
+                <div class="total-row">
+                    <span class="total-label">Coût total</span>
+                    <span class="total-value">90000 DA</span>
+                </div>
+            </div>
+
+            <div class="quantity-control">
+                <button type="button" class="qty-btn" onclick="decreaseQty()">−</button>
+                <input type="number" class="qty-input" id="quantity" value="1" min="1" readonly>
+                <button type="button" class="qty-btn" onclick="increaseQty()">+</button>
+            </div>
+
+            <button type="submit" class="submit-btn">Commandez Maintenant</button>
+        </form>
+    </div>
+
+    <script>
+        function increaseQty() {
+            const qtyInput = document.getElementById('quantity');
+            qtyInput.value = parseInt(qtyInput.value) + 1;
+            updateTotal();
+        }
+
+        function decreaseQty() {
+            const qtyInput = document.getElementById('quantity');
+            if (parseInt(qtyInput.value) > 1) {
+                qtyInput.value = parseInt(qtyInput.value) - 1;
+                updateTotal();
+            }
+        }
+
+        function updateTotal() {
+            const quantity = parseInt(document.getElementById('quantity').value);
+            const pricePerUnit = 90000;
+            const total = quantity * pricePerUnit;
+            
+            document.querySelector('.price-section .price-value').textContent = total.toLocaleString('fr-DZ') + ' DA';
+            document.querySelector('.total-value').textContent = total.toLocaleString('fr-DZ') + ' DA';
+        }
+
+        document.getElementById('orderForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Commande soumise! Vous pouvez maintenant traiter les données du formulaire.');
+            // Add your form submission logic here
+        });
+
+        // Tab switching functionality removed
+    </script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+/* Default: Hide all */
+.wfacp_desktop,
+.wfacp_tablet,
+.wfacp_mobile_landscape,
+.wfacp_mobile {
+    display: none;
+}
+
+.brx-body.iframe #wfacp-e-form .wfacp_main_form #product_switching_field .wfacp_product_switcher_col_2 .wfacp_product_switcher_description a.wfacp_qv-button {
+    pointer-events: none
+}
+
+body .wfacp_mini_cart_start_h .wfacp_order_summary_container table.wfacp_mini_cart_reviews tr:not(.order-total):not(.cart-discount).wfacp-saving-amount td > span * ,
+body #wfacp-e-form #wfacp-sec-wrapper table.shop_table tfoot tr:not(.order-total):not(.cart-discount).wfacp-saving-amount td *{
+    color: #09b29c;
+}
+
+
+/* Mobile portrait styles */
+@media (max-width: 478px) {
+    .wfacp_mobile {
+        display: block;
+    }
+}
+
+/* Mobile landscape styles */
+@media (min-width: 479px) and (max-width: 767.98px) {
+    .wfacp_mobile_landscape {
+        display: block;
+    }
+}
+
+/* Tablet styles */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .wfacp_tablet {
+        display: block;
+    }
+}
+
+/* Desktop styles */
+@media (min-width: 992px) {
+    .wfacp_desktop {
+        display: block;
+    }
+
+
+}

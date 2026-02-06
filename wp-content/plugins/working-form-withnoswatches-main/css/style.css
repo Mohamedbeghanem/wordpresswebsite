@@ -1,0 +1,492 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap');
+
+/* ========================================
+   WHITE BACKGROUND + BLACK ELEMENTS
+   ======================================== */
+
+:root {
+    --color-bg-primary: #ffffff;        /* WHITE background */
+    --color-bg-secondary: #f5f5f5;      /* Light gray */
+    --color-text-primary: #000000;      /* BLACK text */
+    --color-text-secondary: #333333;    /* Dark gray text */
+    --color-text-muted: #666666;        /* Medium gray */
+    --color-border: #cccccc;            /* Medium border */
+    --color-button: #000000;            /* BLACK button */
+    --color-button-hover: #333333;      /* Dark gray hover */
+    --color-button-active: #1a1a1a;     /* Darker hover */
+    --color-accent: #000000;            /* BLACK accent */
+    --color-error: #d32f2f;             /* Red for errors */
+    --color-success: #000000;           /* BLACK for success */
+}
+
+/* ========================================
+   CONTAINER - WHITE BACKGROUND
+   ======================================== */
+
+.god-form-container {
+    font-family: 'Tajawal', -apple-system, BlinkMacSystemFont, sans-serif;
+    direction: rtl;
+    text-align: right;
+    background: var(--color-bg-primary);        /* WHITE */
+    color: var(--color-text-primary);           /* BLACK text */
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 500px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    border: 1px solid var(--color-border);
+}
+
+@media (min-width: 768px) {
+    .god-form-container {
+        max-width: 800px;
+        padding: 30px;
+        margin: 20px auto;
+    }
+}
+
+/* Typography */
+.god-form-container h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 20px;
+    color: var(--color-text-primary);
+}
+
+/* ========================================
+   FORM FIELDS
+   ======================================== */
+
+.god-field {
+    margin-bottom: 20px;
+}
+
+.god-field label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--color-text-primary);
+}
+
+.god-field label .required {
+    color: var(--color-error);
+}
+
+/* ========================================
+   INPUTS - BLACK TEXT ON WHITE
+   ======================================== */
+
+.god-field input[type="text"],
+.god-field input[type="tel"],
+.god-field input[type="email"] {
+    width: 100%;
+    padding: 14px;
+    border: 2px solid var(--color-border);
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: inherit;
+    color: var(--color-text-primary);          /* BLACK text */
+    background: var(--color-bg-primary);       /* WHITE background */
+    transition: all 0.2s ease;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+}
+
+.god-field input::placeholder {
+    color: var(--color-text-muted);
+}
+
+.god-field input:focus {
+    outline: none;
+    border-color: var(--color-button);
+    background: var(--color-bg-primary);
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+}
+
+/* ========================================
+   SELECT DROPDOWNS - BLACK TEXT ON WHITE
+   ======================================== */
+
+.god-field select,
+select#customer_wilaya_desktop, 
+select#customer_commune_desktop,
+select#customer_wilaya_phone, 
+select#customer_commune_phone {
+    width: 100% !important;
+    min-height: 50px !important;
+    padding: 14px !important;
+    margin: 0 !important;
+    
+    border: 2px solid var(--color-border) !important;
+    border-radius: 10px !important;
+    background-color: var(--color-bg-primary) !important;  /* WHITE */
+    
+    font-size: 16px !important;
+    font-family: 'Tajawal', sans-serif !important;
+    color: var(--color-text-primary) !important;           /* BLACK text */
+    line-height: 1.5 !important;
+    
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    
+    transform: none !important;
+    filter: none !important;
+    
+    box-sizing: border-box !important;
+    position: relative !important;
+    z-index: 10 !important;
+    
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+}
+
+/* Desktop custom arrow */
+@media (min-width: 768px) {
+    .god-field select {
+        -webkit-appearance: none !important;
+        -moz-appearance: none !important;
+        appearance: none !important;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23000000' stroke-width='3'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E") !important;
+        background-repeat: no-repeat !important;
+        background-position: left 12px center !important;
+        background-size: 20px !important;
+        padding-left: 45px !important;
+    }
+}
+
+/* Mobile native select */
+@media (max-width: 767px) {
+    .god-field select,
+    select#customer_wilaya_desktop, 
+    select#customer_commune_desktop,
+    select#customer_wilaya_phone, 
+    select#customer_commune_phone {
+        -webkit-appearance: menulist !important;
+        -moz-appearance: menulist !important;
+        appearance: auto !important;
+        background-image: none !important;
+        padding: 14px 12px !important;
+        touch-action: manipulation !important;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1) !important;
+        min-height: 55px !important;
+    }
+}
+
+.god-field select:disabled {
+    background-color: var(--color-bg-secondary) !important;
+    border-color: #aaa !important;
+    cursor: not-allowed !important;
+    opacity: 0.7 !important;
+}
+
+.god-field select:focus {
+    outline: none !important;
+    border-color: var(--color-button) !important;
+    background-color: var(--color-bg-primary) !important;
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1) !important;
+}
+
+.god-field select option {
+    padding: 10px !important;
+    font-size: 16px !important;
+    color: var(--color-text-primary) !important;
+    background: var(--color-bg-primary) !important;
+}
+
+/* ========================================
+   ROW LAYOUT
+   ======================================== */
+
+.god-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+@media (min-width: 768px) {
+    .god-row {
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    .god-row .god-field {
+        flex: 1;
+    }
+}
+
+/* ========================================
+   SHIPPING OPTIONS - BLACK ACCENTS
+   ======================================== */
+
+.god-shipping-options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+@media (min-width: 768px) {
+    .god-shipping-options {
+        flex-direction: row;
+    }
+}
+
+.god-shipping-option {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    background: var(--color-bg-secondary);
+    border: 2px solid var(--color-border);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.god-shipping-option:active {
+    transform: scale(0.98);
+}
+
+.god-shipping-option input[type="radio"] {
+    margin-left: 12px;
+    width: 20px;
+    height: 20px;
+    accent-color: var(--color-button);
+    cursor: pointer;
+}
+
+.god-radio-label {
+    font-size: 15px;
+    color: var(--color-text-primary);
+}
+
+.god-shipping-option input[type="radio"]:checked ~ .god-radio-label {
+    font-weight: 700;
+    color: var(--color-button);
+}
+
+.god-shipping-option:has(input:checked) {
+    border-color: var(--color-button);
+    background: rgba(0, 0, 0, 0.05);
+}
+
+/* ========================================
+   ORDER SUMMARY - WHITE WITH BLACK TEXT
+   ======================================== */
+
+.god-summary {
+    background: var(--color-bg-secondary);
+    padding: 20px;
+    border-radius: 12px;
+    margin: 25px 0;
+    border: 1px solid var(--color-border);
+}
+
+.god-summary-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    font-size: 15px;
+    color: var(--color-text-secondary);
+}
+
+.god-summary-total {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--color-button);
+    border-top: 2px solid var(--color-border);
+    padding-top: 15px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+/* ========================================
+   SUBMIT BUTTON - BLACK
+   ======================================== */
+
+.god-submit {
+    width: 100%;
+    padding: 16px;
+    background: var(--color-button);            /* BLACK button */
+    color: #ffffff;                             /* WHITE text */
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+}
+
+@media (min-width: 768px) {
+    .god-submit:hover:not(:disabled) {
+        background: var(--color-button-hover);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+    }
+
+    .god-submit:active:not(:disabled) {
+        transform: translateY(0);
+        background: var(--color-button-active);
+    }
+}
+
+.god-submit:focus {
+    outline: 2px solid var(--color-button);
+    outline-offset: 2px;
+}
+
+.god-submit:disabled {
+    background: #999999;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+/* ========================================
+   NUCLEAR OVERRIDE
+   ======================================== */
+
+body select#customer_wilaya_desktop, 
+body select#customer_commune_desktop,
+body select#customer_wilaya_phone, 
+body select#customer_commune_phone,
+.elementor-widget-container select#customer_wilaya_desktop, 
+.elementor-widget-container select#customer_commune_desktop,
+.elementor-widget-container select#customer_wilaya_phone, 
+.elementor-widget-container select#customer_commune_phone,
+.woocommerce select#customer_wilaya_desktop, 
+.woocommerce select#customer_commune_desktop,
+.woocommerce select#customer_wilaya_phone, 
+.woocommerce select#customer_commune_phone {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 50px !important;
+    position: relative !important;
+    left: 0 !important;
+    top: 0 !important;
+    clip: unset !important;
+    clip-path: none !important;
+    float: none !important;
+    clear: both !important;
+    border: 2px solid var(--color-border) !important;
+    background-color: var(--color-bg-primary) !important;
+    color: var(--color-text-primary) !important;
+}
+
+/* ========================================
+   ACCESSIBILITY
+   ======================================== */
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+.god-form-container *:focus-visible {
+    outline: 2px solid var(--color-button);
+    outline-offset: 2px;
+}
+
+@media print {
+    .god-form-container {
+        box-shadow: none;
+        border: 1px solid #ccc;
+    }
+
+    .god-submit {
+        display: none;
+    }
+}
+
+/* RTL support */
+[dir="ltr"] .god-form-container {
+    direction: ltr;
+    text-align: left;
+}
+
+[dir="ltr"] .god-shipping-option input[type="radio"] {
+    margin-right: 12px;
+    margin-left: 0;
+}
+
+/* ========================================
+   UTILITY CLASSES
+   ======================================== */
+
+.god-error {
+    color: var(--color-error);
+    font-size: 13px;
+    margin-top: 4px;
+}
+
+.god-success {
+    color: var(--color-success);
+    font-weight: 600;
+}
+
+.god-submit.loading {
+    opacity: 0.7;
+}
+
+.god-submit.loading::after {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-left: 8px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-top-color: #ffffff;
+    border-radius: 50%;
+    animation: spinner 0.6s linear infinite;
+}
+
+@keyframes spinner {
+    to { transform: rotate(360deg); }
+}
+
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+
+@media (max-width: 480px) {
+    .god-form-container {
+        padding: 15px;
+        margin: 5px;
+    }
+
+    .god-form-container h3 {
+        font-size: 18px;
+    }
+
+    .god-field input,
+    .god-field select {
+        padding: 12px;
+    }
+
+    .god-submit {
+        padding: 14px;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .god-form-container {
+        max-width: 95%;
+    }
+
+    .god-row {
+        flex-direction: column;
+    }
+}

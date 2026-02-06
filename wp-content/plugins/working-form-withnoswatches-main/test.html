@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نموذج الطلب - Algeria Shipping Test</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Tajawal', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            direction: rtl;
+        }
+        
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h2 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 24px;
+        }
+        
+        .price-display {
+            background: linear-gradient(135deg, #10893E 0%, #0d7a35 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        
+        .price-display .amount {
+            font-size: 32px;
+            font-weight: 700;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+            font-size: 15px;
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 14px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            font-family: inherit;
+            transition: all 0.3s;
+            background: white;
+        }
+        
+        select {
+            cursor: pointer;
+            -webkit-appearance: none;
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23666' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: left 12px center;
+            background-size: 20px;
+            padding-left: 40px;
+        }
+        
+        input:focus, select:focus {
+            outline: none;
+            border-color: #10893E;
+            box-shadow: 0 0 0 3px rgba(16, 137, 62, 0.1);
+        }
+        
+        select:disabled {
+            background-color: #f5f5f5;
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+        
+        .shipping-options {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .shipping-option {
+            flex: 1;
+            position: relative;
+        }
+        
+        .shipping-option input[type="radio"] {
+            position: absolute;
+            opacity: 0;
+        }
+        
+        .shipping-option label {
+            display: block;
+            padding: 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: #f9f9f9;
+        }
+        
+        .shipping-option input[type="radio"]:checked + label {
+            border-color: #10893E;
+            background: #e8f5e9;
+            font-weight: 700;
+        }
+        
+        .summary {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .summary-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+        
+        .summary-row.total {
+            font-size: 20px;
+            font-weight: 700;
+            color: #10893E;
+            border-top: 2px solid #ddd;
+            padding-top: 15px;
+            margin-top: 15px;
+        }
+        
+        button {
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, #10893E 0%, #0d7a35 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: transform 0.2s;
+            font-family: inherit;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(16, 137, 62, 0.3);
+        }
+        
+        button:active {
+            transform: translateY(0);
+        }
+        
+        .debug-info {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            font-size: 13px;
+            direction: ltr;
+            text-align: left;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            .shipping-options {
+                flex-direction: column;
+            }
+            
+            /* Force native select on mobile */
+            select {
+                font-size: 16px; /* Prevent iOS zoom */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form id="orderForm">
+            <div class="form-group">
+                <label>الاسم الكامل *</label>
+                <input type="text" id="fullname" required placeholder="أدخل اسمك الكامل">
+            </div>
+            
+            <div class="form-group">
+                <label>رقم الهاتف *</label>
+                <input type="tel" id="phone" required placeholder="0555123456">
+            </div>
+            
+            <div class="form-group">
+                <label>اختر الولاية *</label>
+                <select id="wilaya" required>
+                    <option value="">اختر الولاية</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label>اختر البلدية *</label>
+                <select id="commune" required disabled>
+                    <option value="">اختر البلدية أولاً</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label>طريقة التوصيل *</label>
+                <div class="shipping-options">
+                    <div class="shipping-option">
+                        <input type="radio" name="shipping" id="home" value="home" checked>
+                        <label for="home">📦 توصيل للمنزل</label>
+                    </div>
+                    <div class="shipping-option">
+                        <input type="radio" name="shipping" id="office" value="office">
+                        <label for="office">🏢 مكتب البريد</label>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label>العنوان الكامل *</label>
+                <input type="text" id="address" required placeholder="الشارع، الحي، رقم المنزل">
+            </div>
+            
+            <div class="summary">
+                <div class="summary-row">
+                    <span>سعر المنتج:</span>
+                    <span>5,900.00 د.ج</span>
+                </div>
+                <div class="summary-row">
+                    <span>تكلفة الشحن:</span>
+                    <span id="shippingCost">اختر الولاية</span>
+                </div>
+                <div class="summary-row total">
+                    <span>المجموع:</span>
+                    <span id="totalCost">5,900.00 د.ج</span>
+                </div>
+            </div>
+            
+            <button type="submit">✅ تأكيد الطلب</button>
+        </form>
+        
+        <div class="debug-info">
+            <strong>Debug Info:</strong><br>
+            Wilayas loaded: <span id="wilayaCount">0</span><br>
+            Selected Wilaya: <span id="selectedWilaya">None</span><br>
+            Communes available: <span id="communeCount">0</span><br>
+            Shipping method: <span id="shippingMethod">home</span>
+        </div>
+    </div>
+
+    <script>
+        // Sample data - Replace with your actual JSON data
+        const wilayas = [
+            {id: 1, name: "أدرار"},
+            {id: 2, name: "الشلف"},
+            {id: 3, name: "الأغواط"},
+            {id: 4, name: "أم البواقي"},
+            {id: 5, name: "باتنة"},
+            {id: 6, name: "بجاية"},
+            {id: 7, name: "بسكرة"},
+            {id: 8, name: "بشار"},
+            {id: 9, name: "البليدة"},
+            {id: 10, name: "البويرة"},
+            {id: 16, name: "الجزائر"},
+            {id: 19, name: "سطيف"},
+            {id: 25, name: "قسنطينة"},
+            {id: 31, name: "وهران"},
+            {id: 34, name: "المسيلة"}
+        ];
+
+        const communes = {
+            "أدرار": ["أدرار", "تامست", "رقان"],
+            "الشلف": ["الشلف", "تنس", "الكريمية"],
+            "الجزائر": ["باب الواد", "القصبة", "سيدي أمحمد", "الحراش", "بئر مراد رايس", "الدار البيضاء"],
+            "وهران": ["وهران", "السانية", "بئر الجير", "السدراية"],
+            "قسنطينة": ["قسنطينة", "الخروب", "عين السمارة", "ديدوش مراد"],
+            "المسيلة": ["المسيلة", "بوسعادة", "سيدي عيسى", "عين الملح"]
+        };
+
+        const shippingCosts = {
+            "أدرار": {home: 1200, office: 800},
+            "الشلف": {home: 800, office: 600},
+            "الأغواط": {home: 900, office: 700},
+            "الجزائر": {home: 600, office: 400},
+            "وهران": {home: 700, office: 500},
+            "قسنطينة": {home: 800, office: 600},
+            "المسيلة": {home: 700, office: 500}
+        };
+
+        const productPrice = 5900.00;
+
+        // DOM Elements
+        const wilayaSelect = document.getElementById('wilaya');
+        const communeSelect = document.getElementById('commune');
+        const shippingRadios = document.querySelectorAll('input[name="shipping"]');
+        const shippingCostElement = document.getElementById('shippingCost');
+        const totalCostElement = document.getElementById('totalCost');
+        const form = document.getElementById('orderForm');
+
+        // Debug elements
+        const wilayaCountElement = document.getElementById('wilayaCount');
+        const selectedWilayaElement = document.getElementById('selectedWilaya');
+        const communeCountElement = document.getElementById('communeCount');
+        const shippingMethodElement = document.getElementById('shippingMethod');
+
+        // Populate wilayas
+        function populateWilayas() {
+            wilayas.forEach(wilaya => {
+                const option = document.createElement('option');
+                option.value = wilaya.name;
+                option.textContent = `${wilaya.id} - ${wilaya.name}`;
+                wilayaSelect.appendChild(option);
+            });
+            wilayaCountElement.textContent = wilayas.length;
+            console.log('Wilayas loaded:', wilayas.length);
+        }
+
+        // Handle wilaya change
+        wilayaSelect.addEventListener('change', function() {
+            const selectedWilaya = this.value;
+            selectedWilayaElement.textContent = selectedWilaya || 'None';
+            
+            // Clear and disable commune
+            communeSelect.innerHTML = '<option value="">اختر البلدية</option>';
+            communeSelect.disabled = true;
+            
+            if (selectedWilaya && communes[selectedWilaya]) {
+                communes[selectedWilaya].forEach(commune => {
+                    const option = document.createElement('option');
+                    option.value = commune;
+                    option.textContent = commune;
+                    communeSelect.appendChild(option);
+                });
+                communeSelect.disabled = false;
+                communeCountElement.textContent = communes[selectedWilaya].length;
+            } else {
+                communeCountElement.textContent = '0';
+            }
+            
+            updatePrice();
+        });
+
+        // Handle shipping method change
+        shippingRadios.forEach(radio => {
+            radio.addEventListener('change', function() {
+                shippingMethodElement.textContent = this.value;
+                updatePrice();
+            });
+        });
+
+        // Update price calculation
+        function updatePrice() {
+            const selectedWilaya = wilayaSelect.value;
+            const shippingMethod = document.querySelector('input[name="shipping"]:checked').value;
+            
+            let shippingCost = 0;
+            
+            if (selectedWilaya && shippingCosts[selectedWilaya]) {
+                shippingCost = shippingCosts[selectedWilaya][shippingMethod];
+                shippingCostElement.textContent = shippingCost.toLocaleString('fr-FR', {
+                    minimumFractionDigits: 2,
+                    maximumFractionDigits: 2
+                }) + ' د.ج';
+            } else {
+                shippingCostElement.textContent = 'اختر الولاية';
+            }
+            
+            const total = productPrice + shippingCost;
+            totalCostElement.textContent = total.toLocaleString('fr-FR', {
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            }) + ' د.ج';
+        }
+
+        // Form submission
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = {
+                fullname: document.getElementById('fullname').value,
+                phone: document.getElementById('phone').value,
+                wilaya: wilayaSelect.value,
+                commune: communeSelect.value,
+                shipping: document.querySelector('input[name="shipping"]:checked').value,
+                address: document.getElementById('address').value,
+                total: totalCostElement.textContent
+            };
+            
+            console.log('Form submitted:', formData);
+            alert('✅ تم إرسال الطلب بنجاح!\n\nالبيانات:\n' + JSON.stringify(formData, null, 2));
+        });
+
+        // Initialize
+        populateWilayas();
+        updatePrice();
+        
+        console.log('Form initialized successfully!');
+    </script>
+</body>
+</html>

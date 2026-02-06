@@ -1,0 +1,26 @@
+﻿# --- WordPress secrets ---
+public_html/wp-config.php
+**/.env
+**/*.pem
+**/*.key
+
+# --- WP generated / junk ---
+public_html/wp-content/uploads/
+public_html/wp-content/cache/
+public_html/wp-content/upgrade/
+public_html/wp-content/backups*/
+public_html/wp-content/backup*/
+public_html/wp-content/litespeed_conf.dat
+
+# --- Common build / logs ---
+**/*.log
+**/*.sql
+**/*.zip
+**/*.tar
+**/*.tar.gz
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

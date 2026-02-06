@@ -1,0 +1,87 @@
+
+#wpnotif_message_logs_wrapper {
+    margin: 28px 40px 40px 20px;
+}
+
+#wpnotif_message_logs {
+    width: 100% !important;
+    border-collapse: collapse;
+}
+
+#wpnotif_message_logs td,
+#wpnotif_message_logs th {
+    text-align: left;
+    height: 36px;
+    color: #6c757d;
+    font-size: 15px;
+    padding-left: 28px;
+}
+
+#wpnotif_message_logs th {
+    font-weight: 700;
+    background-color: #ecedee;
+}
+
+#wpnotif_message_logs .odd td {
+    background-color: #fafafa;
+}
+
+#wpnotif_message_logs .even td {
+    background-color: #f4f5f5;
+}
+
+#wpnotif_message_logs_paginate {
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.wpnotif-log-arrow {
+    display: block;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cg id='left-chevron' transform='translate(20) rotate(90)'%3E%3Crect id='Rectangle_34' data-name='Rectangle 34' width='20' height='20' fill='rgba(255,255,255,0)'/%3E%3Cpath id='chevron-down' d='M10.833,14.667a.831.831,0,0,1-.589-.244l-5-5A.833.833,0,1,1,6.423,8.244l4.411,4.411,4.411-4.411a.833.833,0,1,1,1.179,1.179l-5,5A.831.831,0,0,1,10.833,14.667Z' transform='translate(-0.417 -0.917)' fill='%236c757d'/%3E%3C/g%3E%3C/svg%3E%0A");
+}
+
+.wpnotif-log-arrow.wpnotif-log-arrow_right {
+    transform: rotate(180deg);
+}
+
+#wpnotif_message_logs_paginate .paginate_button {
+    background-color: rgba(108, 117, 125, 0.1);
+    border-radius: 4px;
+    height: 32px;
+    line-height: 32px;
+    min-width: 32px;
+    text-align: center;
+    color: #6c757d;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 0 6px;
+    margin: 0 4px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#wpnotif_message_logs_paginate .paginate_button.current {
+    background-color: rgba(108, 117, 125, 0.2);
+}
+
+#wpnotif_message_logs_info {
+    padding-top: 12px;
+    color: #1f344866;
+
+}
+
+.wpnotif_log_table_heading {
+    color: #1f3448;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+#wpnotif_message_logs_processing {
+    text-align: center;
+}

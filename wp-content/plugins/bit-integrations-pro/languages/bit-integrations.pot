@@ -1,0 +1,1508 @@
+# Copyright (C) 2023 Bit Apps
+# This file is distributed under the gpl2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bit Integrations Pro 1.3.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bit-integrations\n"
+"Last-Translator: developer@bitcode.pro\n"
+"Language-Team: support@bitcode.pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-03T13:12:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: bit-integrations\n"
+
+#. Plugin Name of the plugin
+#: includes/Admin/Admin_Bar.php:40
+msgid "Bit Integrations Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://bitapps.pro/bit-integrations"
+msgstr ""
+
+#. Description of the plugin
+msgid "Bit Integrations is a platform that integrates with over 160+ different platforms to help with various tasks on your WordPress site, like WooCommerce, Form builder, Page builder, LMS, Sales funnels, Bookings, CRM, Webhooks, Email marketing, Social media and Spreadsheets, etc."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bit Apps"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bitapps.pro"
+msgstr ""
+
+#: bitwpfi.php:36
+msgid "This plugin requires WordPress version 5.1 or higher."
+msgstr ""
+
+#: bitwpfi.php:37
+#: bitwpfi.php:43
+msgid "Error Activating"
+msgstr ""
+
+#: bitwpfi.php:42
+msgid "Forms Integrations requires PHP version 5.6."
+msgstr ""
+
+#: includes/Actions/ActiveCampaign/ActiveCampaignController.php:42
+#: includes/Actions/ActiveCampaign/ActiveCampaignController.php:77
+#: includes/Actions/ActiveCampaign/ActiveCampaignController.php:113
+#: includes/Actions/ActiveCampaign/ActiveCampaignController.php:172
+#: includes/Actions/Acumbamail/AcumbamailController.php:23
+#: includes/Actions/Acumbamail/AcumbamailController.php:53
+#: includes/Actions/Acumbamail/AcumbamailController.php:82
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:22
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:44
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:72
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:100
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:128
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:156
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:184
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:212
+#: includes/Actions/Airtable/AirtableController.php:22
+#: includes/Actions/Airtable/AirtableController.php:51
+#: includes/Actions/Airtable/AirtableController.php:79
+#: includes/Actions/Asana/AsanaController.php:28
+#: includes/Actions/Asana/AsanaController.php:49
+#: includes/Actions/Asana/AsanaController.php:81
+#: includes/Actions/Asana/AsanaController.php:109
+#: includes/Actions/Asana/AsanaController.php:137
+#: includes/Actions/BenchMark/BenchMarkController.php:42
+#: includes/Actions/BenchMark/BenchMarkController.php:77
+#: includes/Actions/BenchMark/BenchMarkController.php:117
+#: includes/Actions/BitForm/BitFormController.php:27
+#: includes/Actions/BitForm/BitFormController.php:59
+#: includes/Actions/BitForm/BitFormController.php:91
+#: includes/Actions/BitForm/BitFormController.php:122
+#: includes/Actions/BitForm/BitFormController.php:162
+#: includes/Actions/BitForm/RecordApiHelper.php:50
+#: includes/Actions/CampaignMonitor/CampaignMonitorController.php:30
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:28
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:49
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:85
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:112
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:139
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:166
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:194
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:229
+#: includes/Actions/Clickup/ClickupController.php:28
+#: includes/Actions/Clickup/ClickupController.php:49
+#: includes/Actions/Clickup/ClickupController.php:82
+#: includes/Actions/Clickup/ClickupController.php:109
+#: includes/Actions/Clickup/ClickupController.php:137
+#: includes/Actions/Clickup/ClickupController.php:165
+#: includes/Actions/Clickup/ClickupController.php:195
+#: includes/Actions/Clickup/ClickupController.php:223
+#: includes/Actions/ClinchPad/ClinchPadController.php:28
+#: includes/Actions/ClinchPad/ClinchPadController.php:49
+#: includes/Actions/ClinchPad/ClinchPadController.php:76
+#: includes/Actions/ClinchPad/ClinchPadController.php:103
+#: includes/Actions/CompanyHub/CompanyHubController.php:28
+#: includes/Actions/ConstantContact/ConstantContactController.php:28
+#: includes/Actions/ConstantContact/ConstantContactController.php:99
+#: includes/Actions/ConstantContact/ConstantContactController.php:156
+#: includes/Actions/ConstantContact/ConstantContactController.php:212
+#: includes/Actions/ConvertKit/ConvertKitController.php:42
+#: includes/Actions/ConvertKit/ConvertKitController.php:76
+#: includes/Actions/ConvertKit/ConvertKitController.php:114
+#: includes/Actions/ConvertKit/ConvertKitController.php:154
+#: includes/Actions/CopperCRM/CopperCRMController.php:28
+#: includes/Actions/CopperCRM/CopperCRMController.php:53
+#: includes/Actions/CopperCRM/CopperCRMController.php:94
+#: includes/Actions/CopperCRM/CopperCRMController.php:121
+#: includes/Actions/CopperCRM/CopperCRMController.php:151
+#: includes/Actions/CopperCRM/CopperCRMController.php:181
+#: includes/Actions/CopperCRM/CopperCRMController.php:212
+#: includes/Actions/CopperCRM/CopperCRMController.php:243
+#: includes/Actions/Demio/DemioController.php:28
+#: includes/Actions/DirectIq/DirectIqController.php:42
+#: includes/Actions/DirectIq/DirectIqController.php:94
+#: includes/Actions/DirectIq/DirectIqController.php:135
+#: includes/Actions/Drip/DripController.php:37
+#: includes/Actions/Drip/DripController.php:73
+#: includes/Actions/Drip/DripController.php:115
+#: includes/Actions/Dropbox/DropboxController.php:24
+#: includes/Actions/Dropbox/DropboxController.php:47
+#: includes/Actions/ElasticEmail/ElasticEmailController.php:24
+#: includes/Actions/ElasticEmail/ElasticEmailController.php:51
+#: includes/Actions/EmailOctopus/EmailOctopusController.php:22
+#: includes/Actions/EmailOctopus/EmailOctopusController.php:45
+#: includes/Actions/EmailOctopus/EmailOctopusController.php:70
+#: includes/Actions/Encharge/EnchargeController.php:41
+#: includes/Actions/Encharge/EnchargeController.php:74
+#: includes/Actions/Flowlu/FlowluController.php:34
+#: includes/Actions/FluentSupport/FluentSupportController.php:37
+#: includes/Actions/FluentSupport/FluentSupportController.php:69
+#: includes/Actions/FluentSupport/RecordApiHelper.php:49
+#: includes/Actions/FluentSupport/RecordApiHelper.php:82
+#: includes/Actions/FluentSupport/RecordApiHelper.php:111
+#: includes/Actions/FluentSupport/RecordApiHelper.php:138
+#: includes/Actions/FluentSupport/RecordApiHelper.php:161
+#: includes/Actions/Freshdesk/FreshdeskController.php:37
+#: includes/Actions/Freshdesk/RecordApiHelper.php:33
+#: includes/Actions/Freshdesk/RecordApiHelper.php:104
+#: includes/Actions/Freshdesk/RecordApiHelper.php:127
+#: includes/Actions/Freshdesk/RecordApiHelper.php:158
+#: includes/Actions/FreshSales/FreshSalesController.php:22
+#: includes/Actions/FreshSales/FreshSalesController.php:90
+#: includes/Actions/Getgist/GetgistController.php:19
+#: includes/Actions/GetResponse/GetResponseController.php:24
+#: includes/Actions/GetResponse/GetResponseController.php:64
+#: includes/Actions/GetResponse/GetResponseController.php:103
+#: includes/Actions/GetResponse/RecordApiHelper.php:34
+#: includes/Actions/GoogleCalendar/GoogleCalendarController.php:22
+#: includes/Actions/GoogleCalendar/GoogleCalendarController.php:47
+#: includes/Actions/GoogleContacts/GoogleContactsController.php:23
+#: includes/Actions/GoogleContacts/GoogleContactsController.php:48
+#: includes/Actions/GoogleDrive/GoogleDriveController.php:22
+#: includes/Actions/GoogleDrive/GoogleDriveController.php:47
+#: includes/Actions/GoogleSheet/GoogleSheetController.php:56
+#: includes/Actions/GoogleSheet/GoogleSheetController.php:98
+#: includes/Actions/GoogleSheet/GoogleSheetController.php:152
+#: includes/Actions/GoogleSheet/GoogleSheetController.php:203
+#: includes/Actions/Gravitec/GravitecController.php:20
+#: includes/Actions/Groundhogg/GroundhoggController.php:24
+#: includes/Actions/Groundhogg/GroundhoggController.php:58
+#: includes/Actions/Hubspot/HubspotController.php:22
+#: includes/Actions/Hubspot/HubspotController.php:42
+#: includes/Actions/Hubspot/HubspotController.php:89
+#: includes/Actions/Hubspot/HubspotController.php:115
+#: includes/Actions/Hubspot/HubspotController.php:152
+#: includes/Actions/Hubspot/HubspotController.php:179
+#: includes/Actions/Insightly/InsightlyController.php:22
+#: includes/Actions/Insightly/InsightlyController.php:44
+#: includes/Actions/Insightly/InsightlyController.php:72
+#: includes/Actions/Insightly/InsightlyController.php:108
+#: includes/Actions/Insightly/InsightlyController.php:136
+#: includes/Actions/Insightly/InsightlyController.php:163
+#: includes/Actions/Insightly/InsightlyController.php:190
+#: includes/Actions/Insightly/InsightlyController.php:226
+#: includes/Actions/Keap/KeapController.php:42
+#: includes/Actions/Keap/KeapController.php:80
+#: includes/Actions/KirimEmail/KirimEmailController.php:29
+#: includes/Actions/KirimEmail/KirimEmailController.php:67
+#: includes/Actions/Klaviyo/KlaviyoController.php:26
+#: includes/Actions/Lemlist/LemlistController.php:22
+#: includes/Actions/Lemlist/LemlistController.php:41
+#: includes/Actions/LionDesk/LionDeskController.php:28
+#: includes/Actions/LionDesk/LionDeskController.php:56
+#: includes/Actions/MailBluster/MailBlusterController.php:24
+#: includes/Actions/MailChimp/MailChimpController.php:47
+#: includes/Actions/MailChimp/MailChimpController.php:97
+#: includes/Actions/MailChimp/MailChimpController.php:145
+#: includes/Actions/MailChimp/MailChimpController.php:187
+#: includes/Actions/Mailercloud/MailercloudController.php:25
+#: includes/Actions/Mailercloud/MailercloudController.php:54
+#: includes/Actions/Mailercloud/MailercloudController.php:89
+#: includes/Actions/MailerLite/MailerLiteController.php:25
+#: includes/Actions/MailerLite/MailerLiteController.php:100
+#: includes/Actions/MailerLite/RecordApiHelper.php:46
+#: includes/Actions/MailerLite/RecordApiHelper.php:68
+#: includes/Actions/Mailify/MailifyController.php:22
+#: includes/Actions/Mailify/MailifyController.php:45
+#: includes/Actions/Mailify/MailifyController.php:84
+#: includes/Actions/Mailjet/MailjetController.php:20
+#: includes/Actions/Mailjet/MailjetController.php:48
+#: includes/Actions/MailRelay/MailRelayController.php:23
+#: includes/Actions/MailRelay/MailRelayController.php:61
+#: includes/Actions/Mailup/MailupController.php:22
+#: includes/Actions/Mailup/MailupController.php:49
+#: includes/Actions/Mailup/MailupController.php:77
+#: includes/Actions/Mautic/MauticController.php:42
+#: includes/Actions/Mautic/MauticController.php:109
+#: includes/Actions/Mautic/MauticController.php:142
+#: includes/Actions/Moosend/MoosendController.php:25
+#: includes/Actions/Notion/NotionController.php:16
+#: includes/Actions/Notion/NotionController.php:46
+#: includes/Actions/Notion/NotionController.php:76
+#: includes/Actions/OmniSend/OmniSendController.php:24
+#: includes/Actions/OneDrive/OneDriveController.php:23
+#: includes/Actions/OneDrive/OneDriveController.php:47
+#: includes/Actions/OneDrive/OneDriveController.php:87
+#: includes/Actions/PCloud/PCloudController.php:22
+#: includes/Actions/PCloud/PCloudController.php:45
+#: includes/Actions/PipeDrive/PipeDriveController.php:23
+#: includes/Actions/PipeDrive/PipeDriveController.php:66
+#: includes/Actions/Rapidmail/RapidmailController.php:37
+#: includes/Actions/Rapidmail/RapidmailController.php:79
+#: includes/Actions/Rapidmail/RapidmailController.php:113
+#: includes/Actions/Salesforce/SalesforceController.php:30
+#: includes/Actions/Salesforce/SalesforceController.php:67
+#: includes/Actions/Salesforce/SalesforceController.php:107
+#: includes/Actions/Salesforce/SalesforceController.php:147
+#: includes/Actions/Salesforce/SalesforceController.php:186
+#: includes/Actions/Salesmate/SalesmateController.php:29
+#: includes/Actions/Selzy/SelzyController.php:25
+#: includes/Actions/Selzy/SelzyController.php:51
+#: includes/Actions/Selzy/SelzyController.php:76
+#: includes/Actions/SendFox/SendFoxController.php:19
+#: includes/Actions/SendFox/SendFoxController.php:48
+#: includes/Actions/SendGrid/SendGridController.php:20
+#: includes/Actions/SendGrid/SendGridController.php:48
+#: includes/Actions/SendinBlue/SendinBlueController.php:31
+#: includes/Actions/SendinBlue/SendinBlueController.php:64
+#: includes/Actions/SendinBlue/SendinBlueController.php:102
+#: includes/Actions/SendinBlue/SendinBlueController.php:140
+#: includes/Actions/SendPulse/SendPulseController.php:22
+#: includes/Actions/SendPulse/SendPulseController.php:48
+#: includes/Actions/SendPulse/SendPulseController.php:93
+#: includes/Actions/Sendy/SendyController.php:35
+#: includes/Actions/Sendy/SendyController.php:65
+#: includes/Actions/Sendy/SendyController.php:98
+#: includes/Actions/Slack/SlackController.php:31
+#: includes/Actions/Smaily/SmailyController.php:20
+#: includes/Actions/SuiteDash/SuiteDashController.php:28
+#: includes/Actions/SureCart/SureCartController.php:18
+#: includes/Actions/Telegram/TelegramController.php:39
+#: includes/Actions/Telegram/TelegramController.php:82
+#: includes/Actions/Trello/TrelloController.php:28
+#: includes/Actions/Trello/TrelloController.php:68
+#: includes/Actions/Twilio/TwilioController.php:32
+#: includes/Actions/Vbout/VboutController.php:22
+#: includes/Actions/Vbout/VboutController.php:48
+#: includes/Actions/Vbout/VboutController.php:83
+#: includes/Actions/WishList/WishListController.php:25
+#: includes/Actions/WishList/WishListController.php:64
+#: includes/Actions/WishList/WishListController.php:96
+#: includes/Actions/WooCommerce/WooCommerceController.php:80
+#: includes/Actions/Zendesk/ZendeskController.php:28
+#: includes/Actions/Zendesk/ZendeskController.php:49
+#: includes/Actions/Zendesk/ZendeskController.php:86
+#: includes/Actions/Zendesk/ZendeskController.php:113
+#: includes/Actions/Zendesk/ZendeskController.php:142
+#: includes/Actions/Zendesk/ZendeskController.php:169
+#: includes/Actions/Zendesk/ZendeskController.php:197
+#: includes/Actions/Zendesk/ZendeskController.php:225
+#: includes/Actions/Zendesk/ZendeskController.php:254
+#: includes/Actions/Zendesk/ZendeskController.php:281
+#: includes/Actions/ZohoAnalytics/ZohoAnalyticsController.php:42
+#: includes/Actions/ZohoAnalytics/ZohoAnalyticsController.php:84
+#: includes/Actions/ZohoAnalytics/ZohoAnalyticsController.php:130
+#: includes/Actions/ZohoAnalytics/ZohoAnalyticsController.php:181
+#: includes/Actions/ZohoAnalytics/ZohoAnalyticsController.php:236
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:43
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:87
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:144
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:207
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:287
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:339
+#: includes/Actions/ZohoCampaigns/ZohoCampaignsController.php:49
+#: includes/Actions/ZohoCampaigns/ZohoCampaignsController.php:91
+#: includes/Actions/ZohoCampaigns/ZohoCampaignsController.php:150
+#: includes/Actions/ZohoCreator/ZohoCreatorController.php:38
+#: includes/Actions/ZohoCreator/ZohoCreatorController.php:74
+#: includes/Actions/ZohoCreator/ZohoCreatorController.php:136
+#: includes/Actions/ZohoCreator/ZohoCreatorController.php:198
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:48
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:88
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:172
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:359
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:408
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:456
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:525
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:39
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:75
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:141
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:201
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:283
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:341
+#: includes/Actions/ZohoMarketingHub/ZohoMarketingHubController.php:45
+#: includes/Actions/ZohoMarketingHub/ZohoMarketingHubController.php:87
+#: includes/Actions/ZohoMarketingHub/ZohoMarketingHubController.php:146
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:38
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:74
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:126
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:181
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:235
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:292
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:352
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:676
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:734
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:785
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:836
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:41
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:84
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:151
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:207
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:265
+#: includes/Actions/ZohoSheet/ZohoSheetController.php:25
+#: includes/Actions/ZohoSheet/ZohoSheetController.php:53
+#: includes/Actions/ZohoSheet/ZohoSheetController.php:83
+#: includes/Actions/ZohoSheet/ZohoSheetController.php:114
+#: includes/Actions/Zoom/ZoomController.php:20
+#: includes/Actions/Zoom/ZoomController.php:43
+#: includes/Actions/Zoom/ZoomController.php:64
+#: includes/Actions/ZoomWebinar/ZoomWebinarController.php:20
+#: includes/Actions/ZoomWebinar/ZoomWebinarController.php:43
+#: includes/Triggers/Affiliate/AffiliateController.php:97
+#: includes/Triggers/ARMember/ARMemberHelper.php:10
+#: includes/Triggers/BuddyBoss/BuddyBossController.php:172
+#: includes/Triggers/EDD/EDDHelper.php:10
+#: includes/Triggers/FluentCrm/FluentCrmController.php:163
+#: includes/Triggers/GamiPress/GamiPressController.php:94
+#: includes/Triggers/GiveWp/GiveWpController.php:87
+#: includes/Triggers/Groundhogg/GroundhoggController.php:159
+#: includes/Triggers/LearnDash/LearnDashController.php:286
+#: includes/Triggers/LifterLms/LifterLmsHelper.php:10
+#: includes/Triggers/MasterStudyLms/MasterStudyLmsHelper.php:10
+#: includes/Triggers/Memberpress/MemberpressController.php:95
+#: includes/Triggers/PaidMembershipPro/PaidMembershipProController.php:83
+#: includes/Triggers/Rafflepress/RafflepressController.php:82
+#: includes/Triggers/RestrictContent/RestrictContentController.php:103
+#: includes/Triggers/SliceWp/SliceWpController.php:85
+#: includes/Triggers/SolidAffiliate/SolidAffiliateController.php:81
+#: includes/Triggers/SureCart/SureCartController.php:85
+#: includes/Triggers/ThriveApprentice/ThriveApprenticeHelper.php:10
+#: includes/Triggers/TutorLms/TutorLmsController.php:196
+#: includes/Triggers/UltimateMember/UltimateMemberHelper.php:11
+#: includes/Triggers/WC/WCController.php:139
+msgid "Requested parameter is empty"
+msgstr ""
+
+#: includes/Actions/ActiveCampaign/ActiveCampaignController.php:221
+#: includes/Actions/BenchMark/BenchMarkController.php:165
+#: includes/Actions/ConvertKit/ConvertKitController.php:199
+#: includes/Actions/ElasticEmail/ElasticEmailController.php:92
+#: includes/Actions/Encharge/EnchargeController.php:113
+#: includes/Actions/Getgist/GetgistController.php:52
+#: includes/Actions/SendinBlue/SendinBlueController.php:185
+msgid "module, fields are required for Sendinblue api"
+msgstr ""
+
+#: includes/Actions/Acumbamail/AcumbamailController.php:137
+msgid "module, fields are required for Acumbamail"
+msgstr ""
+
+#: includes/Actions/Affiliate/AffiliateController.php:38
+msgid "Affiliate must be activated!"
+msgstr ""
+
+#: includes/Actions/Affiliate/AffiliateController.php:71
+msgid "module, fields are required for Affiliate api"
+msgstr ""
+
+#: includes/Actions/AgiledCRM/AgiledCRMController.php:249
+msgid "module, fields are required for Agiled CRM api"
+msgstr ""
+
+#: includes/Actions/Airtable/AirtableController.php:121
+msgid "fields are required for Airtable api"
+msgstr ""
+
+#: includes/Actions/Asana/AsanaController.php:170
+msgid "module, fields are required for Asana api"
+msgstr ""
+
+#: includes/Actions/Autonami/AutonamiController.php:24
+#: includes/Actions/Autonami/AutonamiController.php:91
+msgid "Autonami Pro Plugin is not active or installed"
+msgstr ""
+
+#: includes/Actions/Autonami/AutonamiController.php:114
+msgid "module, fields are required for Autonami api"
+msgstr ""
+
+#: includes/Actions/BitForm/BitFormController.php:219
+msgid "module, fields are required for Bit From api"
+msgstr ""
+
+#: includes/Actions/BuddyBoss/BuddyBossController.php:53
+#: includes/Actions/BuddyBoss/BuddyBossController.php:65
+#: includes/Actions/BuddyBoss/BuddyBossController.php:76
+msgid "BuddyBoss must be activated!"
+msgstr ""
+
+#: includes/Actions/BuddyBoss/BuddyBossController.php:179
+msgid "module, fields are required for BuddyBoss api"
+msgstr ""
+
+#: includes/Actions/CampaignMonitor/CampaignMonitorController.php:104
+msgid "module, fields are required for CampaignMonitor api"
+msgstr ""
+
+#: includes/Actions/CapsuleCRM/CapsuleCRMController.php:262
+msgid "module, fields are required for CapsuleCRM api"
+msgstr ""
+
+#: includes/Actions/Clickup/ClickupController.php:257
+msgid "module, fields are required for Clickup api"
+msgstr ""
+
+#: includes/Actions/ClinchPad/ClinchPadController.php:136
+msgid "module, fields are required for ClinchPad api"
+msgstr ""
+
+#: includes/Actions/CompanyHub/CompanyHubController.php:113
+msgid "module, fields are required for CompanyHub api"
+msgstr ""
+
+#: includes/Actions/ConstantContact/ConstantContactController.php:115
+#: includes/Actions/ConstantContact/ConstantContactController.php:171
+#: includes/Actions/ConstantContact/ConstantContactController.php:227
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:102
+msgid "Failed to refresh access token"
+msgstr ""
+
+#: includes/Actions/ConstantContact/ConstantContactController.php:298
+msgid "module, fields are required for Constant Contact api"
+msgstr ""
+
+#: includes/Actions/CopperCRM/CopperCRMController.php:280
+msgid "module, fields are required for CopperCRM api"
+msgstr ""
+
+#: includes/Actions/Demio/DemioController.php:113
+msgid "module, fields are required for Demio api"
+msgstr ""
+
+#: includes/Actions/DirectIq/DirectIqController.php:182
+msgid "module, fields are required for DirectIQ api"
+msgstr ""
+
+#: includes/Actions/Drip/DripController.php:169
+msgid "module, fields are required for Drip api"
+msgstr ""
+
+#: includes/Actions/Dropbox/DropboxController.php:156
+#: includes/Actions/GoogleCalendar/GoogleCalendarController.php:161
+#: includes/Actions/GoogleContacts/GoogleContactsController.php:160
+#: includes/Actions/GoogleDrive/GoogleDriveController.php:189
+msgid "Required fields not mapped."
+msgstr ""
+
+#: includes/Actions/EmailOctopus/EmailOctopusController.php:101
+msgid "fields are required for EmailOctopus api"
+msgstr ""
+
+#: includes/Actions/Flowlu/FlowluController.php:388
+msgid "module, fields are required for Flowlu api"
+msgstr ""
+
+#: includes/Actions/FluentCrm/FluentCrmController.php:40
+#: includes/Triggers/FluentCrm/FluentCrmController.php:44
+msgid "Fluent CRM Plugin is not active or not installed"
+msgstr ""
+
+#: includes/Actions/FluentCrm/FluentCrmController.php:146
+msgid "Please! Install Fluent CRM"
+msgstr ""
+
+#: includes/Actions/FluentCrm/FluentCrmController.php:168
+msgid "module, fields are required for Fluent CRM api"
+msgstr ""
+
+#: includes/Actions/FluentSupport/FluentSupportController.php:101
+#: includes/Actions/Freshdesk/FreshdeskController.php:93
+#: includes/Actions/KirimEmail/KirimEmailController.php:114
+msgid "module, fields are required for Freshdesk api"
+msgstr ""
+
+#: includes/Actions/FreshSales/FreshSalesController.php:192
+msgid "module, fields are required for FreshSales api"
+msgstr ""
+
+#: includes/Actions/GamiPress/GamiPressController.php:38
+msgid "GamiPress must be activated!"
+msgstr ""
+
+#: includes/Actions/GamiPress/GamiPressController.php:126
+msgid "module, select action are require for GamiPress api"
+msgstr ""
+
+#: includes/Actions/GetResponse/GetResponseController.php:151
+#: includes/Actions/MailBluster/MailBlusterController.php:69
+msgid "module, fields are required for GetResponse api"
+msgstr ""
+
+#: includes/Actions/GiveWp/GiveWpController.php:21
+msgid "GiveWp must be activated!"
+msgstr ""
+
+#: includes/Actions/GiveWp/GiveWpController.php:34
+msgid "module, fields are required for GiveWp api"
+msgstr ""
+
+#: includes/Actions/GoogleSheet/GoogleSheetController.php:344
+#: includes/Actions/MailPoet/MailPoetController.php:100
+msgid "module, fields are required for Google sheet api"
+msgstr ""
+
+#: includes/Actions/Gravitec/GravitecController.php:57
+msgid "module, fields are required for Gravitec api"
+msgstr ""
+
+#: includes/Actions/Groundhogg/GroundhoggController.php:95
+msgid "module, fields are required for Groundhogg api"
+msgstr ""
+
+#: includes/Actions/Groundhogg/RecordApiHelper.php:68
+#: includes/Actions/Groundhogg/RecordApiHelper.php:105
+msgid "Request parameter is empty"
+msgstr ""
+
+#: includes/Actions/Hubspot/HubspotController.php:210
+msgid "Access token, fields map are required for hubspot api"
+msgstr ""
+
+#: includes/Actions/Insightly/InsightlyController.php:260
+msgid "module, fields are required for Insightly api"
+msgstr ""
+
+#: includes/Actions/Keap/KeapController.php:147
+msgid "module, fields are required for Keap api"
+msgstr ""
+
+#: includes/Actions/Klaviyo/KlaviyoController.php:38
+#: includes/Actions/Mailercloud/MailercloudController.php:40
+#: includes/Actions/Mailercloud/MailercloudController.php:74
+#: includes/Actions/Mailercloud/MailercloudController.php:109
+#: includes/Actions/Moosend/MoosendController.php:40
+#: includes/Actions/Notion/NotionController.php:61
+#: includes/Actions/Notion/NotionController.php:91
+#: includes/Actions/Selzy/SelzyController.php:37
+#: includes/Actions/Selzy/SelzyController.php:63
+#: includes/Actions/Selzy/SelzyController.php:84
+#: includes/Actions/Vbout/VboutController.php:34
+msgid "Invalid token"
+msgstr ""
+
+#: includes/Actions/Klaviyo/KlaviyoController.php:60
+msgid "module, fields are required for Klaviyo api"
+msgstr ""
+
+#: includes/Actions/LearnDash/LearnDashController.php:42
+msgid "LearnDash must be activated!"
+msgstr ""
+
+#: includes/Actions/LearnDash/LearnDashController.php:190
+msgid "module, fields are required for LearnDash api"
+msgstr ""
+
+#: includes/Actions/Lemlist/LemlistController.php:73
+msgid "module, fields are required for Lemlist api"
+msgstr ""
+
+#: includes/Actions/LifterLms/LifterLmsController.php:22
+msgid "LifterLms must be activated!"
+msgstr ""
+
+#: includes/Actions/LifterLms/LifterLmsController.php:98
+msgid "Some important info are missing those are required for LifterLms"
+msgstr ""
+
+#: includes/Actions/LifterLms/RecordApiHelper.php:25
+#: includes/Actions/LifterLms/RecordApiHelper.php:37
+#: includes/Actions/LifterLms/RecordApiHelper.php:58
+#: includes/Actions/LifterLms/RecordApiHelper.php:71
+#: includes/Actions/LifterLms/RecordApiHelper.php:100
+#: includes/Actions/LifterLms/RecordApiHelper.php:113
+#: includes/Actions/MasterStudyLms/RecordApiHelper.php:23
+msgid "User not logged in"
+msgstr ""
+
+#: includes/Actions/LionDesk/LionDeskController.php:190
+msgid "module, fields are required for LionDesk api"
+msgstr ""
+
+#: includes/Actions/MailChimp/MailChimpController.php:235
+msgid "module, fields are required for Mail Chimp api"
+msgstr ""
+
+#: includes/Actions/Mailercloud/MailercloudController.php:151
+msgid "module, fields are required for mailercloud api"
+msgstr ""
+
+#: includes/Actions/MailerLite/MailerLiteController.php:141
+msgid "Invalid API Token"
+msgstr ""
+
+#: includes/Actions/MailerLite/MailerLiteController.php:192
+#: includes/Actions/Vbout/VboutController.php:126
+msgid "module, fields are required for MailerLite api"
+msgstr ""
+
+#: includes/Actions/Mailify/MailifyController.php:120
+msgid "module, fields are required for Mailify api"
+msgstr ""
+
+#: includes/Actions/Mailjet/MailjetController.php:85
+msgid "module, fields are required for Mailjet api"
+msgstr ""
+
+#: includes/Actions/MailMint/MailMintController.php:23
+msgid "Mail Mint must be activated!"
+msgstr ""
+
+#: includes/Actions/MailMint/MailMintController.php:76
+msgid "module, fields are required for Mail Mint api"
+msgstr ""
+
+#: includes/Actions/MailPoet/MailPoetController.php:31
+msgid "MailPoet is not activate or not installed"
+msgstr ""
+
+#: includes/Actions/MailRelay/MailRelayController.php:107
+msgid "module, fields are required for MailRelay api"
+msgstr ""
+
+#: includes/Actions/Mailup/MailupController.php:170
+msgid "module, fields are required for Mailup api"
+msgstr ""
+
+#: includes/Actions/MasterStudyLms/MasterStudyLmsController.php:24
+#: includes/Actions/MasterStudyLms/MasterStudyLmsController.php:44
+#: includes/Actions/MasterStudyLms/MasterStudyLmsController.php:54
+#: includes/Actions/MasterStudyLms/MasterStudyLmsController.php:64
+msgid "MasterStudyLms must be activated!"
+msgstr ""
+
+#: includes/Actions/MasterStudyLms/MasterStudyLmsController.php:76
+msgid "Some important info are missing those are required for MasterStudyLms"
+msgstr ""
+
+#: includes/Actions/Mautic/MauticController.php:195
+msgid "module, fields are required for mautic api"
+msgstr ""
+
+#: includes/Actions/Memberpress/MemberpressController.php:32
+#: includes/Actions/Memberpress/MemberpressController.php:66
+#: includes/Actions/Memberpress/MemberpressController.php:72
+msgid "Memberpress must be activated!"
+msgstr ""
+
+#: includes/Actions/Memberpress/MemberpressController.php:108
+msgid "module, fields are required for memberpress api"
+msgstr ""
+
+#: includes/Actions/Moosend/MoosendController.php:64
+msgid "module, fields are required for moosend api"
+msgstr ""
+
+#: includes/Actions/Notion/NotionController.php:115
+msgid "module, fields are required for notion api"
+msgstr ""
+
+#: includes/Actions/OmniSend/OmniSendController.php:63
+msgid "module, fields are required for OmniSend api"
+msgstr ""
+
+#: includes/Actions/PaidMembershipPro/PaidMembershipProController.php:21
+msgid "Paid Membership must be activated!"
+msgstr ""
+
+#: includes/Actions/PaidMembershipPro/PaidMembershipProController.php:56
+msgid "module, There is an some error."
+msgstr ""
+
+#: includes/Actions/PCloud/PCloudController.php:81
+msgid "Required fields not mapped"
+msgstr ""
+
+#: includes/Actions/PipeDrive/PipeDriveController.php:164
+msgid "module, fields are required for PipeDrive api"
+msgstr ""
+
+#: includes/Actions/PropovoiceCRM/PropovoiceCRMController.php:25
+msgid "Propovoice CRM must be activated!"
+msgstr ""
+
+#: includes/Actions/PropovoiceCRM/PropovoiceCRMController.php:56
+msgid "module, fields are required for Propovoice CRM"
+msgstr ""
+
+#: includes/Actions/Rapidmail/RapidmailController.php:154
+msgid "username, password, fields are required for rapidmail api"
+msgstr ""
+
+#: includes/Actions/Rapidmail/RapidmailController.php:159
+msgid "Recipient List are required for rapidmail api"
+msgstr ""
+
+#: includes/Actions/RestrictContent/RecordApiHelper.php:56
+msgid "You must have at least one active membership level."
+msgstr ""
+
+#: includes/Actions/RestrictContent/RestrictContentController.php:41
+msgid "Restrict Content must be activated!"
+msgstr ""
+
+#: includes/Actions/RestrictContent/RestrictContentController.php:68
+msgid "field map are required for restrict content"
+msgstr ""
+
+#: includes/Actions/Salesforce/SalesforceController.php:274
+#: includes/Actions/ZohoDesk/ZohoDeskController.php:466
+msgid "list are required for zoho desk api"
+msgstr ""
+
+#: includes/Actions/Salesmate/SalesmateController.php:274
+msgid "module, fields are required for Salesmate api"
+msgstr ""
+
+#: includes/Actions/Selzy/SelzyController.php:123
+msgid "module, fields are required for Selzy api"
+msgstr ""
+
+#: includes/Actions/SendFox/SendFoxController.php:87
+msgid "module, fields are required for SendFox api"
+msgstr ""
+
+#: includes/Actions/SendGrid/SendGridController.php:82
+msgid "module, fields are required for SendGrid api"
+msgstr ""
+
+#: includes/Actions/SendPulse/SendPulseController.php:185
+msgid "module, fields are required for SendPulse api"
+msgstr ""
+
+#: includes/Actions/Sendy/SendyController.php:138
+msgid "api key, fields map are required for sendy api"
+msgstr ""
+
+#: includes/Actions/Slack/SlackController.php:73
+msgid "module, fields are required for Slack api"
+msgstr ""
+
+#: includes/Actions/SliceWp/SliceWpController.php:21
+msgid "SliceWp affiliate must be activated!"
+msgstr ""
+
+#: includes/Actions/SliceWp/SliceWpController.php:35
+msgid "module, fields are required for sliceWp affiliate api"
+msgstr ""
+
+#: includes/Actions/Smaily/SmailyController.php:47
+msgid "fields are required for Smaily api"
+msgstr ""
+
+#: includes/Actions/SuiteDash/SuiteDashController.php:138
+msgid "module, fields are required for SuiteDash api"
+msgstr ""
+
+#: includes/Actions/SureCart/SureCartController.php:76
+msgid "module, fields are required for sureCart"
+msgstr ""
+
+#: includes/Actions/Telegram/TelegramController.php:131
+msgid "module, fields are required for Telegram api"
+msgstr ""
+
+#: includes/Actions/Trello/TrelloController.php:123
+msgid "module, fields are required for Trello api"
+msgstr ""
+
+#: includes/Actions/TutorLms/TutorLmsController.php:30
+msgid "Tutor LMS must be activated!"
+msgstr ""
+
+#: includes/Actions/TutorLms/TutorLmsController.php:36
+#: includes/Actions/TutorLms/TutorLmsController.php:60
+#: includes/Triggers/TutorLms/TutorLmsController.php:35
+#: includes/Triggers/TutorLms/TutorLmsController.php:52
+msgid "Tutor LMS is not installed or activated"
+msgstr ""
+
+#: includes/Actions/Twilio/TwilioController.php:76
+msgid "SID, Auth Token,From Number and mapping fields are required for rapidmail api"
+msgstr ""
+
+#: includes/Actions/WebHooks/WebHooksController.php:27
+msgid "webhook executed succcessfully"
+msgstr ""
+
+#: includes/Actions/WhatsApp/WhatsAppController.php:119
+msgid "module, fields are required for WhatsApp api"
+msgstr ""
+
+#: includes/Actions/WishList/WishListController.php:137
+msgid "baseUrl, apiKey, fields are required for Wish List API"
+msgstr ""
+
+#: includes/Actions/WishList/WishListController.php:142
+msgid "level List are required for Wish List API"
+msgstr ""
+
+#: includes/Actions/WooCommerce/RecordApiHelper.php:35
+#: includes/Actions/WooCommerce/RecordApiHelper.php:82
+#: includes/Actions/WooCommerce/RecordApiHelper.php:249
+#: includes/Actions/WooCommerce/RecordApiHelper.php:419
+msgid "%s is required for woocommerce %s"
+msgstr ""
+
+#: includes/Actions/WooCommerce/RecordApiHelper.php:105
+#: includes/Actions/WooCommerce/RecordApiHelper.php:143
+msgid "Order %s not found"
+msgstr ""
+
+#: includes/Actions/WooCommerce/RecordApiHelper.php:123
+msgid "%s is not valid order id"
+msgstr ""
+
+#: includes/Actions/WooCommerce/RecordApiHelper.php:433
+#: includes/Actions/WooCommerce/RecordApiHelper.php:469
+#: includes/Actions/WooCommerce/RecordApiHelper.php:507
+msgid "%s is not valid product sku"
+msgstr ""
+
+#: includes/Actions/WooCommerce/WooCommerceController.php:29
+msgid "WooCommerce must be activated!"
+msgstr ""
+
+#: includes/Actions/WooCommerce/WooCommerceController.php:812
+msgid "module and field map are required for woocommerce"
+msgstr ""
+
+#: includes/Actions/WPCourseware/WPCoursewareController.php:31
+#: includes/Actions/WPCourseware/WPCoursewareController.php:40
+#: includes/Actions/WPCourseware/WPCoursewareController.php:58
+msgid "WP Courseware Plugin is not active or installed"
+msgstr ""
+
+#: includes/Actions/WPCourseware/WPCoursewareController.php:93
+msgid "Action, Course are required for WP Courseware api"
+msgstr ""
+
+#: includes/Actions/Zendesk/ZendeskController.php:319
+msgid "module, fields are required for Zendesk api"
+msgstr ""
+
+#: includes/Actions/ZohoAnalytics/ZohoAnalyticsController.php:364
+msgid "workspace, table, fields are required for zoho analytics api"
+msgstr ""
+
+#: includes/Actions/ZohoBigin/RecordApiHelper.php:58
+msgid "%s is required for zoho bigin, %s module"
+msgstr ""
+
+#: includes/Actions/ZohoBigin/ZohoBiginController.php:465
+msgid "module, fields are required for zoho bigin api"
+msgstr ""
+
+#: includes/Actions/ZohoCampaigns/RecordApiHelper.php:48
+msgid "%s is required for zoho campaigns"
+msgstr ""
+
+#: includes/Actions/ZohoCampaigns/ZohoCampaignsController.php:279
+msgid "list are required for zoho campaigns api"
+msgstr ""
+
+#: includes/Actions/ZohoCreator/RecordApiHelper.php:116
+msgid "%s is required for zoho creator"
+msgstr ""
+
+#: includes/Actions/ZohoCreator/ZohoCreatorController.php:367
+msgid "tokenDetails error"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/RecordApiHelper.php:67
+msgid "%s is required for zoho crm, %s module"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/RecordApiHelper.php:79
+msgid "zoho crm field %s's maximum length is %s, Given %s"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:383
+msgid "Assignment rules is empty"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:432
+msgid "RelatedList is empty"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:544
+msgid "Tag is empty"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:562
+msgid "module, layout are required for zoho crm relatedlist"
+msgstr ""
+
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:648
+#: includes/Actions/ZohoCRM/ZohoCRMController.php:653
+msgid "module, layout, fields are required for zoho crm api"
+msgstr ""
+
+#: includes/Actions/ZohoDesk/RecordApiHelper.php:68
+msgid "%s is required for zoho bigin"
+msgstr ""
+
+#: includes/Actions/ZohoMarketingHub/RecordApiHelper.php:50
+msgid "%s is required for zoho marketing hub"
+msgstr ""
+
+#: includes/Actions/ZohoMarketingHub/ZohoMarketingHubController.php:276
+msgid "list are required for zoho marketingHub api"
+msgstr ""
+
+#: includes/Actions/ZohoProjects/RecordApiHelper.php:181
+msgid "%s is required for %s"
+msgstr ""
+
+#: includes/Actions/ZohoProjects/ZohoProjectsController.php:954
+msgid "list are required for zoho projects api"
+msgstr ""
+
+#: includes/Actions/ZohoRecruit/RecordApiHelper.php:56
+msgid "%s is required for zoho recruit, %s module"
+msgstr ""
+
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:484
+#: includes/Actions/ZohoRecruit/ZohoRecruitController.php:487
+msgid "module, fields are required for zoho recruit api"
+msgstr ""
+
+#: includes/Actions/ZohoSheet/ZohoSheetController.php:209
+msgid "Field map, token details are required for ZohoSheet api"
+msgstr ""
+
+#: includes/Actions/Zoom/ZoomController.php:169
+#: includes/Actions/ZoomWebinar/ZoomWebinarController.php:142
+msgid "module, fields are required for Zoom api"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:18
+msgid "Data can't be empty"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:22
+msgid "save successfully done"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:39
+msgid "Integrations for WordPress Forms"
+msgstr ""
+
+#: includes/Core/Database/Model.php:39
+msgid "Form data is empty"
+msgstr ""
+
+#: includes/Core/Database/Model.php:136
+#: includes/Core/Database/Model.php:447
+msgid "Result is empty"
+msgstr ""
+
+#: includes/Core/Database/Model.php:160
+#: includes/Core/Database/Model.php:191
+msgid "Nothing to update"
+msgstr ""
+
+#: includes/Core/Database/Model.php:242
+msgid "Nothing to duplicate"
+msgstr ""
+
+#: includes/Core/Database/Model.php:285
+#: includes/Core/Database/Model.php:308
+#: includes/Core/Database/Model.php:328
+#: includes/Core/Database/Model.php:339
+msgid "At least 1 condition needed"
+msgstr ""
+
+#: includes/Core/Database/Model.php:425
+msgid "prepared query is empty"
+msgstr ""
+
+#: includes/Core/Util/Route.php:76
+msgid "Token expired or invalid. Please refresh the page and try again."
+msgstr ""
+
+#: includes/Flow/Flow.php:120
+#: includes/Flow/Flow.php:179
+#: includes/Flow/Flow.php:213
+#: includes/Flow/Flow.php:250
+#: includes/Triggers/CF7/CF7Controller.php:57
+#: includes/Triggers/JetEngine/JetEngineController.php:61
+#: includes/Triggers/MetaBox/MetaBoxController.php:93
+#: includes/Triggers/Post/PostController.php:72
+msgid "%s can't be empty"
+msgstr ""
+
+#: includes/Flow/Flow.php:202
+msgid "Integration saved successfully"
+msgstr ""
+
+#: includes/Flow/Flow.php:236
+msgid "Flow ID is not exists"
+msgstr ""
+
+#: includes/Flow/Flow.php:271
+msgid "Integration updated successfully"
+msgstr ""
+
+#: includes/Flow/Flow.php:281
+#: includes/Flow/Flow.php:294
+#: includes/Flow/Flow.php:316
+msgid "%s cann't be empty"
+msgstr ""
+
+#: includes/Flow/Flow.php:288
+#: includes/Flow/Flow.php:303
+msgid "Integration deleted successfully"
+msgstr ""
+
+#: includes/Flow/Flow.php:323
+msgid "Status changed successfully"
+msgstr ""
+
+#: includes/Flow/Flow.php:407
+msgid "Conditional Logic not matched"
+msgstr ""
+
+#: includes/Log/LogHandler.php:86
+msgid "Log deleted successfully"
+msgstr ""
+
+#: includes/Plugin.php:83
+msgid "Docs"
+msgstr ""
+
+#: includes/Triggers/Affiliate/AffiliateController.php:44
+#: includes/Triggers/Affiliate/AffiliateController.php:62
+msgid "AffiliateWP is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Affiliate/AffiliateController.php:65
+#: includes/Triggers/ARMember/ARMemberController.php:73
+#: includes/Triggers/BuddyBoss/BuddyBossController.php:86
+#: includes/Triggers/EDD/EDDController.php:69
+#: includes/Triggers/GamiPress/GamiPressController.php:69
+#: includes/Triggers/GiveWp/GiveWpController.php:64
+#: includes/Triggers/LearnDash/LearnDashController.php:253
+#: includes/Triggers/LifterLms/LifterLmsController.php:73
+#: includes/Triggers/MasterStudyLms/MasterStudyLmsController.php:70
+#: includes/Triggers/Memberpress/MemberpressController.php:65
+#: includes/Triggers/PaidMembershipPro/PaidMembershipProController.php:64
+#: includes/Triggers/Rafflepress/RafflepressController.php:66
+#: includes/Triggers/RestrictContent/RestrictContentController.php:68
+#: includes/Triggers/SliceWp/SliceWpController.php:64
+#: includes/Triggers/SolidAffiliate/SolidAffiliateController.php:65
+#: includes/Triggers/SureCart/SureCartController.php:65
+#: includes/Triggers/ThriveApprentice/ThriveApprenticeController.php:69
+#: includes/Triggers/TutorLms/TutorLmsController.php:55
+#: includes/Triggers/UltimateMember/UltimateMemberController.php:72
+msgid "Trigger type doesn't exists"
+msgstr ""
+
+#: includes/Triggers/Affiliate/AffiliateController.php:70
+#: includes/Triggers/ARMember/ARMemberController.php:78
+#: includes/Triggers/BuddyBoss/BuddyBossController.php:91
+#: includes/Triggers/EDD/EDDController.php:74
+#: includes/Triggers/FluentCrm/FluentCrmController.php:75
+#: includes/Triggers/GamiPress/GamiPressController.php:74
+#: includes/Triggers/GiveWp/GiveWpController.php:69
+#: includes/Triggers/LearnDash/LearnDashController.php:258
+#: includes/Triggers/LifterLms/LifterLmsController.php:78
+#: includes/Triggers/MasterStudyLms/MasterStudyLmsController.php:75
+#: includes/Triggers/Memberpress/MemberpressController.php:70
+#: includes/Triggers/PaidMembershipPro/PaidMembershipProController.php:69
+#: includes/Triggers/Rafflepress/RafflepressController.php:71
+#: includes/Triggers/RestrictContent/RestrictContentController.php:73
+#: includes/Triggers/SliceWp/SliceWpController.php:69
+#: includes/Triggers/SolidAffiliate/SolidAffiliateController.php:70
+#: includes/Triggers/SureCart/SureCartController.php:70
+#: includes/Triggers/ThriveApprentice/ThriveApprenticeController.php:74
+#: includes/Triggers/TutorLms/TutorLmsController.php:60
+#: includes/Triggers/UltimateMember/UltimateMemberController.php:77
+msgid "Trigger doesn't exists any field"
+msgstr ""
+
+#: includes/Triggers/ARForm/ARFormController.php:42
+msgid "AR form is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/ARForm/ARFormController.php:62
+msgid "ARForms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/ARForm/ARFormController.php:65
+#: includes/Triggers/Beaver/BeaverController.php:120
+#: includes/Triggers/Breakdance/BreakdanceController.php:121
+#: includes/Triggers/Bricks/BricksController.php:110
+#: includes/Triggers/Brizy/BrizyController.php:104
+#: includes/Triggers/CartFlow/CartFlowController.php:90
+#: includes/Triggers/Divi/DiviController.php:119
+#: includes/Triggers/Elementor/ElementorController.php:64
+#: includes/Triggers/FF/FFController.php:65
+#: includes/Triggers/FormCraft/FormCraftController.php:69
+#: includes/Triggers/Formidable/FormidableController.php:57
+#: includes/Triggers/Forminator/ForminatorController.php:61
+#: includes/Triggers/Happy/HappyController.php:60
+#: includes/Triggers/Kadence/KadenceController.php:94
+#: includes/Triggers/Met/MetController.php:83
+#: includes/Triggers/PiotnetAddon/PiotnetAddonController.php:105
+#: includes/Triggers/PiotnetAddonForm/PiotnetAddonFormController.php:92
+#: includes/Triggers/PiotnetForms/PiotnetFormsController.php:118
+#: includes/Triggers/StudioCart/StudioCartController.php:89
+#: includes/Triggers/Themify/ThemifyController.php:84
+#: includes/Triggers/Tripetto/TripettoController.php:69
+#: includes/Triggers/WeForms/WeFormsController.php:61
+#: includes/Triggers/WPCourseware/WPCoursewareController.php:189
+#: includes/Triggers/WPF/WPFController.php:71
+#: includes/Triggers/WSForm/WSFormController.php:112
+msgid "Form doesn't exists"
+msgstr ""
+
+#: includes/Triggers/ARForm/ARFormController.php:69
+#: includes/Triggers/Beaver/BeaverController.php:123
+#: includes/Triggers/Breakdance/BreakdanceController.php:126
+#: includes/Triggers/Bricks/BricksController.php:115
+#: includes/Triggers/Brizy/BrizyController.php:109
+#: includes/Triggers/CartFlow/CartFlowController.php:95
+#: includes/Triggers/CF7/CF7Controller.php:60
+#: includes/Triggers/Divi/DiviController.php:124
+#: includes/Triggers/Elementor/ElementorController.php:69
+#: includes/Triggers/EVF/EVFController.php:67
+#: includes/Triggers/FF/FFController.php:69
+#: includes/Triggers/FormCraft/FormCraftController.php:75
+#: includes/Triggers/Formidable/FormidableController.php:71
+#: includes/Triggers/Forminator/ForminatorController.php:67
+#: includes/Triggers/GF/GFController.php:62
+#: includes/Triggers/Happy/HappyController.php:64
+#: includes/Triggers/Kadence/KadenceController.php:100
+#: includes/Triggers/Met/MetController.php:89
+#: includes/Triggers/NF/NFController.php:56
+#: includes/Triggers/PiotnetAddon/PiotnetAddonController.php:110
+#: includes/Triggers/PiotnetAddonForm/PiotnetAddonFormController.php:97
+#: includes/Triggers/PiotnetForms/PiotnetFormsController.php:122
+#: includes/Triggers/StudioCart/StudioCartController.php:93
+#: includes/Triggers/Themify/ThemifyController.php:89
+#: includes/Triggers/Tripetto/TripettoController.php:73
+#: includes/Triggers/WeForms/WeFormsController.php:67
+#: includes/Triggers/WPCourseware/WPCoursewareController.php:193
+#: includes/Triggers/WPEF/WPEFController.php:73
+#: includes/Triggers/WPF/WPFController.php:75
+#: includes/Triggers/WSForm/WSFormController.php:116
+msgid "Form doesn't exists any field"
+msgstr ""
+
+#: includes/Triggers/ARMember/ARMemberController.php:45
+#: includes/Triggers/ARMember/ARMemberController.php:70
+msgid "ARMember is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Beaver/BeaverController.php:93
+#: includes/Triggers/Beaver/BeaverController.php:119
+msgid "Beaver Builder is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Breakdance/BreakdanceController.php:94
+#: includes/Triggers/Breakdance/BreakdanceController.php:118
+msgid "Breakdance is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Bricks/BricksController.php:29
+msgid "Select <b>\"Custom\"</b> as a form submit actions from your Bricks Builder sidebar."
+msgstr ""
+
+#: includes/Triggers/Bricks/BricksController.php:78
+#: includes/Triggers/Bricks/BricksController.php:107
+msgid "Bricks is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Brizy/BrizyController.php:76
+#: includes/Triggers/Brizy/BrizyController.php:101
+msgid "Brizy Pro is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/BuddyBoss/BuddyBossController.php:48
+#: includes/Triggers/BuddyBoss/BuddyBossController.php:83
+msgid "BuddyBoss is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/CartFlow/CartFlowController.php:66
+msgid "CartFlows is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/CartFlow/CartFlowController.php:87
+msgid "CartFlow is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/CF7/CF7Controller.php:37
+msgid "Contact Form 7 is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/CustomTrigger/CustomTriggerController.php:24
+msgid "Failed to generate new hook id"
+msgstr ""
+
+#: includes/Triggers/CustomTrigger/CustomTriggerController.php:37
+#: includes/Triggers/CustomTrigger/CustomTriggerController.php:70
+#: includes/Triggers/Webhook/WebhookController.php:51
+#: includes/Triggers/Webhook/WebhookController.php:72
+msgid "%s can't be empty or need to be valid"
+msgstr ""
+
+#: includes/Triggers/CustomTrigger/CustomTriggerController.php:45
+msgid "Custom trigger data is empty"
+msgstr ""
+
+#: includes/Triggers/CustomTrigger/CustomTriggerController.php:79
+#: includes/Triggers/Webhook/WebhookController.php:81
+msgid "Failed to remove test data"
+msgstr ""
+
+#: includes/Triggers/CustomTrigger/CustomTriggerController.php:81
+#: includes/Triggers/Webhook/WebhookController.php:83
+msgid "Webhook test data removed successfully"
+msgstr ""
+
+#: includes/Triggers/Divi/DiviController.php:89
+#: includes/Triggers/Divi/DiviController.php:116
+msgid "Divi is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/EDD/EDDController.php:44
+#: includes/Triggers/EDD/EDDController.php:66
+msgid "Easy Digital Downloads is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Elementor/ElementorController.php:44
+#: includes/Triggers/Elementor/ElementorController.php:61
+msgid "Elementor Pro is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/EVF/EVFController.php:54
+#: includes/Triggers/EVF/EVFController.php:62
+msgid "Everest Forms  is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/FF/FFController.php:37
+msgid "Fluent Form is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/FormCraft/FormCraftController.php:35
+#: includes/Triggers/FormCraft/FormCraftController.php:66
+msgid "FormCraft3 is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Formidable/FormidableController.php:36
+#: includes/Triggers/Formidable/FormidableController.php:54
+msgid "Formidable is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Forminator/ForminatorController.php:37
+#: includes/Triggers/Forminator/ForminatorController.php:58
+msgid "Forminator is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/GamiPress/GamiPressController.php:43
+#: includes/Triggers/GamiPress/GamiPressController.php:66
+msgid "GamiPress is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/GF/GFController.php:40
+#: includes/Triggers/GF/GFController.php:58
+msgid "Gravity Forms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/GiveWp/GiveWpController.php:43
+#: includes/Triggers/GiveWp/GiveWpController.php:61
+msgid "GiveWp is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Groundhogg/GroundhoggController.php:104
+#: includes/Triggers/Groundhogg/GroundhoggController.php:121
+msgid "Groundhogg is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Groundhogg/GroundhoggController.php:124
+#: includes/Triggers/WC/WCController.php:56
+msgid " Doesn't exists"
+msgstr ""
+
+#: includes/Triggers/Groundhogg/GroundhoggController.php:148
+#: includes/Triggers/WC/WCController.php:60
+msgid "Doesn't exists any field"
+msgstr ""
+
+#: includes/Triggers/Happy/HappyController.php:37
+#: includes/Triggers/Happy/HappyController.php:57
+msgid "Happy Form is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/JetEngine/JetEngineController.php:74
+#: includes/Triggers/Post/PostController.php:90
+msgid "Form fields doesn't exists"
+msgstr ""
+
+#: includes/Triggers/Kadence/KadenceController.php:53
+#: includes/Triggers/Kadence/KadenceController.php:91
+msgid "Kadence Blocks is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/LearnDash/LearnDashController.php:49
+#: includes/Triggers/LearnDash/LearnDashController.php:250
+msgid "LearnDash LMS is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/LifterLms/LifterLmsController.php:43
+msgid "LifterLMS is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/LifterLms/LifterLmsController.php:70
+#: includes/Triggers/LifterLms/LifterLmsController.php:112
+#: includes/Triggers/LifterLms/LifterLmsController.php:124
+#: includes/Triggers/LifterLms/LifterLmsController.php:136
+#: includes/Triggers/LifterLms/LifterLmsController.php:148
+msgid "LifterLms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/MasterStudyLms/MasterStudyLmsController.php:43
+#: includes/Triggers/MasterStudyLms/MasterStudyLmsController.php:67
+msgid "MasterStudy Lms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/MasterStudyLms/MasterStudyLmsController.php:99
+msgid "No quiz Found"
+msgstr ""
+
+#: includes/Triggers/Memberpress/MemberpressController.php:44
+#: includes/Triggers/Memberpress/MemberpressController.php:62
+msgid "Memberpress is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Met/MetController.php:59
+msgid "Metform is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Met/MetController.php:80
+msgid "Met Form is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/MetaBox/MetaBoxController.php:36
+msgid "Meta Box is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/MetaBox/MetaBoxController.php:39
+msgid "MB Frontend Submission is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/MetaBox/MetaBoxController.php:96
+msgid "Metabox doesn't exists any Field Group"
+msgstr ""
+
+#: includes/Triggers/NF/NFController.php:51
+msgid "Ninja Forms  is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/PaidMembershipPro/PaidMembershipProController.php:43
+#: includes/Triggers/PaidMembershipPro/PaidMembershipProController.php:61
+msgid "Paid Membership Pro is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/PiotnetAddon/PiotnetAddonController.php:68
+#: includes/Triggers/PiotnetAddon/PiotnetAddonController.php:101
+#: includes/Triggers/PiotnetAddonForm/PiotnetAddonFormController.php:67
+#: includes/Triggers/PiotnetAddonForm/PiotnetAddonFormController.php:88
+msgid "Piotnet Addon is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/PiotnetForms/PiotnetFormsController.php:94
+#: includes/Triggers/PiotnetForms/PiotnetFormsController.php:114
+msgid "Piotnet Forms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Rafflepress/RafflepressController.php:45
+#: includes/Triggers/Rafflepress/RafflepressController.php:63
+msgid "Rafflepress is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/RestrictContent/RestrictContentController.php:46
+#: includes/Triggers/RestrictContent/RestrictContentController.php:65
+#: includes/Triggers/RestrictContent/RestrictContentController.php:141
+msgid "Restrict Content is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/SliceWp/SliceWpController.php:43
+#: includes/Triggers/SliceWp/SliceWpController.php:61
+msgid "SliceWp affiliate is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/SolidAffiliate/SolidAffiliateController.php:44
+msgid "Solid Affiliate is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/SolidAffiliate/SolidAffiliateController.php:62
+msgid "Solid affiliate is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/StudioCart/StudioCartController.php:70
+#: includes/Triggers/StudioCart/StudioCartController.php:86
+msgid "Studiocart is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/SureCart/SureCartController.php:44
+#: includes/Triggers/SureCart/SureCartController.php:62
+#: includes/Triggers/SureCart/SureCartController.php:125
+msgid "SureCart is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Themify/ThemifyController.php:51
+#: includes/Triggers/Themify/ThemifyController.php:81
+msgid "Themify is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/ThriveApprentice/ThriveApprenticeController.php:44
+#: includes/Triggers/ThriveApprentice/ThriveApprenticeController.php:66
+msgid "Thrive Apprentice is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Tripetto/TripettoController.php:46
+#: includes/Triggers/Tripetto/TripettoController.php:66
+msgid "Tripetto is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/UltimateMember/UltimateMemberController.php:44
+#: includes/Triggers/UltimateMember/UltimateMemberController.php:69
+msgid "Ultimate Member is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/WC/WCController.php:36
+#: includes/Triggers/WC/WCController.php:53
+msgid "WooCommerce is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/Webhook/WebhookController.php:37
+msgid "Failed to generate new hook"
+msgstr ""
+
+#: includes/Triggers/Webhook/WebhookController.php:59
+msgid "Webhook data is empty"
+msgstr ""
+
+#: includes/Triggers/WeForms/WeFormsController.php:37
+#: includes/Triggers/WeForms/WeFormsController.php:58
+msgid "WeForms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/WPCourseware/WPCoursewareController.php:170
+#: includes/Triggers/WPCourseware/WPCoursewareController.php:186
+msgid "WP Courseware is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/WPEF/WPEFController.php:48
+#: includes/Triggers/WPEF/WPEFController.php:68
+msgid "eForm  is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/WPF/WPFController.php:51
+#: includes/Triggers/WPF/WPFController.php:68
+msgid "WPForms is not installed or activated"
+msgstr ""
+
+#: includes/Triggers/WSForm/WSFormController.php:89
+#: includes/Triggers/WSForm/WSFormController.php:109
+msgid "WS Form Pro is not installed or activated"
+msgstr ""
+
+#: views/license/status.php:266
+msgid "Bit Integrations Pro License will expire in %s days"
+msgstr ""
+
+#: views/license/status.php:267
+msgid "Bit Integrations Pro License is expired"
+msgstr ""
